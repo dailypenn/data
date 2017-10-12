@@ -628,7 +628,7 @@ date,time,address,offense,description,lat,lng
 05/05/17,10:35 AM,3850 Spruce St,Harassment,Unwanted phone call received,39.9510544,-75.199918
 08/24/17,10:31 PM,3700 Spruce St,Harassment,Harassing phone calls received,39.9508969,-75.1973016
 2/24/2017,9:40 AM,3601 Market St,Harassment,Inappropriate text received,39.9566747,-75.194401
-09/21/17,5:33 PM,3926 Delancey,Indecent exposure,39.9509673,-75.2020974
+09/21/17,5:33 PM,3926 Delancey,Indecent exposure,,39.9509673,-75.2020974
 08/28/16,6:05 PM,4000 Spruce St,Liquor Law,Male cited for underage drinking,39.9514918,-75.2032097
 10/21/16,2:50 AM,3700 Spruce St,Liquor Law,Citation issued for underage drinking,39.9508969,-75.1973016
 10/29/16,9:41 PM,4000 Walnut St,Liquor Law,Male cited for underage drinking,39.9540855,-75.202628
@@ -810,9 +810,9 @@ date,time,address,offense,description,lat,lng
 05/18/16,6:14 PM,4100 Ludlow St,Other Offense,Male wanted on warrant/Arrest,39.9565131,-75.2044319
 08/27/17,12:26 PM,200 S 38th St,Other offense,Male wanted on warrant/Arrest,39.9536208,-75.1987759
 10/05/16,2:22 PM,3450 Woodland Walk,Other Offense,Complainant verbally harassed,39.9525062,-75.1927688
-06/19/17,4:00 PM,3900 Spruce St,Rape,39.951206,-75.2009658
-08/16/17,6:58 PM,3401 Spruce St,Rape,39.9499701,-75.1930036
-8/12/17,4:06 PM,4600 Baltimore Ave,Rape,39.9486496,-75.2149722
+06/19/17,4:00 PM,3900 Spruce St,Rape,,39.951206,-75.2009658
+08/16/17,6:58 PM,3401 Spruce St,Rape,,39.9499701,-75.1930036
+8/12/17,4:06 PM,4600 Baltimore Ave,Rape,,39.9486496,-75.2149722
 09/02/2016,1:36 AM,4000 Delancey St,Robbery,Cell phone currency and watch taken/2 Arrests,39.9512717,-75.2039563
 07/08/16,1:00 PM,120 S 36th St,Robbery,Employee pushed as male took merchandise without payment,39.9538992,-75.1949913
 09/18/16,6:39 PM,3400 Spruce St,Robbery,Offenders attempted to take cell phone,39.9500798,-75.1939906
@@ -834,7 +834,7 @@ no date,12:04 AM,200 S 41st St,Robbery/arrest,,39.9540508,-75.2054021
 07/07/16,7:22 PM,4006 Chestnut St,Robbery,Wallet taken/Arrest,39.9554089,-75.2026851
 07/22/16,11:40 PM,300 S 43rd St,Robbery,Purse taken by unknown male,39.9524927,-75.2092819
 07/08/16,1:00 PM,120 S 36th St,Robbery,Employee pushed as male took merchandise without payment,39.9538992,-75.1949913
-06/01/17,9:07 PM,44th & Ludlow Sts,Robbery,,35.4202191,-97.0950556
+06/01/17,9:07 PM,44th & Ludlow Sts,Robbery,,39.9573093,-75.2117581
 07/08/16,8:11 PM,200 S 40th St,Robbery,Unknown female attempted to rob complainant,39.9534235,-75.2032788
 no date,7:55 PM,45th & Springfield Ave,Robbery/ Arrest,,39.9488055,-75.214766
 07/20/16,4:44 AM,3400 Market St,Robbery,Complainant assaulted and cell phone taken/Arrest,39.95558,-75.193029
@@ -887,7 +887,7 @@ no date,8:20 PM,45th & Spruce Sts,Robbery/ Arrest,,39.9528811,-75.2143613
 4/13/2017,9:38 AM,4200 Spruce St,Robbery,Male attempted to take complainant's backpack,39.9519876,-75.2072057
 06/01/17,6:52 PM,3813 Chestnut St,Robbery/arrest,,39.9553957,-75.1986337
 05/31/17,10:09 PM,4501 Spruce St,Robbery,,39.9531599,-75.212284
-06/01/17,9:07 PM,44th & Ludlow Sts,Robbery,,35.4202191,-97.0950556
+06/01/17,9:07 PM,44th & Ludlow Sts,Robbery,,39.9573093,-75.2117581
 06/23/17,12:51 AM,4200 Spruce Street,Robbery,,39.9519876,-75.2072057
 06/02/17,12:04 AM,200 S 41st St,Robbery/arrest,,39.9540508,-75.2054021
 09/06/17,8:20 PM,45th & Spruce Sts,Robbery/ Arrest,,39.9528811,-75.2143613
@@ -938,7 +938,7 @@ no date,8:20 PM,45th & Spruce Sts,Robbery/ Arrest,,39.9528811,-75.2143613
 09/06/17,8:20 PM,45th & Spruce Sts,Robbery/ Arrest,,39.9528811,-75.2143613
 no date,11:07 AM,3600 Ludlow St,Robbery,Cell phone taken by known person,39.9554214,-75.1943387
 09/07/17,2:54 PM,4500 Chester Ave,Robbery,,39.9475276,-75.2112805
-no date,9:07 PM,44th & Ludlow Sts,Robbery,,35.4202191,-97.0950556
+no date,9:07 PM,44th & Ludlow Sts,Robbery,,39.9573093,-75.2117581
 09/07/17,9:13 PM,4704 Chester Ave,Robbery/ Arrest,,39.9455516,-75.2140402
 no date,7:47 PM,4200 Ludlow St,Robbery,,39.9567292,-75.2065027
 09/07/17,9:14 PM,46th & Regent Sts,Robbery/ Arrest,,39.9463541,-75.2142319
@@ -1846,7 +1846,7 @@ no date,7:47 PM,4200 Ludlow St,Robbery,,39.9567292,-75.2065027
 02/02/17,1:28 PM,433 University Ave,Theft,Wristwatch taken,39.9487043,-75.1987247
 4/19/17,11:15 PM,4200 Osage Ave,Theft,GPS taken by unknown male,39.9504934,-75.207232
 06/10/16,5:50 PM,4508 Chestnut St,Theft,Bottle of pills taken without authorization,39.9566396,-75.2125932
-05/26/16,9:33 AM,650 Hollenback Dr,Theft,Items taken from press box,0.0,0.0
+05/26/16,9:33 AM,650 Hollenback Dr,Theft,Items taken from press box,39.9475333,-75.1906977
 05/06/16,8:21 AM,51 N 39th St,Theft,Merchandise taken by unknown person without payment,39.9582917,-75.1990771
 01/11/2017,10:12 PM,3910 Irving St,Theft,Wallet taken from office,39.9518512,-75.2011037
 05/06/16,1:45 PM,51 N 39th St,Theft,Backpack and contents taken while unattended,39.9582917,-75.1990771
@@ -1896,19 +1896,11 @@ no date,7:47 PM,4200 Ludlow St,Robbery,,39.9567292,-75.2065027
 4/12/2017,10:10 AM,3817 Spruce St,Arson,Poster set on fire,39.9515262,-75.1999084
 09/07/16,12:35 PM,3409 Walnut St,Traffic,Female wanted for scofflaw/Arrest,39.9531096,-75.1927269
 09/21/16,8:05 AM,51 N 39th St,Traffic,Female wanted for scofflaw/Arrest,39.9582917,-75.1990771
-09/21/16,8:05 AM,51 N 39th St,Traffic,Female wanted for scofflaw/Arrest,39.9582917,-75.1990771
-09/07/16,12:35 PM,3409 Walnut St,Traffic,Female wanted for scofflaw/Arrest,39.9531096,-75.1927269
 06/07/16,3:20 PM,4006 Market St,Traffic,Male wanted on warrant/Arrest,39.9569263,-75.2023769
 06/29/16,1:55 PM,3600 Walnut St,Traffic,Male wanted on scofflaw/Arrest,39.952441,-75.19681
-06/29/16,1:55 PM,3600 Walnut St,Traffic,Male wanted on scofflaw/Arrest,39.952441,-75.19681
-06/07/16,3:20 PM,4006 Market St,Traffic,Male wanted on warrant/Arrest,39.9569263,-75.2023769
 08/12/16,1:18 PM,3800 Sansom St,Traffic,Male wanted on scofflaw/Arrest,39.954399,-75.1986399
-08/12/16,1:18 PM,3800 Sansom St,Traffic,Male wanted on scofflaw/Arrest,39.954399,-75.1986399
-10/18/16,12:28 PM,University Blvd & Civic Blvd,Traffic,Male wanted on scofflaw/Arrest,28.597313,-81.2559516
-10/18/16,12:28 PM,University Blvd & Civic Blvd,Traffic,Male wanted on scofflaw/Arrest,28.597313,-81.2559516
+10/18/16,12:28 PM,University Blvd & Civic Blvd,Traffic,Male wanted on scofflaw/Arrest,39.946141,-75.2005857
 11/18/16,11:39 AM,Schuylkill Market,Traffic,Male wanted on scofflaw/Arrest,39.9521946,-75.1806532
-11/18/16,11:39 AM,Schuylkill Market,Traffic,Male wanted on scofflaw/Arrest,39.9521946,-75.1806532
-01/06/17,8:08 AM,4200 Pine St,Traffic,Man wanted on scofflaw/Arrest,39.9508409,-75.2076809
 01/06/17,8:08 AM,4200 Pine St,Traffic,Man wanted on scofflaw/Arrest,39.9508409,-75.2076809
 09/06/16,3:13 PM,3600 Civic Center Blvd,Vandalism,Complainant's truck keyed,39.9476102,-75.1926512
 06/23/16,12:59 PM,125 S 36th St,Vandalism,Golf cart damaged by unknown person,39.953769,-75.1946569
