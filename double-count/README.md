@@ -21,5 +21,5 @@ posting in Spring '15 when creator Sara Allan graduated.
 
 #### Links
 - [Policies Governing Double Counting Courses](https://www.college.upenn.edu/double-counting-courses)
-- [http://pennlabs.org/console/#depts](PCR API Explorer)
-  - [./PCR_API_DOCS.md](PCR API Docs)
+- [PCR API Explorer](http://pennlabs.org/console/#depts)
+  - [https://github.com/dailypenn/data/blob/master/double-count/PCR_API_DOCS.md](PCR API Docs)
