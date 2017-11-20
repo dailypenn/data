@@ -16,7 +16,7 @@ If you find this data useful, please
 
 Date           | Headline | Folder
 ---------------|----------|-------------
-Oct. 25, 2016  | [Here are all of the courses that double count next semester](http://www.thedp.com/article/2016/10/double-count-classes-spring-2017) | [double-count](double-count)
-Mar. 19, 2017  | [Double Counting Courses Fall 2017](http://www.thedp.com/article/2017/03/double-count-classes-fall-2017) | [double-count](double-count)
-Oct. 12, 2017  | [Here are heat maps of every reported crime near campus since last fall](http://www.thedp.com/article/2017/10/here-are-heat-maps-of-every-reported-crime-near-campus-since-last-fall) | [crime-2016-17](crime-2016-17)
 Oct. 22, 2017  | [The courses that double-count for the spring of 2018](http://www.thedp.com/article/2017/10/here-are-the-courses-that-double-count-for-the-spring-of-2018) | [double-count](double-count)
+Oct. 12, 2017  | [Here are heat maps of every reported crime near campus since last fall](http://www.thedp.com/article/2017/10/here-are-heat-maps-of-every-reported-crime-near-campus-since-last-fall) | [crime-2016-17](crime-2016-17)
+Mar. 19, 2017  | [Double Counting Courses Fall 2017](http://www.thedp.com/article/2017/03/double-count-classes-fall-2017) | [double-count](double-count)
+Oct. 25, 2016  | [Here are all of the courses that double count next semester](http://www.thedp.com/article/2016/10/double-count-classes-spring-2017) | [double-count](double-count)

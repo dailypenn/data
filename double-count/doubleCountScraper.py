@@ -19,15 +19,11 @@ SECTORS = {
     "Language"                         : "req[]=M&cls=10"
 }
 
-FOUNDATIONS = {
-
-}
-
 course_names = {}
 course_map = {}
 course_data = {}
 double_counts = {}
-# ADD WRITING
+# TODO: ADD WRITING
 
 def getData(url, req_name):
     r = requests.get(url)
@@ -41,12 +37,15 @@ def getData(url, req_name):
         for col in cols:
             name = cols[0].text
             code = cols[1].text
+
             # add course code to name mapping
             course_names[code] = name
+
             # if name in course_map.keys():
             #     course_map[name].add(code)
             # else:
             #     course_map[name] = {code}
+
             # add what course fufills
             if code not in course_data.keys():
                 course_data[code] = {req_name}
@@ -59,10 +58,10 @@ def printSet(set):
 for name, querystr in SECTORS.iteritems():
     print "doing ", name
     getData(BASE_URL + querystr, name)
-    # print course_data
 
 with open('double_count.csv', 'wb') as csvfile:
     csv = csv.writer(csvfile)
+
     # find where multiple reqs are satisfied, combine over name
     for code, reqs in course_data.iteritems():
         if len(course_data[code]) > 1:
