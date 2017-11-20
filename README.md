@@ -6,7 +6,7 @@ various data-driven articles and projects.
 You are welcome to use this data in your own work and create stories and data
 visualizations of your own. The data is available under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
-Code within repos is distributed under the [MIT License](LICENSE_CODE.md) unless
+Code within repos is distributed under the [MIT License](LICENSE_CODE.txt) unless
 otherwise noted within a project folder.
 
 If you find this data useful, please
