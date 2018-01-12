@@ -68,5 +68,8 @@ var chart = c3.generate({
     format: {
       value: function (value, ratio, id, index) { return value; }
     }
+  },
+  size: {
+    height: 640
   }
 });
