@@ -1,5 +1,8 @@
 import sys, datetime, json, requests, csv
 
+if len(sys.argv) is not 2:
+    sys.exit('Please enter a single search query. Wrap it in quotes if it has spaces!')
+
 query = sys.argv[1]
 url = 'https://factba.se/json/json-20170612.php'
 
