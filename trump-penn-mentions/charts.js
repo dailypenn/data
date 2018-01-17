@@ -14,6 +14,12 @@ var mentionsOverTime = c3.generate({
       'Ivy League': 'area-step',
       'University of Pennsylvania': 'area-step',
       'good student': 'area-step'
+    },
+    colors: {
+      'Wharton': '#aa1e22',
+      'Ivy League': '#2d97e2',
+      'University of Pennsylvania': '#777',
+      'good student': '#011f5b'
     }
   },
   axis: {
@@ -59,7 +65,13 @@ var total = c3.generate({
       ['University of Pennsylvania', 2],
       ['good student', 27]
     ],
-    type: 'bar'
+    type: 'bar',
+    colors: {
+      'Wharton': '#aa1e22',
+      'Ivy League': '#2d97e2',
+      'University of Pennsylvania': '#777',
+      'good student': '#011f5b'
+    }
   },
   axis: {
     x: {
