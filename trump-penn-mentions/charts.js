@@ -69,220 +69,169 @@ var total = c3.generate({
   }
 });
 
-function tooltipHtml(n, d) {	/* function to create html content string in tooltip div. */
-	return "<h4>"+n+"</h4><table>"+
-		"<tr><td>Low</td><td>"+(d.low)+"</td></tr>"+
-		"<tr><td>Average</td><td>"+(d.avg)+"</td></tr>"+
-		"<tr><td>High</td><td>"+(d.high)+"</td></tr>"+
-		"</table>";
+function tooltips(n, d) {
+  return '<p>' + n + ':</p>' +
+    '<p>' + d.value + (d.value != 1 ? ' mentions</p>' : ' mention</p>');
 }
 
 var mapMentions = {
   'AL': {
-    value: 3,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 3
   },
   'AK': {
-    value: 0,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 0
   },
   'AZ': {
-    value: 1,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 1
   },
   'AR': {
-    value: 2,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 2
   },
   'CA': {
-    value: 0,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 0
   },
   'CO': {
-    value: 0,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 0
   },
   'CT': {
-    value: 1,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 1
   },
   'DE': {
-    value: 0,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 0
   },
   'DC': {
-    value: 6,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 6
   },
   'FL': {
-    value: 7,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 7
   },
   'GA': {
-    value: 1,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 1
   },
   'HI': {
-    value: 0,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 0
   },
   'ID': {
-    value: 0,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 0
   },
   'IL': {
-    value: 0,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 0
   },
   'IN': {
-    value: 0,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 0
   },
   'IA': {
-    value: 12,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 12
   },
   'KS': {
-    value: 0,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 0
   },
   'KY': {
-    value: 0,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 0
   },
   'LA': {
-    value: 0,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 0
   },
   'ME': {
-    value: 0,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 0
   },
   'MT': {
-    value: 0,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 0
   },
   'NE': {
-    value: 0,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 0
   },
   'NV': {
-    value: 0,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 0
   },
   'NH': {
-    value: 1,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 1
   },
   'NJ': {
-    value: 0,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 0
   },
   'NM': {
-    value: 0,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 0
   },
   'NY': {
-    value: 12,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 12
   },
   'NC': {
-    value: 5,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 5
   },
   'ND': {
-    value: 0,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 0
   },
   'OH': {
-    value: 0,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 0
   },
   'OK': {
-    value: 2,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 2
   },
   'OR': {
-    value: 0,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 0
   },
   'MD': {
-    value: 1,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 1
   },
   'MA': {
-    value: 0,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 0
   },
   'MI': {
-    value: 2,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 2
   },
   'MN': {
-    value: 0,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 0
   },
   'MS': {
-    value: 0,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 0
   },
   'MO': {
-    value: 0,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 0
   },
   'PA': {
-    value: 6,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 6
   },
   'RI': {
-    value: 0,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 0
   },
   'SC': {
-    value: 10,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 10
   },
   'SD': {
-    value: 0,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 0
   },
   'TN': {
-    value: 2,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 2
   },
   'TX': {
-    value: 0,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 0
   },
   'UT': {
-    value: 2,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 2
   },
   'VT': {
-    value: 0,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 0
   },
   'VA': {
-    value: 7,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 7
   },
   'WA': {
-    value: 0,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 0
   },
   'WV': {
-    value: 0,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 0
   },
   'WI': {
-    value: 3,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 3
   },
   'WY': {
-    value: 0,
-    color: d3.interpolate("#FFF", "#AA1E22")(value)
+    value: 0
   }
 }
 
-/* draw states on id #statesvg */
-uStates.draw("#states", mapMentions, tooltipHtml);
+for (var i in mapMentions) {
+  mapMentions[i].color = d3.interpolate('#FFF', '#AA1E22')(mapMentions[i].value / 12);
+}
+
+states.draw('#states', mapMentions, tooltips);
