@@ -2,46 +2,34 @@
 <div id="mentions-over-time"></div>
 <div id="total"></div>
 <div id="map-tooltip"></div>
-<div id="map">
-  <svg id="states"></svg>
-</div>
+<div id="map"></div>
 
 <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/c3/0.4.18/c3.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/queue-async/1.0.7/queue.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.19/topojson.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js" charset="utf-8"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.18/c3.min.js" charset="utf-8"></script>
-<script src="states.js" charset="utf-8"></script>
 <script src="charts.js" charset="utf-8"></script>
+<script src="us.json" charset="utf-8"></script>
+<script src="map.js" charset="utf-8"></script>
 
 <style media="screen">
-  svg {
-    width: 100%;
-    height: 100%;
-  }
-  #map-tooltip {
-		position: absolute;
-		text-align: center;
-		padding: 10px;
-		margin: 10px;
-		pointer-events: none;
-    background: rgba(255, 255, 255, 0.9);
-		border: 1px solid #777;
-		width: auto;
-		color: #000;
-		opacity: 0;
-	}
-	#map-tooltip p {
-    margin: 0;
-    font-family: sans-serif;
-		font-size: 14px;
-	}
   #map {
     width: 100%;
   }
-  .state {
-		fill: none;
-		stroke: #000;
-		stroke-width: 0.5;
-	}
+  #map-tooltip {
+    position: absolute;
+    left: 75px;
+    text-align: center;
+    width: auto;
+    padding: 8px;
+    font-size: 14px;
+    font-family: sans-serif;
+    color: #000;
+    background: rgba(255, 255, 255, 0.9);
+    border: 1px solid #777;
+    pointer-events: none;
+  }
   .c3-tooltip-container {
     font-family: sans-serif;
   }
