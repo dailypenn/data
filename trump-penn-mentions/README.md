@@ -25,4 +25,4 @@ Finally, [map.py](map.py) aggregates all four of our terms and maps them to the 
 
 ### Visualization
 
-The visualizations for this project were made with [C3.js](http://c3js.org) and [Highcharts](https://www.highcharts.com). The first two graphs (of total mentions and mentions over time) use C3. The code can be found in [charts.js](charts.js). The map Highcharts' Highmaps library. Its code can be found in [map.js](map.js).
+The visualizations for this project were made with [C3.js](http://c3js.org) and [Highcharts](https://www.highcharts.com). The first two graphs (of total mentions and mentions over time) use C3. The code can be found in [charts.js](charts.js). The map uses Highcharts' map visualization library, Highmaps. Its code can be found in [map.js](map.js).
