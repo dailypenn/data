@@ -1,9 +1,12 @@
-BeautifulSoup==3.2.1
 beautifulsoup4==4.6.0
 bs4==0.0.1
 certifi==2018.1.18
 chardet==3.0.4
 gender-guesser==0.4.0
+genderizer==0.1.2.3
 idna==2.6
+naiveBayesClassifier==0.1.3
+python-memcached==1.59
 requests==2.18.4
+six==1.11.0
 urllib3==1.22
