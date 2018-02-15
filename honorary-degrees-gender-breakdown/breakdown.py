@@ -1,45 +1,55 @@
 import csv, sys
 
-# if you want to divide the data at a certain year
-year = None
+start = '1757'
+end = '2018'
+
+# if you want to get the data since a certain year
 if len(sys.argv) is 2:
-    year = sys.argv[1]
+    start = sys.argv[1]
+
+# if you want to get a range of data (inputs must be increasing)
+if len(sys.argv) is 3:
+    start = sys.argv[1]
+    end = str(int(sys.argv[2]) + 1)
 
 with open('genders_clean.csv', 'rb') as genders:
     r = csv.reader(genders)
 
-    female = [0]
-    male = [0]
-    curr = 0
-    multi = False
+    female = 0
+    male = 0
     header = True
-
-    if year is not None:
-        multi = True
-        female.append(0)
-        male.append(0)
+    in_range = False
 
     for row in r:
+        # skip the header
         if header:
             header = False
             continue
-        if multi and curr is 0 and row[1] == year:
-            curr += 1
 
+        # only start aggregating when we get to the start year
+        if not in_range and row[1] == start:
+            in_range = True
+
+        # stop aggregating when get to the end year
+        if in_range and row[1] == end:
+            in_range = False
+
+        # make sure we're in range
+        if not in_range:
+            continue
+
+        # sum by gender
         if row[4] == 'female':
-            female[curr] += 1
+            female += 1
         else:
-            male[curr] += 1
+            male += 1
 
 # calculate percentage of women for each broken-down year
-totals = []
-percent_female = []
-for i in range(len(female)):
-    totals.append(female[i] + male[i])
-    percent_female.append(float(female[i]) / totals[i])
+total = female + male
+percent_female = float(female) / total
 
-print 'after', year + ', before', year
+print 'from', start, 'to', str(int(end) - 1)
 print 'total female', female
 print 'total male', male
-print 'total recepients', totals
+print 'total recepients', total
 print 'percentage female', percent_female
