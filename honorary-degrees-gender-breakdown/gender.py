@@ -7,11 +7,11 @@ with open('honorees_clean.csv', 'rb') as honorees, open('genders.csv', 'wb') as 
     r = csv.reader(honorees)
     w = csv.writer(output)
 
-    w.writerow(['Name', 'Gender Guesser', 'Genderizer'])
+    w.writerow(['Name', 'Gender Guesser', 'Genderizer', 'Final'])
 
     for row in r:
         name = row[0]
         names = name.split(' ')
         gender = d.get_gender(names[0])
         gender2 = g.detect(firstName=names[0])
-        w.writerow([name, gender, 'unknown' if gender2 is None else gender2])
+        w.writerow([name, gender, 'unknown' if gender2 is None else gender2, gender if gender == gender2 else 'unknown'])
