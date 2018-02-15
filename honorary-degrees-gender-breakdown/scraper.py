@@ -7,10 +7,11 @@ r = requests.get(url)
 data = r.text
 soup = bs(data, 'html.parser')
 
+years = {}
 names = []
-
 for year in soup.findAll('h2'):
     honorees = year.next_sibling.next_sibling.get_text().splitlines()
+    names = []
 
     name = ''
     for s in honorees:
@@ -23,18 +24,23 @@ for year in soup.findAll('h2'):
             names.append(name)
             name = ''
 
-fixed_names = []
+    years[int(year.text)] = names
 
-for name in names:
-    n = name.split(',')
-    name = ''
-    for i in range(1, len(n) - 1):
-        name += n[i].strip() + ' '
-    name += n[0].title()
-    fixed_names.append(name.strip())
+fixed_years = {}
+for year in years:
+    fixed_names = []
+    for name in years[year]:
+        n = name.split(',')
+        name = ''
+        for i in range(1, len(n) - 1):
+            name += n[i].strip() + ' '
+        name += n[0].title().strip()
+        fixed_names.append(name)
+    fixed_years[year] = fixed_names
 
 with open('honorees.csv', 'wb') as output:
     honorees = csv.writer(output)
 
-    for name in fixed_names:
-        honorees.writerow([name])
+    for year in fixed_years:
+        for name in fixed_years[year]:
+            honorees.writerow([name, year])
