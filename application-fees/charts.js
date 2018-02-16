@@ -33,7 +33,54 @@ var fees = c3.generate({
     show: false
   },
   title: {
-    text: 'College Application Fee for Various Ivy-Plus Colleges'
+    text: 'College application fee for Penn and peer schools'
+  }
+});
+
+var penn = c3.generate({
+  bindto: '#penn',
+  data: {
+    columns: [
+      ['Revenue', 3029550, 1817730]
+    ],
+    type: 'bar',
+    colors: {
+      'Revenue': '#000000'
+    },
+    color: function(c, data) {
+      var colors = ['#95001a', '#01256e'];
+      if (data.index !== undefined) return colors[data.index];
+      return c;
+    }
+  },
+  axis: {
+    x: {
+      type: 'category',
+      categories: ['Total revenue (if no fees were waived)', 'Actual revenue (40% of fees waived)']
+    },
+    y: {
+      label: {
+        text: 'Revenue',
+        position: 'outer-middle'
+      },
+      tick: {
+        format: d3.format('$s')
+      }
+    }
+  },
+  tooltip: {
+    format: {
+      value: function (value, ratio, id) {
+        var format = d3.format('$,.');
+        return format(value);
+      }
+    }
+  },
+  legend: {
+    show: false
+  },
+  title: {
+    text: 'Penn\'s revenue from application fees'
   }
 });
 
