@@ -33,7 +33,7 @@ var fees = c3.generate({
     show: false
   },
   title: {
-    text: 'College application fee for Penn and peer schools'
+    text: 'College application fees for Penn and peer schools'
   }
 });
 
@@ -56,7 +56,7 @@ var penn = c3.generate({
   axis: {
     x: {
       type: 'category',
-      categories: ['Total revenue (if no fees were waived)', 'Actual revenue (40% of fees waived)']
+      categories: ['Total revenue with no fees waived', 'Revenue with 40% of fees waived']
     },
     y: {
       label: {
