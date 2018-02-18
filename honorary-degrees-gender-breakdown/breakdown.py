@@ -1,19 +1,29 @@
 import csv, sys
 
-start = '1757'
+if len(sys.argv) < 2:
+    sys.exit('Please enter a school name! Try Penn or Harvard.')
+
+school = sys.argv[1]
+start = ''
 end = '2018'
 
 # if you want to get the data since a certain year
-if len(sys.argv) is 2:
-    start = sys.argv[1]
+if len(sys.argv) is 3:
+    start = sys.argv[2]
 
 # if you want to get a range of data (inputs must be increasing)
-if len(sys.argv) is 3:
-    start = sys.argv[1]
-    end = str(int(sys.argv[2]) + 1)
+if len(sys.argv) is 4:
+    start = sys.argv[2]
+    end = str(int(sys.argv[3]) + 1)
 
-with open('genders_clean.csv', 'rb') as genders:
+with open('genders_' + school + '_clean.csv', 'rb') as genders:
     r = csv.reader(genders)
+
+    if len(start) == 0:
+        if school == 'penn':
+            start = '1757'
+        elif school == 'harvard':
+            start = '1692'
 
     female = 0
     male = 0
@@ -48,7 +58,7 @@ with open('genders_clean.csv', 'rb') as genders:
 total = female + male
 percent_female = float(female) / total
 
-print 'from', start, 'to', str(int(end) - 1)
+print 'from', start, 'to', str(int(end) - 1), 'for', school.title()
 print 'total female', female
 print 'total male', male
 print 'total recepients', total

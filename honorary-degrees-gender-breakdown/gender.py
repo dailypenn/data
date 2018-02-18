@@ -1,9 +1,18 @@
-import csv
+import csv, sys
 import gender_guesser.detector as gender
 d = gender.Detector()
 from genderizer.genderizer import Genderizer as g
 
-with open('honorees_clean.csv', 'rb') as honorees, open('genders.csv', 'wb') as output:
+# argument handling
+if len(sys.argv) is not 2:
+    sys.exit('Please enter a school name to scrape! (Options: Penn or Harvard)')
+
+school = sys.argv[1].lower()
+
+if school != 'penn' and school != 'harvard':
+    sys.exit('Not a valid school. Try Penn or Harvard!')
+
+with open('honorees_' + school + '_clean.csv', 'rb') as honorees, open('genders_' + school + '.csv', 'wb') as output:
     r = csv.reader(honorees)
     w = csv.writer(output)
 
