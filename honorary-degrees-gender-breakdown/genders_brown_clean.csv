@@ -1,11 +1,11 @@
 Name,Year,Gender Guesser,Genderizer,Confirmed
+Morgan Edwards,1769,mostly_male,unknown,male
 William Bolton,1769,male,male,male
 Jabez Bowen,1769,male,male,male
 James Bryson,1769,male,male,male
 William Clarke,1769,male,male,male
 John Davis,1769,male,male,male
 James Edwards,1769,male,male,male
-Morgan Edwards,1769,mostly_male,unknown,unknown
 Caleb Evans,1769,male,male,male
 Oliver Hart,1769,male,male,male
 David Howell,1769,male,male,male
@@ -75,7 +75,7 @@ James Mann,1783,male,male,male
 Thomas Fitch Oliver,1783,male,male,male
 John Rippon,1784,male,male,male
 Stephen Hopkins,1784,male,male,male
-Burgiss Allison,1786,unknown,unknown,unknown
+Burgiss Allison,1786,unknown,unknown,male
 Enoch Edwards,1786,male,male,male
 Benjamin Foster,1786,male,male,male
 James Newton,1786,male,male,male
@@ -109,12 +109,13 @@ Samuel Whelpley,1790,male,male,male
 Samuel Deane,1790,male,male,male
 Samuel Hopkins,1790,male,male,male
 George Washington,1790,male,unknown,male
-Josias Lyndon Arnold,1791,unknown,male,unknown
+Josias Lyndon Arnold,1791,unknown,male,male
+Apollos Leonard,1791,unknown,unknown,male
 Joseph Holbrook,1791,male,male,male
-Apollos Leonard,1791,unknown,unknown,unknown
 Samuel Leonard,1791,male,male,male
 Joseph Philippe Letombe,1791,male,male,male
-Philander Shaw,1792,unknown,male,unknown
+Philander Shaw,1792,unknown,male,male
+Perez Fobes,1792,unknown,unknown,male
 James Brown,1792,male,male,male
 John Crane,1792,male,male,male
 Joshua Crosby,1792,male,male,male
@@ -127,20 +128,19 @@ John Ryland,1792,male,male,male
 Leonard White,1792,male,male,male
 Benjamin Foster,1792,male,male,male
 John Rippon,1792,male,male,male
-Perez Fobes,1792,unknown,unknown,unknown
 Alexander Hamilton,1792,male,male,male
 Benjamin West,1792,male,male,male
+Zephaniah Leonard,1793,unknown,male,male
+Morgan Jones,1793,mostly_male,unknown,male
 Daniel Dana,1793,male,male,male
 James Dore,1793,male,male,male
 Samuel Graves,1793,male,male,male
-Zephaniah Leonard,1793,unknown,male,unknown
 Archibald M'Lean,1793,male,male,male
 Samuel Pearce,1793,male,male,male
 William Richards,1793,male,male,male
 John Sutcliff,1793,male,male,male
 Nicholas Tillinghast,1793,male,male,male
 David Howell,1793,male,male,male
-Morgan Jones,1793,mostly_male,unknown,unknown
 Joseph Priestley,1793,male,male,male
 Thomas Baldwin,1794,male,male,male
 John Thornton Kirkland,1794,male,male,male
@@ -148,9 +148,9 @@ John Usher,1794,male,male,male
 Thomas Barnard,1794,male,male,male
 John Jay,1794,male,male,male
 John Coakley Lettsom,1794,male,male,male
+Eliphalet Nott,1795,unknown,male,male
 Andrew Beattie,1795,male,male,male
 Thomas Dunn,1795,male,male,male
-Eliphalet Nott,1795,unknown,male,unknown
 Isaac Tompkins,1795,male,male,male
 John Prince,1795,male,male,male
 James Bicheno,1796,male,male,male
@@ -180,11 +180,11 @@ George Gibbs,1800,male,unknown,male
 Henry Holcombe,1800,male,male,male
 Richard Furman,1800,male,male,male
 David Parsons,1800,male,male,male
+Holder Slocum,1801,unknown,unknown,male
 Calvin Chaddock,1801,male,male,male
 Henry Gassett,1801,male,male,male
 Paul Ray Metcalf,1801,male,male,male
 Isaac Robinson,1801,male,male,male
-Holder Slocum,1801,unknown,unknown,unknown
 David Rogerson Williams,1801,male,male,male
 Benjamin Bourne,1801,male,male,male
 Samuel Eddy,1801,male,male,male
@@ -205,9 +205,9 @@ John Crane,1803,male,male,male
 Edward Jenkins,1803,male,male,male
 John Reed,1803,male,male,male
 John Smith,1803,male,male,male
+Burgiss Allison,1804,unknown,unknown,male
 Joseph Grafton,1804,male,male,male
 Bernard Leonard,1804,male,male,male
-Burgiss Allison,1804,unknown,unknown,unknown
 George Leonard,1804,male,unknown,male
 Solomon Drowne,1804,male,male,male
 Joseph Barker,1805,male,male,male
@@ -226,11 +226,11 @@ Elisha Scott Williams,1806,male,male,male
 John McKie,1806,male,male,male
 William Carey,1806,male,male,male
 Asa Messer,1806,male,male,male
-Orchard Cook,1807,unknown,unknown,unknown
+Orchard Cook,1807,unknown,unknown,male
+Zedekiah Sanger,1807,unknown,male,male
 Asa Meech,1807,male,male,male
 William Patten,1807,male,male,male
 William Patton,1807,male,male,male
-Zedekiah Sanger,1807,unknown,male,unknown
 Joseph Sheppard,1808,male,male,male
 Levi Hedge,1808,male,male,male
 William Parkinson,1808,male,male,male
@@ -238,9 +238,9 @@ Jonathan Strong,1808,male,male,male
 William White,1808,male,male,male
 William Batchelder,1809,male,male,male
 Theophilus Parsons,1809,male,male,male
+Sidney Willard,1810,mostly_male,unknown,male
 Elisha Clap,1810,male,male,male
 Alexander Viets Griswold,1810,male,male,male
-Sidney Willard,1810,mostly_male,unknown,unknown
 John Fawcett,1810,male,male,male
 Joshua Marshman,1810,male,male,male
 John Thornton Kirkland,1810,male,male,male
@@ -250,21 +250,22 @@ Joseph Gardiner Swift,1811,male,male,male
 Henry Wight,1811,male,male,male
 Alexander Viets Griswold,1811,male,male,male
 Joseph Hughes,1811,male,male,male
+Pardon Bowen,1812,unknown,unknown,male
 John Fothergill Waterhouse,1812,male,male,male
 Nathan Bourne Crocker,1812,male,male,male
 Horatio Gates Jones,1812,male,male,male
 James Hinton,1812,male,male,male
-Pardon Bowen,1812,unknown,unknown,unknown
 Levi Wheaton,1812,male,male,male
+Tillotson Bronson,1813,unknown,unknown,male
 Joshua Bates,1813,male,male,male
 John D’Wolf,1813,male,male,male
 Abner Phelps,1813,male,male,male
-Tillotson Bronson,1813,unknown,unknown,unknown
 Moses Stewart,1813,male,male,male
 James Burrill,1813,male,male,male
 William Corlis Bowen,1813,male,male,male
 William Ingalls,1813,male,male,male
 John McKie,1813,male,male,male
+Micajah Hawkes,1814,unknown,male,male
 Barnabas Bates,1814,male,male,male
 John Codman,1814,male,male,male
 Stephen Hull,1814,male,male,male
@@ -276,7 +277,6 @@ Robert Baylor Semple,1814,male,male,male
 Thomas Williams,1814,male,male,male
 Jonathan Strong,1814,male,male,male
 Benjamin Austin,1814,male,male,male
-Micajah Hawkes,1814,unknown,male,unknown
 Abner Phelps,1814,male,male,male
 Aaron Whitney Leland,1815,male,male,male
 Edward Richmond,1815,male,male,male
@@ -294,15 +294,15 @@ Thomas Noyes,1817,male,male,male
 Joseph Richardson,1817,male,male,male
 Jonathan Russell,1817,male,male,male
 Nathaniel Miller,1817,male,male,male
+Elnathan Judson,1818,unknown,male,male
+Ariel Mann,1818,male,unknown,male
 Asa Eaton,1818,male,male,male
-Elnathan Judson,1818,unknown,male,unknown
 Joshua Thomas,1818,male,male,male
 Nathan Towson,1818,male,male,male
 Calvin Park,1818,male,male,male
 William Richards,1818,male,male,male
-Ariel Mann,1818,male,unknown,unknown
+Cheever Felch,1819,unknown,unknown,male
 David Bolles,1819,male,male,male
-Cheever Felch,1819,unknown,unknown,unknown
 Nathaniel Kendrick,1819,male,male,male
 Archibald Maclay,1819,male,male,male
 Joseph Leonard Tillinghast,1819,male,male,male
@@ -322,7 +322,7 @@ William Ebenezer Richmond,1821,male,male,male
 William Blanding,1821,male,male,male
 Caleb Fiske,1821,male,male,male
 David King,1821,male,male,male
-Bela Jacobs,1822,female,male,unknown
+Bela Jacobs,1822,female,male,male
 Isaac Mann,1822,male,male,male
 Gideon Wanton Olney,1822,male,male,male
 Richard Povall,1822,male,male,male
@@ -331,23 +331,23 @@ Francis Wayland,1822,male,male,male
 Stephen Chapin,1822,male,male,male
 Benjamin Allen,1822,male,male,male
 Thomas Park,1822,male,male,male
+Adoniram Judson,1823,unknown,unknown,male
+Tristam Burgess,1823,unknown,unknown,male
 Sylvester Holmes,1823,male,male,male
-Adoniram Judson,1823,unknown,unknown,unknown
 Nathaniel Kendrick,1823,male,male,male
-Tristam Burgess,1823,unknown,unknown,unknown
 Nathaniel Searle,1823,male,male,male
 Nathaniel West Williams,1824,male,male,male
 Robert Baylor Semple,1824,male,male,male
 Henry Wight,1824,male,male,male
+Usher Parsons,1825,unknown,unknown,male
 Charles Henry Alden,1825,male,male,male
 Peter Chase,1825,male,male,male
 Levi French,1825,male,male,male
 William Leete Stone,1825,male,male,male
 James Fenner,1825,male,male,male
 John Jeffries,1825,male,male,male
-Usher Parsons,1825,unknown,unknown,unknown
 Daniel Thurber,1825,male,male,male
-Alva Woods,1826,andy,unknown,unknown
+Alva Woods,1826,andy,unknown,male
 Jonathan Homer,1826,male,male,male
 Charles Odingsell Screven,1826,male,male,male
 Marcus Morton,1826,male,male,male
@@ -359,6 +359,9 @@ Charles Morris,1827,male,male,male
 William Henry Smith,1827,male,male,male
 John Rogers Vinton,1827,male,male,male
 Jeremiah Fisher Ames,1827,male,male,male
+Winslow Paige,1828,unknown,unknown,male
+Alva Woods,1828,andy,unknown,male
+Eliphalet Nott,1828,unknown,male,male
 Oliver Cromwell Comstock,1828,male,male,male
 Nathaniel Dunn,1828,male,male,male
 Theophilus Colhoun Dunn,1828,male,male,male
@@ -366,11 +369,8 @@ Joseph Ives Foot,1828,male,male,male
 William Jones,1828,male,male,male
 Charles Otis Kimball,1828,male,male,male
 Joseph Kinghorn,1828,male,male,male
-Winslow Paige,1828,unknown,unknown,unknown
 Seth Spencer Whitman,1828,male,male,male
 Daniel Sharp,1828,male,male,male
-Alva Woods,1828,andy,unknown,unknown
-Eliphalet Nott,1828,unknown,male,unknown
 Rufus Claggett,1829,male,male,male
 Frederick Augustus Farley,1829,male,male,male
 Horatio Potter,1829,male,male,male
@@ -379,22 +379,22 @@ Joseph Gilbert Totten,1829,male,male,male
 John Wayland,1830,male,male,male
 William Yates,1830,male,male,male
 Joel Hawes,1830,male,male,male
+Eleazer Mather Porter Wells,1831,unknown,unknown,male
 William Taylor Grinnell,1831,male,male,male
 Bartholomew Trow Welch,1831,male,male,male
-Eleazer Mather Porter Wells,1831,unknown,unknown,unknown
 William Theophilus Brantly,1831,male,male,male
 William Bailies,1831,male,male,male
+Rev. Elisha Williams,1832,unknown,unknown,male
 Edward Jones Mallett,1832,male,male,male
 Samuel Boyd Tobey,1832,male,male,male
 Samuel Ward,1832,male,male,male
-Rev. Elisha Williams,1832,unknown,unknown,unknown
 Thomas Steffe Crisp,1832,male,male,male
 Charles Pettit McIlvaine,1832,male,male,male
+Eli Burnham Smith,1833,female,unknown,male
 John James D’Wolf,1833,male,male,male
 Alexander Hamilton Frink,1833,male,male,male
 Francis Vinton,1833,male,male,male
 George Washington Greene,1833,male,unknown,male
-Eli Burnham Smith,1833,female,unknown,unknown
 William Bullein Johnson,1833,male,male,male
 John Farrar,1833,male,male,male
 William Learned Marcy,1833,male,male,male
@@ -407,12 +407,12 @@ Nathaniel Bradstreet Shurtleff,1834,male,male,male
 Isaac Stevens,1834,male,male,male
 Joseph Andrews Warne,1834,male,male,male
 Oliver Cobb,1834,male,male,male
+Jesse Mercer,1835,male,unknown,male
 John Howland,1835,male,male,male
 Samuel Larned,1835,male,male,male
 John Mason Peck,1835,male,male,male
 Wilbur Fisk,1835,male,male,male
 Chauncey Allen Goodrich,1835,male,male,male
-Jesse Mercer,1835,male,unknown,unknown
 William Frederick D’Wolf,1835,male,male,male
 Asher Robbins,1835,male,male,male
 Timothy Robinson Cressey,1836,male,male,male
@@ -457,7 +457,7 @@ Edward Albern Crawley,1844,male,male,male
 John Sharp Maginnis,1844,male,male,male
 Theron Metcalf,1844,male,male,male
 John Whipple,1844,male,male,male
-Kazlitt Arvine,1845,unknown,unknown,unknown
+Kazlitt Arvine,1845,unknown,unknown,male
 Frederick Bosworth,1845,male,male,male
 Rowland Gibson Hazard,1845,male,male,male
 Thomas Ricker Lambert,1845,male,male,male
@@ -465,34 +465,34 @@ James Craft Welch,1845,male,male,male
 Job Durfee,1845,male,male,male
 John Reed,1845,male,male,male
 William Cabell Rives,1845,male,male,male
+Addison Parker,1846,andy,unknown,male
+Wilkins Updike,1846,unknown,unknown,male
+Edwards Amasa Park,1846,unknown,unknown,male
 George Francis Cushman,1846,male,unknown,male
 Andrew Dexter,1846,male,male,male
 James Nathaniel Granger,1846,male,male,male
-Addison Parker,1846,andy,unknown,unknown
-Wilkins Updike,1846,unknown,unknown,unknown
 John Webster,1846,male,male,male
 Alvan Bond,1846,male,male,male
 George Burgess,1846,male,unknown,male
-Edwards Amasa Park,1846,unknown,unknown,unknown
 Baron Stow,1846,male,male,male
 David Newton Sheldon,1847,male,male,male
 Joseph Emerson Worcester,1847,male,male,male
+Swan Lyman Pomeroy,1848,mostly_male,unknown,male
 John Russell Bartlett,1848,male,male,male
 William Mitchell,1848,male,male,male
 Charles William Parsons,1848,male,male,male
-Swan Lyman Pomeroy,1848,mostly_male,unknown,unknown
 Charles Edward Forbes,1848,male,male,male
 Richard Ward Greene,1848,male,male,male
-Dura Durand Pratt,1849,unknown,male,unknown
+Dura Durand Pratt,1849,unknown,male,male
+Elam Smalley,1849,unknown,male,male
+George Robert Russell,1849,male,male,male
 Nelson Wheeler,1849,male,male,male
 Edward Coffin Anderson,1849,male,male,male
 William Hague,1849,male,male,male
 Mark Anthony De Wolfe Howe,1849,male,male,male
-Elam Smalley,1849,unknown,male,unknown
 James William Thompson,1849,male,male,male
 John Henry Clifford,1849,male,male,male
 George Washington Keely,1849,male,unknown,male
-George Robert Russell,1849,male,unknown,unknown
 Richard Sexton James,1850,male,male,male
 Stephen Thayer Olney,1850,male,male,male
 Henry Adolphus Miles,1850,male,male,male
@@ -547,11 +547,11 @@ Harrison Gray Otis Dwight,1855,male,male,male
 Arthur Savage Train,1855,male,male,male
 Samuel Ames,1855,male,male,male
 William Williams Mather,1855,male,male,male
+Alvah Hovey,1856,unknown,male,male
 William Binney,1856,male,male,male
 Edward Carlisle Boynton,1856,male,male,male
 Joseph Blaner Breed,1856,male,male,male
 Samuel William Southmayd Dutton,1856,male,male,male
-Alvah Hovey,1856,unknown,male,unknown
 George Maxwell Randall,1856,male,unknown,male
 John Kingsbury,1856,male,male,male
 Joseph Coggin Foster,1857,male,male,male
@@ -568,10 +568,10 @@ Christopher Mardenborough Nickels,1858,male,male,male
 Thomas Hubbard Vail,1858,male,male,male
 Peter Child Bacon,1858,male,male,male
 George Barrell Emerson,1858,male,unknown,male
-Erastus Andrews,1859,unknown,male,unknown
+Erastus Andrews,1859,unknown,male,male
+Sylvanus Chace Newman,1859,unknown,male,male
 William Daniel Brayton,1859,male,male,male
 Nathaniel Peter Hill,1859,male,male,male
-Sylvanus Chace Newman,1859,unknown,male,unknown
 Thomas Davis Anderson,1859,male,male,male
 Charles Worthen Flanders,1859,male,male,male
 Baptist Wriothesley Noel,1859,male,male,male
@@ -589,30 +589,30 @@ William Sprague,1861,male,male,male
 Ebenezer Dodge,1861,male,male,male
 Robert Curtis Mills,1861,male,male,male
 James Henry Duncan,1861,male,male,male
-Atwood Bond Meservey,1862,unknown,unknown,unknown
+Atwood Bond Meservey,1862,unknown,unknown,male
 William Paine Sheffield,1862,male,male,male
 William Read Staples,1862,male,male,male
 Henry Martyn Dexter,1863,male,male,male
 Horatio Gates Jones Jr.,1863,male,male,male
 James Tift Champlin,1863,male,male,male
 Andrew Pollard,1863,male,male,male
+Robinson Potter Dunn,1864,unknown,unknown,male
+Goldwin Smith,1864,unknown,unknown,male
 Thomas Poynton Ives,1864,male,male,male
 William Scott McKenzie,1864,male,male,male
 Leonard Walker,1864,male,male,male
-Robinson Potter Dunn,1864,unknown,unknown,unknown
 Edward Abiel Stevens,1864,male,male,male
-Goldwin Smith,1864,unknown,unknown,unknown
 George Augustus Crocker,1865,male,unknown,male
 Samuel Gummere,1865,male,male,male
 George Thurber,1865,male,unknown,male
 Frank Wheaton,1865,male,male,male
 Alexis Caswell,1865,male,male,male
+Kendall Brooks,1866,andy,unknown,male
 Samuel Curry,1866,male,male,male
 William Augustus Mowry,1866,male,male,male
 John Meredith Read,1866,male,male,male
 John Westall,1866,male,male,male
 George Dana Boardman,1866,male,unknown,male
-Kendall Brooks,1866,andy,unknown,unknown
 Alexander Burgess,1866,male,male,male
 George Park Fisher,1866,male,unknown,male
 John Augustus Bolles,1866,male,male,male
@@ -620,24 +620,24 @@ James Fletcher Blackinton,1867,male,male,male
 Charles Collins Van Zandt,1867,male,male,male
 William Hadley Eaton,1867,male,male,male
 Charles Smith Bradley,1867,male,male,male
-Alpheus Carey Morse,1868,unknown,male,unknown
-Adoniram Judson Huntington,1868,unknown,unknown,unknown
+Alpheus Carey Morse,1868,unknown,male,male
+Adoniram Judson Huntington,1868,unknown,unknown,male
 James McCosh,1868,male,male,male
 Howard Osgood,1868,male,male,male
 James Burrill Angell,1868,male,male,male
 Nathan Clifford,1868,male,male,male
 Samuel Gridley Howe,1868,male,male,male
+Bohan Prentiss Byram,1869,unknown,unknown,male
+Heman Lincoln Wayland,1869,unknown,female,male
 Silas Alward,1869,male,male,male
 John Howard Appleton,1869,male,male,male
-Bohan Prentiss Byram,1869,unknown,unknown,unknown
 Horatio Nelson Slater,1869,male,male,male
 William Leete Stone,1869,male,male,male
 William Robinson Babcock,1869,male,male,male
-Heman Lincoln Wayland,1869,unknown,female,unknown
 William Beach Lawrence,1869,male,male,male
 Albert Harkness,1869,male,male,male
 Roland Gibson Hazard,1869,male,male,male
-Sylvanus Clapp,1870,unknown,male,unknown
+Sylvanus Clapp,1870,unknown,male,male
 George Henry Corliss,1870,male,unknown,male
 Stephen Farnum Peckham,1870,male,male,male
 Chester Isham Reed,1870,male,male,male
@@ -685,8 +685,8 @@ Stephen Smith,1876,male,male,male
 John Henry Stiness,1876,male,male,male
 Elias Henry Johnson,1877,male,male,male
 James Ferdinand Morton,1877,male,male,male
+Adoniram Judson Gordon,1878,unknown,unknown,male
 George Edwin Horr,1878,male,unknown,male
-Adoniram Judson Gordon,1878,unknown,unknown,unknown
 Charles Stanford,1878,male,male,male
 Samuel Greene Arnold,1878,male,male,male
 Alexander Lyman Holley,1878,male,male,male
@@ -695,13 +695,13 @@ Louis Henry Marvel,1879,male,male,male
 Josiah Torrey Smith,1879,male,male,male
 James Robinson Boise,1879,male,male,male
 Isaac Ray,1879,male,male,male
+Sidney Smith Rider,1880,mostly_male,unknown,male
 Joseph Warren Merrill,1880,male,male,male
-Sidney Smith Rider,1880,mostly_male,unknown,unknown
 John Woodbury Sawyer,1881,male,male,male
 Josiah Nelson Cushing,1881,male,male,male
 Francis Wayland,1881,male,unknown,male
+LeBaron Bradford Colt,1882,unknown,unknown,male
 Jonathan Chace,1882,male,male,male
-LeBaron Bradford Colt,1882,unknown,unknown,unknown
 James Madison Morton,1882,male,male,male
 Henry Francis Colby,1882,male,male,male
 Albert Hale Plumb,1882,male,male,male
@@ -709,12 +709,12 @@ George William Curtis,1882,male,unknown,male
 Henry Simmons Frieze,1882,male,male,male
 Horace Gray,1882,male,male,male
 Edward Lillie Pierce,1882,male,male,male
+Azel Dow Cole,1883,unknown,unknown,male
 Daniel Webster Abercrombie,1883,male,male,male
 Alfred Mason Williams,1883,male,male,male
 Granville Sharp Abbott,1883,male,male,male
 Edward Sumner Atwood,1883,male,male,male
 Henry Sweetser Burrage,1883,male,male,male
-Azel Dow Cole,1883,unknown,unknown,unknown
 Hamilton Barclay Staples,1883,male,male,male
 William Henry Bennett,1884,male,male,male
 Samuel Lunt Caldwell,1884,male,male,male
@@ -731,18 +731,18 @@ Isaac Grant Wilson,1887,male,male,male
 Augustus Woodbury,1888,male,male,male
 Benjamin Francis Thurston,1888,male,male,male
 David Harvey Goodell,1889,male,male,male
-Leontine Lincoln,1889,female,female,female
 Henry Grattan Guinness,1889,male,male,male
 Robert Henry Thurston,1889,male,male,male
+Leontine Lincoln,1889,female,female,female
+Pardon Elisha Tillinghast,1890,unknown,unknown,male
 John Brown Francis Herreshoff,1890,male,male,male
 William Jones Hoppin,1890,male,male,male
-Pardon Elisha Tillinghast,1890,unknown,unknown,unknown
 David Hummell Greer,1890,male,male,male
 William Henry Spencer,1890,male,male,male
 Clarence King,1890,male,male,male
 James MacAlister,1890,male,male,male
+Courtney Langdon,1891,mostly_female,unknown,male
 James Lawrence Bennett,1891,male,male,male
-Courtney Langdon,1891,mostly_female,unknown,unknown
 Edward Hume Bucknam,1891,male,male,male
 Charles Louis Colby,1891,male,male,male
 Royal Chapin Taft,1891,male,male,male
@@ -776,10 +776,11 @@ Joseph Henry Gilmore,1892,male,male,male
 Charles Bradford Goff,1892,male,male,male
 Arnold Buffum Chace,1892,male,male,male
 Oliver Spink Westcott,1892,male,male,male
+Lysander Dickerman,1893,unknown,male,male
+Elbridge Smith,1893,unknown,male,male
 William Whitman Bailey,1893,male,male,male
 Charles Henry Banes,1893,male,male,male
 Thomas George Dickson,1893,male,male,male
-Lysander Dickerman,1893,unknown,male,unknown
 Benjamin Allen Greene,1893,male,male,male
 George Lyman Locke,1893,male,unknown,male
 Lyman Beecher Tefft,1893,male,male,male
@@ -790,14 +791,13 @@ William LeBaron Putnam,1893,male,male,male
 John Henry Stiness,1893,male,male,male
 William Eaton Foster,1893,male,male,male
 William Torrey Harris,1893,male,male,male
-Elbridge Smith,1893,unknown,male,unknown
 John Tetlow,1893,male,male,male
 Horace Mann Willard,1893,male,male,male
+Erastus Richardson,1894,unknown,male,male
+Ray Greene Huling,1894,mostly_male,unknown,male
 Arthur Lewis Brown,1894,male,male,male
-Sarah Elizabeth Doyle,1894,female,female,female
 James Leland Howard,1894,male,male,male
 Charles Henry Merriman,1894,male,male,male
-Erastus Richardson,1894,unknown,male,unknown
 Joel Herbert Shedd,1894,male,male,male
 Thomas Davis Anderson,1894,male,male,male
 Thomas Burgess,1894,male,male,male
@@ -805,19 +805,19 @@ Reginald Heber Howe,1894,male,male,male
 Reuben Thomas Durrett,1894,male,male,male
 Arnold Green,1894,male,male,male
 Elmer Lawrence Corthell,1894,male,male,male
-Ray Greene Huling,1894,mostly_male,unknown,unknown
 William Thane Peck,1894,male,male,male
 John Peirce,1894,male,male,male
+Sarah Elizabeth Doyle,1894,female,female,female
+Eli Whitney Blake,1895,female,unknown,male
 Seth Jones Axtell,1895,male,male,male
 Robert Ludlow Fowler,1895,male,male,male
 Lewis George Janes,1895,male,male,male
 Theodore Corson Search,1895,male,male,male
 Thomas Seymour Barbour,1895,male,male,male
 William Herbert Perry Faunce,1895,male,male,male
-Julia Josephine Irvine,1895,female,female,female
 William Winter,1895,male,male,male
-Eli Whitney Blake,1895,female,unknown,unknown
 Jules Jordan,1895,male,male,male
+Julia Josephine Irvine,1895,female,female,female
 George Edwin Horr,1896,male,unknown,male
 William Henry Lyon,1896,male,male,male
 James Cooley Fletcher,1896,male,male,male
@@ -831,23 +831,23 @@ Elisha Dyer,1897,male,male,male
 William Carey Joslin,1897,male,male,male
 John Hay,1897,male,male,male
 Benjamin Franklin Clarke,1897,male,male,male
+Alphaeus Hyatt,1898,unknown,male,male
+Jesse Macy,1898,male,unknown,male
 David Barnes Ford,1898,male,male,male
 Leander Cornelius Manchester,1898,male,male,male
-Alphaeus Hyatt,1898,unknown,male,unknown
-Jesse Macy,1898,male,unknown,unknown
 Josiah Nelson Cushing,1898,male,male,male
 John Russell Bartlett,1898,male,male,male
-Adelia Thompson Hillman,1898,female,female,female
 Warren Richmond Perce,1898,male,male,male
+Adelia Thompson Hillman,1898,female,female,female
+Sumner Upham Shearman,1899,unknown,male,male
 Frederick Burgess,1899,male,male,male
 Josiah Ripley Goddard,1899,male,male,male
-Sumner Upham Shearman,1899,unknown,male,unknown
-Caroline Hazard,1899,female,female,female
 Francis Almon Gaskill,1899,male,unknown,male
 William Goddard,1899,male,male,male
-Hammond Lamont,1900,unknown,male,unknown
+Caroline Hazard,1899,female,female,female
+Hammond Lamont,1900,unknown,male,male
+Mary Emma Woolley,1900,female,female,female
 Albert Arnold Bennett,1900,male,male,male
-Mary Emma Woolley,1900,mostly_female,unknown,unknown
 Elisha Benjamin Andrews,1900,male,male,male
 Benjamin Ide Wheeler,1900,male,male,male
 John Howard Appleton,1900,male,male,male
@@ -884,13 +884,14 @@ William Carey Poland,1904,male,male,male
 Irving Berdine Richman,1904,male,male,male
 William Neilson McVickar,1904,male,male,male
 John Ripley Freeman,1904,male,male,male
-Champlin Burrage,1905,unknown,unknown,unknown
+Champlin Burrage,1905,male,male,male
+Gibbs Braislin,1905,male,male,male
 William Ashmore,1905,male,male,male
-Gibbs Braislin,1905,unknown,unknown,unknown
 Edmund Swett Rousmaniere,1905,male,male,male
 George Alder Blumer,1905,male,unknown,male
 Edmund James Carpenter,1905,male,male,male
 Herman Carey Bumpus,1905,male,male,male
+Winslow Upton,1906,male,male,male
 Everett Colby,1906,male,male,male
 Frank Stockton Dobbins,1906,male,male,male
 George Blinn Francis,1906,male,unknown,male
@@ -899,7 +900,6 @@ Franklin Garrett McKeever,1906,male,male,male
 Charles Evans Hughes,1906,male,male,male
 Henry Watterson,1906,male,male,male
 Horace White,1906,male,male,male
-Winslow Upton,1906,unknown,unknown,unknown
 Stephen Harris Arnold,1907,male,male,male
 John Hope,1907,male,male,male
 Charles Frederic Aked,1907,male,male,male
@@ -910,8 +910,8 @@ Carl Barus,1907,male,male,male
 Arthur Lewis Brown,1907,male,male,male
 George Frederick Jelly,1907,male,unknown,male
 Wallace Clement Sabine,1907,male,male,male
+Sam Walter Foss,1908,male,male,male
 Fred Davis Aldrich,1908,male,male,male
-Sam Walter Foss,1908,mostly_male,unknown,unknown
 James Henry Higgins,1908,male,male,male
 Alfred Williams Anthony,1908,male,male,male
 Cornelius Samuel Savage,1908,male,male,male
@@ -922,11 +922,11 @@ Clarence Saunders Brigham,1909,male,male,male
 Clarence Augustus Barbour,1909,male,male,male
 Arthur Rogers,1909,male,male,male
 Gerald Birney Smith,1909,male,male,male
-Julia Ward Howe,1909,female,female,female
 Frederick Byron Hall,1909,male,male,male
 Charles Value Chapin,1909,male,male,male
 William Crawford Gorgas,1909,male,male,male
 John Brown Francis Herreshoff,1909,male,male,male
+Julia Ward Howe,1909,female,female,female
 Henry Ames Barker,1910,male,male,male
 Walter Perley Hall,1910,male,male,male
 Daniel Berkeley Updike,1910,male,male,male
@@ -934,29 +934,29 @@ William Coleman Bitting,1910,male,male,male
 Edward Church Dubois,1910,male,male,male
 Samuel Chiles Mitchell,1910,male,male,male
 Johann Heinrich von Bernstorff,1910,male,male,male
+Mary Colman Wheeler,1911,female,female,female
+Ellen Fitz Pendleton,1911,female,female,female
 Charles Frederick Harper,1911,male,male,male
 Frank Evans Seagrave,1911,male,male,male
-Mary Colman Wheeler,1911,mostly_female,unknown,unknown
 Wilbur Brown Parshley,1911,male,male,male
 William Warner Hoppin,1911,male,male,male
-Ellen Fitz Pendleton,1911,female,unknown,unknown
 William Edward Simonds,1911,male,male,male
 Charles Nagel,1911,male,male,male
 George Grafton Wilson,1911,male,unknown,male
 Homer Jay Wheeler,1911,male,male,male
-Sydney Richmond Burleigh,1912,mostly_male,unknown,unknown
+Sydney Richmond Burleigh,1912,male,male,male
+Dana Carlton Munro,1912,male,male,male
+Inazo Nitobe,1912,male,male,male
 William Colver Hill,1912,male,male,male
 Robert Archibald Ashworth,1912,male,male,male
 William Sheafe Chase,1912,male,male,male
 James DeWolf Perry,1912,male,male,male
-Dana Carlton Munro,1912,female,unknown,unknown
 Lewis Ezra Hicks,1912,male,male,male
-Inazo Nitobe,1912,unknown,unknown,unknown
 Ezra Ripley Thayer,1912,male,male,male
 William Joseph Hussey,1912,male,male,male
+Sophronia Maria Elliott,1913,female,female,female
 Walter Benjamin Briggs,1913,male,male,male
 George Dudley Church,1913,male,unknown,male
-Sophronia Maria Elliott,1913,unknown,female,unknown
 Charles Cotton,1913,male,male,male
 Louis Childs Sanford,1913,male,male,male
 Richard Miner Vaughan,1913,male,male,male
@@ -966,15 +966,17 @@ William Roscoe Thayer,1913,male,male,male
 Alexander Meiklejohn,1913,male,male,male
 Edward Douglass White,1913,male,male,male
 Frank Michler Chapman,1913,male,male,male
+Austen Kennedy DeBlois,1914,male,male,male
+George Hodges,1914,male,male,male
+Shailer Mathews,1914,male,male,male
+LeBaron Bradford Colt,1914,male,male,male
+Abbott Lawrence Lowell,1914,male,male,male
+Romulo Sebastian Naon,1914,male,male,male
 Richard Borden Comstock,1914,male,male,male
-Eliza Greene Radeke,1914,female,female,female
 John Davison Rockefeller,1914,male,male,male
 Charles Reynolds Brown,1914,male,male,male
-Austen Kennedy DeBlois,1914,male,unknown,unknown
 William Edward Gardner,1914,male,male,male
 George Angier Gordon,1914,male,unknown,male
-George Hodges,1914,male,unknown,unknown
-Shailer Mathews,1914,unknown,unknown,unknown
 Thomas Roberts Slicer,1914,male,male,male
 Herman William Watjen,1914,male,male,male
 William Cunningham,1914,male,male,male
@@ -988,7 +990,6 @@ Vernon Purinton Squires,1914,male,male,male
 Frank William Taussig,1914,male,male,male
 Nicholas Murray Butler,1914,male,male,male
 Andrew Carnegie,1914,male,male,male
-LeBaron Bradford Colt,1914,unknown,unknown,unknown
 Howard Edwards,1914,male,male,male
 Stephen Ostrom Edwards,1914,male,male,male
 Charles William Eliot,1914,male,male,male
@@ -997,9 +998,7 @@ Arthur Twining Hadley,1914,male,male,male
 John Grier Hibben,1914,male,male,male
 Alexander Crombie Humphreys,1914,male,male,male
 Clarke Howard Johnson,1914,male,male,male
-Abbott Lawrence Lowell,1914,unknown,male,unknown
 John Bassett Moore,1914,male,male,male
-Romulo Sebastian Naon,1914,unknown,unknown,unknown
 William Peterson,1914,male,male,male
 Federico Alfonso Pezet,1914,male,male,male
 Carl Copping Plehn,1914,male,male,male
@@ -1007,11 +1006,13 @@ Jacob Gould Schurman,1914,male,male,male
 Edgar Fahs Smith,1914,male,male,male
 Robert Cooper Smith,1914,male,male,male
 William Howard Taft,1914,male,male,male
-Martha Carey Thomas,1914,female,female,female
 Louis Agricola Bauer,1914,male,male,male
 William Bragg,1914,male,male,male
 Simon Flexner,1914,male,male,male
 Luther Emmett Holt,1914,male,male,male
+Eliza Greene Radeke,1914,female,female,female
+Martha Carey Thomas,1914,female,female,female
+Talcott Williams,1915,male,male,male
 Charles Henry Forbes,1915,male,male,male
 Theodore Barrows Stowell,1915,male,male,male
 James Preston Wilson,1915,male,male,male
@@ -1019,29 +1020,28 @@ Samuel Gavitt Babcock,1915,male,male,male
 Clarence Mason Gallup,1915,male,male,male
 Walter Cochrane Bronson,1915,male,male,male
 Walter Raleigh,1915,male,male,male
-Talcott Williams,1915,unknown,unknown,unknown
 John Huston Finley,1915,male,male,male
 Henry Noble MacCracken,1915,male,male,male
-Zenas Work Bliss,1916,unknown,male,unknown
-Allyn King Foster,1916,mostly_female,unknown,unknown
+Zenas Work Bliss,1916,male,male,male
+Allyn King Foster,1916,male,male,male
+Anne Crosby Emery Allinson,1916,female,female,female
 James Hovey Spencer,1916,male,male,male
-Anne Crosby Emery Allinson,1916,female,unknown,unknown
 William Allen Wilbur,1916,male,male,male
 Frank Sigel Dietrich,1916,male,male,male
 Herbert Clark Hoover,1916,male,male,male
 Franklin Knight Lane,1916,male,male,male
 Brand Whitlock,1916,male,male,male
-Helen Barrett Montgomery,1917,female,female,female
+Dallas Lore Sharp,1917,male,male,male
 Frank Austin Smith,1917,male,male,male
 Peter Clark Wright,1917,male,male,male
 Stephen Butler Leacock,1917,male,male,male
-Dallas Lore Sharp,1917,mostly_male,unknown,unknown
 Samuel Coffin Eastman,1917,male,male,male
 Lindley Miller Garrison,1917,male,male,male
 Samuel Hanson Ordway,1917,male,male,male
 John Emery Bucher,1917,male,male,male
-Mary Sewell Gardner,1918,mostly_female,unknown,unknown
-Inman Edward Page,1918,unknown,unknown,unknown
+Helen Barrett Montgomery,1917,female,female,female
+Mary Sewell Gardner,1918,female,female,female
+Inman Edward Page,1918,male,male,male
 William Angell Viall,1918,male,male,male
 Edward Holyoke,1918,male,male,male
 Joseph Taylor,1918,male,male,male
@@ -1049,9 +1049,9 @@ Charles Lemuel Nichols,1918,male,male,male
 Elon Rouse Brown,1918,male,male,male
 Henry Cabot Lodge,1918,male,male,male
 William Allan Neilson,1918,male,male,male
+Worthington Chauncey Ford,1919,male,male,male
 Hezekiah Anthony Dyer,1919,male,male,male
 Joseph Chandler Robbins,1919,male,male,male
-Worthington Chauncey Ford,1919,unknown,unknown,unknown
 Enoch Herbert Crowder,1919,male,male,male
 Joseph Mercier Desiré,1919,male,male,male
 Ernest Martin Hopkins,1919,male,male,male
@@ -1067,24 +1067,24 @@ Vernon Lyman Kellogg,1920,male,male,male
 William Grant Van Horne,1920,male,male,male
 Frank Arthur Vanderlip,1920,male,male,male
 Alexis Carrel,1920,male,male,male
+Jesse Houghton Metcalf,1921,male,male,male
+Emile de Cartier de Marchienne,1921,male,male,male
+Hideyo Noguchi,1921,male,male,male
 Stephen Perkins Cabot,1921,male,male,male
-Jesse Houghton Metcalf,1921,male,unknown,unknown
 George Leander Shepley,1921,male,unknown,male
 William Walter Bustard,1921,male,male,male
 Philemon Fowler Sturges,1921,male,male,male
 Arthur Lord,1921,male,male,male
 William Lyon Phelps,1921,male,male,male
 Albert Jeremiah Beveridge,1921,male,male,male
-deMarchienne Cartier,1921,unknown,unknown,unknown
 Armando Vittorio Diaz,1921,male,male,male
 Ferdinand Foch,1921,male,male,male
 Reuben Eugene Walker,1921,male,male,male
-Hideyo Noguchi,1921,mostly_male,unknown,unknown
+Auckland Campbell Geddes,1922,male,male,male
 Charles Wheaton Abbot,1922,male,male,male
 Harry Westcott Rockwell,1922,male,male,male
 Frederick Lent,1922,male,male,male
 Augustus Phineas Reccord,1922,male,male,male
-Auckland Campbell Geddes,1922,unknown,unknown,unknown
 Sergius Alexander Korff,1922,male,male,male
 Arthur Younger Ford,1923,male,male,male
 Thomas Francis Irving McDonnell,1923,male,male,male
@@ -1096,25 +1096,25 @@ John William Davis,1923,male,male,male
 John Wingate Weeks,1923,male,male,male
 George David Birkhoff,1923,male,unknown,male
 James William McBain,1923,male,male,male
+Wilberforce Eames,1924,male,male,male
 Joseph Henry Gainer,1924,male,male,male
 James Henry Franklin,1924,male,male,male
-Wilberforce Eames,1924,unknown,unknown,unknown
 Robert Lincoln O’Brien,1924,male,male,male
 Masanao Hanihara,1924,male,male,male
 William Howard Sweetland,1924,male,male,male
-Margaret Bingham Stillwell,1925,female,female,female
 Thomas Burgess,1925,male,male,male
 Joseph Leishman Peacock,1925,male,male,male
 James Madison Stifler,1925,male,male,male
 John Hessin Clarke,1925,male,male,male
 George Lyman Kittredge,1925,male,unknown,male
 Albert Easton White,1925,male,male,male
+Margaret Bingham Stillwell,1925,female,female,female
+Marion Edwards Park,1926,female,female,female
+Winthrop John Vanleuven Osterhout,1926,male,male,male
 Walter Hampden,1926,male,male,male
 James Edward Freeman,1926,male,male,male
-Marion Edwards Park,1926,female,unknown,unknown
 Serge Koussevitzky,1926,male,male,male
 Roy Chapman Andrews,1926,male,male,male
-Winthrop John Vanleuven Osterhout,1926,unknown,male,unknown
 Clarence Monroe Bookman,1927,male,male,male
 Wallace Rutherford Lane,1927,male,male,male
 Walter Sargent,1927,male,male,male
@@ -1139,11 +1139,11 @@ Waldo Gifford Leland,1929,male,male,male
 Noble Brandon Judah,1929,male,male,male
 Arthur Hiler Ruggles,1929,male,male,male
 Frank Edward Winsor,1929,male,male,male
-Will Samuel Taylor,1930,mostly_male,unknown,unknown
+Will Samuel Taylor,1930,male,male,male
+Bliss Perry,1930,male,male,male
 William James Batt,1930,male,male,male
 Clarence Edward Chaney,1930,male,male,male
 Charles Carpenter Tillinghast,1930,male,male,male
-Bliss Perry,1930,unknown,male,unknown
 Frank Billings Kellogg,1930,male,male,male
 Willard Brooks Tanner,1930,male,male,male
 Raymond Mathewson Hood,1931,male,male,male
@@ -1153,9 +1153,9 @@ Albert Clark Thomas,1931,male,male,male
 Wilbur Lucius Cross,1931,male,male,male
 John Raleigh Mott,1931,male,male,male
 Henry Worth Thornton,1931,male,male,male
-Lillian Moller Gilbreth,1931,female,female,female
 Ambrose Swasey,1931,male,male,male
 Leon Edgar Truesdell,1931,male,male,male
+Lillian Moller Gilbreth,1931,female,female,female
 Oliver LaFarge,1932,male,male,male
 Arthur Leverett Washburn,1932,male,male,male
 Henry Watson Kent,1932,male,male,male
@@ -1165,29 +1165,29 @@ William Allen White,1932,male,male,male
 Lawrence Counselman Wroth,1932,male,male,male
 Walter Johannes Damrosch,1932,male,male,male
 Charles Franklin Kettering,1932,male,male,male
+Lipot Fejer,1933,male,male,male
 Charles Albert Selden,1933,male,male,male
 Jefferson Shiel,1933,male,male,male
 Daniel Clarence Holtom,1933,male,male,male
-Eva Le Gallienne,1933,female,female,female
 Benjamin Nathan Cardozo,1933,male,male,male
 Norman Staunton Dike,1933,male,male,male
 Franklin Winslow Johnson,1933,male,male,male
 Harold Higgins Swift,1933,male,male,male
 Niels Fleurik David Bohr,1933,male,male,male
-Lipot Fejer,1933,unknown,unknown,unknown
 Frederic Poole Gorham,1933,male,male,male
 Harlow Shapley,1933,male,male,male
+Eva Le Gallienne,1933,female,female,female
+Ollie Annette Randall,1934,female,female,female
 Andrew Adams,1934,male,male,male
-Ollie Annette Randall,1934,andy,unknown,unknown
 Arthur Howe Bradford,1934,male,male,male
 George Sarton,1934,male,unknown,male
 Clarence Saunders Brigham,1934,male,male,male
 Charles Evans,1934,male,male,male
 Newton Diehl Baker,1934,male,male,male
-Ada Louise Comstock,1934,female,female,female
-Ada Louise Comstock Notestein,1934,female,female,female
 Wassili Leps,1934,male,male,male
 George Ellett Coghill,1934,male,unknown,male
+Ada Louise Comstock,1934,female,female,female
+Ada Louise Comstock Notestein,1934,female,female,female
 Richard Aldrich,1935,male,male,male
 Charles Eliot Goodspeed,1935,male,male,male
 Royal Bailey Farnum,1935,male,male,male
@@ -1220,57 +1220,57 @@ Charles Evans Hughes Jr.,1937,male,male,male
 John Davison Rockefeller,1937,male,male,male
 Ernst Mahler,1937,male,male,male
 Maud Slye,1937,female,female,female
+Allyn Larrabee Brown,1938,male,male,male
 James Harold Williams,1938,male,male,male
 William Reid,1938,male,male,male
 Edmund Cody Burnett,1938,male,male,male
-Allyn Larrabee Brown,1938,mostly_female,unknown,unknown
 Thomas Edmund Dewey,1938,male,male,male
 Lewis Williams Douglas,1938,male,male,male
-Meta Glass,1938,female,female,female
 Walter Guyton Cady,1938,male,male,male
 Frederick Slocum,1938,male,male,male
+Meta Glass,1938,female,female,female
+Halsey William Wilson,1939,male,male,male
+Vannevar Bush,1939,male,male,male
+Sumner Welles,1939,male,male,male
 Eric Carl Wendelin,1939,male,male,male
 Carl Ivar Hellstrom,1939,male,male,male
 William Setchel Learned,1939,male,male,male
-Halsey William Wilson,1939,unknown,male,unknown
-Vannevar Bush,1939,unknown,unknown,unknown
-Helen Metcalf Danforth,1939,female,female,female
 Albert Davis Mead,1939,male,male,male
 Owen Josephus Roberts,1939,male,male,male
-Sumner Welles,1939,unknown,male,unknown
+Helen Metcalf Danforth,1939,female,female,female
+Dana Gardner Munro,1940,male,male,male
+Rene Doynel Saint-Quentin,1940,male,male,male
+Hu Shih,1940,male,male,male
 Albert Edgar Lownes,1940,male,male,male
 William Granville Meader,1940,male,male,male
 Arthur Osborn Pritchard,1940,male,male,male
-Maud Howe Elliott,1940,female,female,female
 Felipe Alberto Espil,1940,male,male,male
-Dana Gardner Munro,1940,female,unknown,unknown
 Robert Kilburn Root,1940,male,male,male
-Rene Doynel Saint-Quentin,1940,male,unknown,unknown
-Hu Shih,1940,andy,unknown,unknown
 Thomas Harper Goodspeed,1940,male,male,male
-Winifred Loretta Fitzpatrick,1941,female,female,female
+Maud Howe Elliott,1940,female,female,female
+Wilbour Eddy Saunders,1941,male,male,male
+Ray Osgood Hughes,1941,male,male,male
+Glenn Luther Martin,1941,male,male,male
 Newton Alexander Merritt,1941,male,male,male
-Wilbour Eddy Saunders,1941,unknown,unknown,unknown
-Ray Osgood Hughes,1941,mostly_male,unknown,unknown
-Kathryn McHale,1941,female,female,female
 Marshall Stewart Brown,1941,male,male,male
 John Jordan Dillon,1941,male,male,male
 Frank Ross McCoy,1941,male,male,male
 Paul Van Zeeland,1941,male,male,male
-Glenn Luther Martin,1941,male,unknown,unknown
 Robert Cushman Murphy,1941,male,male,male
+Winifred Loretta Fitzpatrick,1941,female,female,female
+Kathryn McHale,1941,female,female,female
 Louis Israel Newman,1942,male,male,male
 Arthur Leverett Washburn,1942,male,male,male
-Katharine Everett Gilbert,1942,female,female,female
 Quentin James Reynolds,1942,male,male,male
-Margaret Bingham Stillwell,1942,female,female,female
 Simeon Strunsky,1942,male,male,male
 Hamilton Fish Armstrong,1942,male,male,male
-Katharine Elizabeth McBride,1942,female,female,female
 Harry Ervin Yarnell,1942,male,male,male
+Arthur Francis Buddington,1942,male,male,male
+Katharine Everett Gilbert,1942,female,female,female
+Margaret Bingham Stillwell,1942,female,female,female
+Katharine Elizabeth McBride,1942,female,female,female
 Nadia Boulanger,1942,female,female,female
 Katharine Burr Blodgett,1942,female,female,female
-Arthur Francis Buddington,1942,male,male,male
 George Burton Hibbert,1943,male,unknown,male
 William Thomas Green,1943,male,male,male
 Chester Irving Barnard,1943,male,male,male
@@ -1278,21 +1278,21 @@ Lewis Herold Brown,1943,male,male,male
 Victor Lloyd Butterfield,1943,male,male,male
 Walter Franklin George,1943,male,male,male
 John Schoff Millis,1943,male,male,male
+Winthrop Williams Aldrich,1944,male,male,male
+Ray Atherton,1944,male,male,male
 Harold Crins Field,1944,male,male,male
 John Bartlet Brebner,1944,male,male,male
 Arthur Hays Sulzberger,1944,male,male,male
-Winthrop Williams Aldrich,1944,unknown,male,unknown
-Ray Atherton,1944,mostly_male,unknown,unknown
 Alexander Archer Vandegrift,1944,male,male,male
 Moses Leverock Crossley,1944,male,male,male
-Anna Spencer Canada Swain,1945,female,female,female
+Wilmarth Sheldon Lewis,1945,male,male,male
 James Vernon Claypool,1945,male,male,male
 Norris Lowell Tibbetts,1945,male,male,male
-Wilmarth Sheldon Lewis,1945,unknown,unknown,unknown
 Henri Bonnet,1945,male,male,male
 Charles Henry Hare,1945,male,male,male
 John Christopher Mahoney,1945,male,male,male
 John Lord O’Brian,1945,male,male,male
+Anna Spencer Canada Swain,1945,female,female,female
 Dwight Townsend Colley,1946,male,male,male
 Hugh Stanford McLeod,1946,male,male,male
 Charles Raymond Chappell,1946,male,male,male
@@ -1306,9 +1306,9 @@ John Sloan Dickey,1946,male,male,male
 Royal Bertrand Lord,1946,male,male,male
 Raymond Ames Spruance,1946,male,male,male
 Charles August Kraus,1946,male,male,male
+Merrick Lyon Streeter,1947,male,male,male
+Marion Shirley Cole,1947,female,unknown,female
 Louis Cardell Gerry,1947,male,male,male
-Merrick Lyon Streeter,1947,unknown,male,unknown
-Marion Shirley Cole,1947,female,unknown,unknown
 Granville Bennett,1947,male,male,male
 James Cross Collins,1947,male,male,male
 Allen Welsh Dulles,1947,male,male,male
@@ -1316,14 +1316,14 @@ Arthur Bartlett Homer,1947,male,male,male
 George Catlett Marshall,1947,male,unknown,male
 Harold Gardiner Bowen,1947,male,male,male
 Columbus O’Donnell Iselin,1947,male,male,male
+Lathrop Colgate Harper,1948,male,male,male
 Kenneth Safford Parker,1948,male,male,male
 Earl Hollier Tomlin,1948,male,male,male
-Lathrop Colgate Harper,1948,unknown,unknown,unknown
 Julius Seelye Bixler,1948,male,male,male
 Gonzalo Edward Buxton,1948,male,male,male
-Margaret Shove Morriss,1948,female,female,female
 Roland George Dwight Richardson,1948,male,male,male
 Robert Wilbur Burgess,1948,male,male,male
+Margaret Shove Morriss,1948,female,female,female
 Israel Mordecai Goldman,1949,male,male,male
 Reginald Poland,1949,male,male,male
 Richard Stanley Merrill Emrich,1949,male,male,male
@@ -1332,36 +1332,35 @@ Robert Porter Patterson,1949,male,male,male
 Elmer Tomkins Stevens,1949,male,male,male
 Harold Brooks Tanner,1949,male,male,male
 John Wymond Miller Bunker,1949,male,male,male
+Mary Elizabeth Sharpe,1950,female,female,female
 John Fujio Aiso,1950,male,male,male
-Lula Pulliam Colwell,1950,female,female,female
-Edith Lockwood Danielson Howard,1950,female,female,female
-Mary Elizabeth Sharpe,1950,mostly_female,unknown,unknown
-Ruth Hussey Longenecker,1950,female,female,female
 Thomas Whittemore,1950,male,male,male
 James Van Benschoten Bennett,1950,male,male,male
-Sarah Gibson Blanding,1950,female,female,female
 William Russell Burwell,1950,male,male,male
 Erwin Nathaniel Griswold,1950,male,male,male
 Jacob Viner,1950,male,male,male
+Lula Pulliam Colwell,1950,female,female,female
+Edith Lockwood Danielson Howard,1950,female,female,female
+Ruth Hussey Longenecker,1950,female,female,female
+Sarah Gibson Blanding,1950,female,female,female
 Paul Comly French,1951,male,male,male
 Robert Hugo Schacht Jr.,1951,male,male,male
 Thomas Mott Shaw,1951,male,male,male
-Grace Mabel Sherwood,1951,female,female,female
 Mark Anthony De Wolfe Howe,1951,male,male,male
 William Clyde DeVane,1951,male,male,male
 Dudley Harmon,1951,male,male,male
 Grayson Louis Kirk,1951,male,male,male
 Robert Abercrombie Lovett,1951,male,male,male
 Harry Westcott Rockwell,1951,male,male,male
+Grace Mabel Sherwood,1951,female,female,female
+Sevellon Ledyard Brown,1952,male,male,male
 Donald Greenless Wright,1952,male,male,male
 Clarence Edgar Sherman,1952,male,male,male
-Sevellon Ledyard Brown,1952,unknown,unknown,unknown
-Bernice Brown Cronkhite,1952,female,female,female
 William Colver Hill,1952,male,male,male
 Charles Habib Malik,1952,male,male,male
 John Joseph Muccio,1952,male,male,male
 Leonard Carmichael,1952,male,male,male
-Ada Holding Miller,1953,female,female,female
+Bernice Brown Cronkhite,1952,female,female,female
 Theodore Otto Wedel,1953,male,male,male
 Luther Harris Evans,1953,male,male,male
 Paul Herman Buck,1953,male,male,male
@@ -1370,6 +1369,7 @@ William Archibald Macintosh,1953,male,male,male
 Harry Shulman,1953,male,male,male
 James Charles White,1953,male,male,male
 Charles Anthony McDonald,1953,male,male,male
+Ada Holding Miller,1953,female,female,female
 Gordon Edward Bigelow,1954,male,male,male
 Merrill Kelley Bennett,1954,male,male,male
 Harold Willis Dodds,1954,male,male,male
@@ -1380,11 +1380,9 @@ Clarence Belden Randall,1954,male,male,male
 Alexander Manlius Burgess,1954,male,male,male
 Fiorindo Anthony Simeone,1954,male,male,male
 Frederick Calvin Broomhead,1955,male,male,male
-Marguerite Woodworth Wriston,1955,female,female,female
 William Gordon Braude,1955,male,male,male
 Edward Geier Freehafer,1955,male,male,male
 William Easton Louttit,1955,male,male,male
-Margaret Clapp,1955,female,female,female
 James Stacy Coles,1955,male,male,male
 John Seville Higgins,1955,male,male,male
 Rowland Roberts Hughes,1955,male,male,male
@@ -1395,7 +1393,8 @@ Robert Joseph Slavin,1955,male,male,male
 Carl Raymond Woodward,1955,male,male,male
 Henry Merritt Wriston,1955,male,male,male
 Henry Welch,1955,male,male,male
-Rosamund Cross,1956,female,female,female
+Marguerite Woodworth Wriston,1955,female,female,female
+Margaret Clapp,1955,female,female,female
 Arthur Eugene Jensen,1956,male,male,male
 William Thomson Hastings,1956,male,male,male
 James Phinney Baxter,1956,male,male,male
@@ -1404,29 +1403,29 @@ Wayne Clayton Grover,1956,male,male,male
 John Jay McCloy,1956,male,male,male
 Roy Harmon Smith,1956,male,male,male
 Charles Allen Thomas,1956,male,male,male
+Rosamund Cross,1956,female,female,female
+McGeorge Bundy,1957,male,male,male
+Marion Bayard Folsom,1957,male,male,male
+Christian Archibald Herter,1957,male,male,male
 Edward Burgess Aldrich,1957,male,male,male
-Margaret Reese Langdon,1957,female,female,female
 Lawrence Lazelle Durgin,1957,male,male,male
 John Robinson Frazier,1957,male,male,male
 John Tracy Winterich,1957,male,male,male
-McGeorge Bundy,1957,unknown,unknown,unknown
-Marion Bayard Folsom,1957,female,unknown,unknown
-Christian Archibald Herter,1957,male,unknown,unknown
 Alfred Clarence Neal,1957,male,male,male
 Thomas John Watson Jr.,1957,male,male,male
+Margaret Reese Langdon,1957,female,female,female
+Mary Isabelle Hall,1958,female,female,female
+Sidney Earle Smith,1958,male,male,male
 Thomas Freeman Gilbane,1958,male,male,male
 William James Gilbane,1958,male,male,male
 Homer Leroy Trickett,1958,male,male,male
 Arthur E. Wilson,1958,male,male,male
 John Hutchins Cady,1958,male,male,male
-Helen Hayes MacArthur,1958,female,female,female
 William Chesley Worthington,1958,male,male,male
 Robert Francis Goheen,1958,male,male,male
-Mary Isabelle Hall,1958,mostly_female,unknown,unknown
 William Clement Gaige,1958,male,male,male
 David Gwilym James,1958,male,male,male
 Gordon Lancaster Parker,1958,male,male,male
-Sidney Earle Smith,1958,mostly_male,unknown,unknown
 Nils Yngve Wessell,1958,male,male,male
 John Hay Whitney,1958,male,male,male
 Warren Russell Ward,1958,male,male,male
@@ -1435,13 +1434,13 @@ Joseph McVicker Hunt,1958,male,male,male
 Donald Benjamin Lindsley,1958,male,male,male
 Herman Canfield Pitts,1958,male,male,male
 Raymond Louis Wilder,1958,male,male,male
-Jean Browning Madeira,1959,male,unknown,unknown
+Helen Hayes MacArthur,1958,female,female,female
+Jean Browning Madeira,1959,female,female,female
 Olin James Stephens,1959,male,male,male
 Roderick Stephens Jr.,1959,male,male,male
 Samuel Belkin,1959,male,male,male
 John Walker,1959,male,male,male
 Kaare Roald Bergethon,1959,male,male,male
-Irma Gyllenberg Cull,1959,female,female,female
 John William Gardner,1959,male,male,male
 Robert Hale Ives Goddard,1959,male,male,male
 Gaylord Probasco Harnwell,1959,male,male,male
@@ -1449,6 +1448,7 @@ Lyndon Baines Johnson,1959,male,male,male
 Elmer George MacDowell,1959,male,male,male
 Donald Gordon Millar,1959,male,male,male
 Walter Henry Reynolds,1959,male,male,male
+Irma Gyllenberg Cull,1959,female,female,female
 John Vernon Butler,1960,male,male,male
 Arthur Turbitt Geoghegen,1960,male,male,male
 Paul Judson Braisted,1960,male,male,male
@@ -1460,46 +1460,48 @@ Edward Allen Pierce,1960,male,male,male
 Austin Wakeman Scott,1960,male,male,male
 Marshall Nairne Fulton,1960,male,male,male
 Warren Charles Johnson,1960,male,male,male
-Millar Burrows,1961,unknown,unknown,unknown
-Ben Haig Bagdikian,1961,male,unknown,unknown
-Whitney Jennings Oates,1961,mostly_male,unknown,unknown
-Sir Sydney Castle Roberts,1961,unknown,unknown,unknown
+Millar Burrows,1961,male,male,male
+Ben Haig Bagdikian,1961,male,male,male
+Whitney Jennings Oates,1961,male,male,male
+Sir Sydney Castle Roberts,1961,male,male,male
 Curt John Ducasse,1961,male,male,male
 John Edward Fogarty,1961,male,male,male
-Eva Nellie Blanche Hughes,1961,female,female,female
 Otto Kerner,1961,male,male,male
-Nancy Duke Lewis,1961,female,female,female
 Hugh Stanford McLeod,1961,male,male,male
 Theodore Von Karman,1961,male,male,male
-Anne S. Kinsolving Brown,1962,female,unknown,unknown
+Eva Nellie Blanche Hughes,1961,female,female,female
+Nancy Duke Lewis,1961,female,female,female
+Anne S. Kinsolving Brown,1962,female,female,female
+Hymen Samuel Mayerson,1962,male,male,male
 Philip May Hamer,1962,male,male,male
 Daniel Lucius Brown,1962,male,male,male
 Arthur Hobson Dean,1962,male,male,male
 Clifford Phelps Morehouse,1962,male,male,male
-Rosemary Park,1962,female,female,female
-Doris Brown Reed,1962,female,female,female
 Arthur Rubinstein,1962,male,male,male
 Herman Carey Bumpus Jr.,1962,male,male,male
 Herbert Elisha Harris,1962,male,male,male
 Ross Clayton MacCardle,1962,male,male,male
-Hymen Samuel Mayerson,1962,unknown,male,unknown
 Samuel Milton Nabrit,1962,male,male,male
 Lars Onsager,1962,male,male,male
+Rosemary Park,1962,female,female,female
+Doris Brown Reed,1962,female,female,female
+Hunter Sylvester Marston,1963,male,male,male
+Sir David Ormsby-Gore,1963,male,male,male
 Ronald Vale Wells,1963,male,male,male
 Albert Abraham List,1963,male,male,male
 Jay Saunders Redding,1963,male,male,male
 Francis Henry Horn,1963,male,unknown,male
-Hunter Sylvester Marston,1963,mostly_male,unknown,unknown
-Sir David Ormsby-Gore,1963,unknown,unknown,unknown
 James Alfred Perkins,1963,male,male,male
-Jeanne Kittredge Watson,1963,female,female,female
 George Frederick Keyes,1963,male,unknown,male
+Jeanne Kittredge Watson,1963,female,female,female
+Loren Corey Eiseley,1964,male,male,male
+Archbishop Iakovos,1964,male,male,male
+Watson Smith,1964,male,male,male
 Herbert Gezork,1964,male,male,male
 James Lawrence Hanley,1964,male,male,male
 David Daiches,1964,male,male,male
 James Blaine Hedges,1964,male,male,male
 John McAllister Crawford Jr.,1964,male,male,male
-Loren Corey Eiseley,1964,mostly_male,unknown,unknown
 Ralph Waldo Gerard,1964,male,male,male
 Jack H. Hexter,1964,male,male,male
 Ralph Emerson McGill,1964,male,male,male
@@ -1510,11 +1512,8 @@ John Hubbard Chafee,1964,male,male,male
 Richard Cardinal Cushing,1964,male,male,male
 Vincent Cyril Dore,1964,male,male,male
 Maurice Nathan Eisendrath,1964,male,male,male
-Archbishop Iakovos,1964,unknown,unknown,unknown
 Arthur Lichtenberger,1964,male,male,male
 Charles Coolidge Parlin,1964,male,male,male
-Ada Lewis Sawyer,1964,female,female,female
-Watson Smith,1964,unknown,male,unknown
 Dirk Uipko Stikker,1964,male,male,male
 Owen Meredith Wilson,1964,male,male,male
 John Courtney Murray,1964,male,male,male
@@ -1522,35 +1521,35 @@ George Wells Beadle,1964,male,unknown,male
 Harvey Brooks,1964,male,male,male
 Solomon Lefschetz,1964,male,male,male
 Albert Szent-Gyorgyi,1964,male,male,male
-Powel Mills Dwaley,1965,unknown,unknown,unknown
+Ada Lewis Sawyer,1964,female,female,female
+Powel Mills Dwaley,1965,male,male,male
+Sidney Joseph Perelman,1965,male,male,male
+Zenas Randall Bliss,1965,male,male,male
+Lorimer Douglas Milton,1965,male,male,male
+Ollie Annette Randall,1965,female,female,female
 Willem Adolph Visser ’t Hooft,1965,male,male,male
 Richard Hubbard Howland,1965,male,male,male
-Grace Mary Glynn,1965,female,female,female
 Frederick Richmond Goff,1965,male,male,male
-Sidney Joseph Perelman,1965,mostly_male,unknown,unknown
-Zenas Randall Bliss,1965,unknown,male,unknown
 David Arthur Burchinal,1965,male,male,male
 Thomas Gardiner Corcoran,1965,male,male,male
 William Henry Edwards,1965,male,male,male
-Lorimer Douglas Milton,1965,male,unknown,unknown
-Ollie Annette Randall,1965,andy,unknown,unknown
 Harold Samuel Shefelman,1965,male,male,male
 Carl Pfaffmann,1965,male,male,male
 John Wilder Tukey,1965,male,male,male
 George Willis Waterman,1965,male,unknown,male
+Grace Mary Glynn,1965,female,female,female
+T. Dawson Brown,1966,unknown,unknown,male
 Clifton Waller Barrett,1966,male,male,male
 Gustave Otto Arlt,1966,male,male,male
-T. Dawson Brown,1966,unknown,unknown,unknown
 Gordon Eugene Cadwgan,1966,male,male,male
-Penelope Hartland-Thunberg,1966,female,female,female
 Joseph William Ress,1966,male,male,male
 Leonard Bernstein,1966,male,male,male
 Ward Darley,1966,male,male,male
+Penelope Hartland-Thunberg,1966,female,female,female
+Mary Critchfield Keeney,1967,female,female,female
+Kingman Brewster Jr.,1967,male,male,male
 Samuel Joseph Wylie,1967,male,male,male
-Mary Critchfield Keeney,1967,mostly_female,unknown,unknown
-Grace Emeline Barstow Murphy,1967,female,female,female
 Thomas Baird Appleget,1967,male,male,male
-Kingman Brewster Jr.,1967,unknown,unknown,unknown
 Edward William Day,1967,male,male,male
 Patrick James James,1967,male,male,male
 Barnaby Conrad Keeney,1967,male,male,male
@@ -1558,12 +1557,13 @@ George Albert Owens,1967,male,unknown,male
 Elvis Jacob Stahr,1967,male,male,male
 Charles Carpenter Tillinghast Jr.,1967,male,male,male
 William Potter Buffum,1967,male,male,male
+Grace Emeline Barstow Murphy,1967,female,female,female
 Helen Howard Nowlis,1967,female,female,female
+Mary Morley Crapo Hyde,1968,female,female,female
 John Bertram Lyte,1968,male,male,male
 Bob Hope,1968,male,male,male
 Louis Booker Wright,1968,male,male,male
 Samuel Foster Damon,1968,male,male,male
-Mary Morley Crapo Hyde,1968,mostly_female,unknown,unknown
 Harry Hunter Burton,1968,male,male,male
 John Sharpe Chafee,1968,male,male,male
 Irving Jay Fain,1968,male,male,male
@@ -1571,14 +1571,13 @@ John Rainsford Gosnell,1968,male,male,male
 George Mason Gross,1968,male,unknown,male
 Frederick Herbert Jackson,1968,male,male,male
 Frederick Seitz,1968,male,male,male
+Banice Feinberg,1969,male,male,male
+Shields Warren,1969,male,male,male
+Mary Lucy Cartwright,1969,female,female,female
 George Packer Berry,1969,male,unknown,male
 Kenneth Livingston Burdon,1969,male,male,male
-Gertrude Belle Elion,1969,female,female,female
-Banice Feinberg,1969,unknown,unknown,unknown
 Howard Archibald Rusk,1969,male,male,male
-Shields Warren,1969,unknown,unknown,unknown
 Jacob Nathaniel Blanck,1969,male,male,male
-Deborah Willen Meier,1969,female,female,female
 John Howland Rowe,1969,male,male,male
 Irving Raskin Levine,1969,male,male,male
 James Saville Eastham,1969,male,male,male
@@ -1588,62 +1587,63 @@ Henry Alfred Kissinger,1969,male,male,male
 Paul Levinger,1969,male,male,male
 Walter Bigelow Wriston,1969,male,male,male
 Edward Kennedy Ellington,1969,male,male,male
-Mary Lucy Cartwright,1969,mostly_female,unknown,unknown
 Thomas Otten Paine,1969,male,male,male
 Gordon Kidd Teal,1969,male,male,male
-Eli Aaron Bohnen,1970,female,unknown,unknown
-Rosa Schneider Wessel,1970,female,female,female
-Fredson Thayer Bowers,1970,unknown,unknown,unknown
-Mercer Cook,1970,unknown,male,unknown
+Gertrude Belle Elion,1969,female,female,female
+Deborah Willen Meier,1969,female,female,female
+Eli Aaron Bohnen,1970,male,male,male
+Fredson Thayer Bowers,1970,male,male,male
+Mercer Cook,1970,male,male,male
 John Carter Brown,1970,male,male,male
 Nathaniel Davis,1970,male,male,male
 Albert Edgar Lownes,1970,male,male,male
 Henry Dexter Sharpe Jr.,1970,male,male,male
+Rosa Schneider Wessel,1970,female,female,female
 Katherine Urquhart Warren,1970,female,female,female
+Germaine Bree,1971,female,female,female
+I. F. Stone,1971,male,male,male
+Minot Packer Fryer,1971,male,male,male
 Roy Pearson,1971,male,male,male
-Georgia O’Keeffe,1971,female,female,female
-Germaine Bree,1971,female,unknown,unknown
 Kenneth Mackenzie Clark,1971,male,male,male
-I. F. Stone,1971,unknown,unknown,unknown
 William Henry Hastie,1971,male,male,male
-Constance Baker Motley,1971,female,female,female
 James Augustine Shannon,1971,male,male,male
-Minot Packer Fryer,1971,unknown,unknown,unknown
 Alfred Lincoln Hawkes,1971,male,male,male
 Otto Eduard Neugebauer,1971,male,male,male
 Irwin W. Sizer,1971,male,male,male
-Adrian Hall,1972,male,unknown,unknown
-Elizabeth Bishop,1972,female,female,female
+Georgia O’Keeffe,1971,female,female,female
+Constance Baker Motley,1971,female,female,female
+Adrian Hall,1972,male,male,male
+Joan Mowat Erikson,1972,female,female,female
+Claiborne deBorda Pell,1972,male,male,male
+Bayard Rustin,1972,male,male,male
 Erik Homburger Erikson,1972,male,male,male
-Joan Mowat Erikson,1972,female,unknown,unknown
 Paul Abraham Freund,1972,male,male,male
-Patricia Roberts Harris,1972,female,female,female
-Claiborne deBorda Pell,1972,unknown,male,unknown
-Bayard Rustin,1972,unknown,male,unknown
 Richard Salomon,1972,male,male,male
 Robert Merton Solow,1972,male,male,male
+Elizabeth Bishop,1972,female,female,female
+Patricia Roberts Harris,1972,female,female,female
 Dorothy Elizabeth Bliss,1972,female,female,female
-Sarah Caldwell,1973,female,female,female
+C. Alexander Peloquin,1973,male,male,male
 Carleton Burke Chapman,1973,male,male,male
 John Nicholas Brown,1973,male,male,male
 John Hope Franklin,1973,male,male,male
 Louis Lorenzo Redding,1973,male,male,male
-C. Alexander Peloquin,1973,unknown,unknown,unknown
-Dorothy Crowfoot Hodgkin,1973,female,female,female
 Salvador Edward Luria,1973,male,male,male
 William Prager,1973,male,male,male
+Sarah Caldwell,1973,female,female,female
+Dorothy Crowfoot Hodgkin,1973,female,female,female
+Claude Raymond Branch,1974,male,male,male
 Frederick Hesley Belden,1974,male,male,male
 Benjamin Dean Meritt,1974,male,male,male
-Lucy Shoe Meritt,1974,female,female,female
-Gwendolyn Brooks,1974,female,female,female
 Austin Warren,1974,male,male,male
-Claude Raymond Branch,1974,mostly_male,unknown,unknown
-Katharine Graham,1974,female,female,female
 John Joseph Sirica,1974,male,male,male
 Arlan Ralph Coolidge,1974,male,male,male
 Leon N. Cooper,1974,male,male,male
-Antoinette Forrester Downing,1975,female,female,female
-Sidney Albert Fox,1975,mostly_male,unknown,unknown
+Lucy Shoe Meritt,1974,female,female,female
+Gwendolyn Brooks,1974,female,female,female
+Katharine Graham,1974,female,female,female
+Sidney Albert Fox,1975,male,male,male
+Sydney Dillon Ripley,1975,male,male,male
 Malcolm Clifford Todd,1975,male,male,male
 Robert Webb Kenny,1975,male,male,male
 Sterling Allen Brown,1975,male,male,male
@@ -1652,7 +1652,8 @@ Frank Licht,1975,male,male,male
 William Samuel Paley,1975,male,male,male
 Joseph Vincent Paterno,1975,male,male,male
 Charles Henry Watts,1975,male,male,male
-Sydney Dillon Ripley,1975,mostly_male,unknown,unknown
+Antoinette Forrester Downing,1975,female,female,female
+Jane Marion Oppenheimer,1976,female,female,female
 Louis Edward Gelineau,1976,male,male,male
 Harold Fredrik Cherniss,1976,male,male,male
 Robert Earl Hayden,1976,male,male,male
@@ -1662,37 +1663,34 @@ Walter Hoving,1976,male,male,male
 Lawrence Nathaniel Spitz,1976,male,male,male
 James Edwin Webb,1976,male,male,male
 Francis King Carey Madeira,1976,male,unknown,male
-Jane Marion Oppenheimer,1976,female,male,unknown
+Mstislav Rostropovich,1977,male,male,male
 Henry Crown,1977,male,male,male
 Vernon Eulion Jordan Jr.,1977,male,male,male
 Frederick Lippitt,1977,male,male,male
 Steven Muller,1977,male,male,male
 Frank James Newman,1977,male,male,male
-Mstislav Rostropovich,1977,unknown,male,unknown
 Harold Brown,1977,male,male,male
 Merrill Wallace Chase,1977,male,male,male
-Louise Nevelson,1978,female,female,female
 Edmund Sears Morgan,1978,male,male,male
-Elizabeth Florence Colson,1978,female,female,female
 George William Miller,1978,male,unknown,male
-Eleanor Holmes Norton,1978,female,female,female
 Merton Philip Stoltz,1978,male,male,male
 Isaac Stern,1978,male,male,male
 Henry Maurice Goldman,1978,male,male,male
 Robert Bruce Lindsay,1978,male,male,male
-Katherine Dunham,1979,female,female,female
-Juan Lopez-Morillas,1979,male,unknown,unknown
+Louise Nevelson,1978,female,female,female
+Elizabeth Florence Colson,1978,female,female,female
+Eleanor Holmes Norton,1978,female,female,female
+Juan Lopez-Morillas,1979,male,male,male
 Jakob Josef Petuchowski,1979,male,male,male
 Richard Reeves Baxter,1979,male,male,male
 Foster Barker Davis Jr.,1979,male,male,male
-Hanna Holborn Gray,1979,female,female,female
 James Bond Stockdale,1979,male,male,male
 Samuel Barber,1979,male,male,male
 Neil Alden Armstrong,1979,male,male,male
-Barbara Philippa McCarthy,1980,female,female,female
+Katherine Dunham,1979,female,female,female
+Hanna Holborn Gray,1979,female,female,female
 Ralph Waldo Ellison,1980,male,male,male
 Richard Lee Strout,1980,male,male,male
-Brooke Astor,1980,female,female,female
 Alfred Hahn Joslin,1980,male,male,male
 John George Kemeny,1980,male,male,male
 John George Kemey,1980,male,male,male
@@ -1700,7 +1698,9 @@ Theodore Roosevelt Newman Jr.,1980,male,male,male
 George Joseph Stigler,1980,male,unknown,male
 Aaron Copland,1980,male,male,male
 Eric Denhoff,1980,male,male,male
-Twyla Tharp,1981,female,female,female
+Barbara Philippa McCarthy,1980,female,female,female
+Brooke Astor,1980,female,female,female
+Lois Dickson Rice,1981,female,female,female
 Arnold Seymour Relman,1981,male,male,male
 Daniel Joseph Boorstin,1981,male,male,male
 Nathan Alexander Scott Jr.,1981,male,male,male
@@ -1708,352 +1708,351 @@ Walter Wellesley Smith,1981,male,male,male
 Warren Minor Christopher,1981,male,male,male
 Julian Howard Gibbs,1981,male,male,male
 Frederick Douglass Pollard,1981,male,male,male
-Lois Dickson Rice,1981,female,unknown,unknown
+Twyla Tharp,1981,female,female,female
 Ruth Harris Wolf,1981,female,female,female
-Elma Ina Lewis,1982,female,female,female
-Ieoh Ming Pei,1982,unknown,unknown,unknown
+Ieoh Ming Pei,1982,male,male,male
+Claude Peter Magrath,1982,male,male,male
 Aaron Temkin Beck,1982,male,male,male
 William Montague Cobb,1982,male,male,male
 Harold Pinter,1982,male,male,male
 Robert Hale Ives Goddard Jr.,1982,male,male,male
-Claude Peter Magrath,1982,mostly_male,unknown,unknown
-Cathleen Synge Morawetz,1982,female,female,female
 Kenneth Harry Olsen,1982,male,male,male
 Pindaros Roy Vagelos,1982,male,male,male
+Elma Ina Lewis,1982,female,female,female
+Cathleen Synge Morawetz,1982,female,female,female
 Robert George Petersdorf,1983,male,male,male
-Barbara Wertheim Tuchman,1983,female,female,female
 Bettino Craxi,1983,male,male,male
 George Frost Kennan,1983,male,unknown,male
 Theodore Kollek,1983,male,male,male
 Adam Bruno Ulam,1983,male,male,male
 John Watts Young,1983,male,male,male
+Barbara Wertheim Tuchman,1983,female,female,female
 Frederick Walter Barnes,1984,male,male,male
-Maya Angelou,1984,female,female,female
 Vartan Gregorian,1984,male,male,male
 James Charles Lehrer,1984,male,male,male
 Robert Breckenridge Ware MacNeil,1984,male,male,male
 Eugene Ionesco,1984,male,male,male
 William Allan Dyer Jr.,1984,male,male,male
-Marilyn Horne,1984,female,female,female
 Daniel Charles Drucker,1984,male,male,male
 Nicolaas Hendrik Kuiper,1984,male,male,male
 Michael James Lighthill,1984,male,male,male
+Maya Angelou,1984,female,female,female
+Marilyn Horne,1984,female,female,female
+An Wang,1985,male,male,male
 Robert Motherwell,1985,male,male,male
 William H. Cosby Jr.,1985,male,male,male
 Fred W. Friendly,1985,male,male,male
-Martha Sharp Joukowsky,1985,female,female,female
 Ernest J. Gaines,1985,male,male,male
 James Laughlin,1985,male,male,male
-Artemis A. W. Joukowsky,1985,female,female,female
 Thomas R. Peterson,1985,male,male,male
 Fernand Joseph St. Germain,1985,male,male,male
 Jonas Edward Salk,1985,male,male,male
-An Wang,1985,andy,unknown,unknown
-Phyllis Ann Wallace,1986,female,female,female
+Martha Sharp Joukowsky,1985,female,female,female
+Artemis A. W. Joukowsky,1985,female,female,female
 Rollo Gabriel Silver,1986,male,male,male
-Helen Thomas,1986,female,female,female
 Frank Taylor Cary,1986,male,male,male
 James William Fulbright,1986,male,male,male
 George Safford Parker,1986,male,unknown,male
 Laurance Spelman Rockefeller,1986,male,male,male
 Henry Giscard d’Estaing,1986,male,male,male
 John Trevor Stuart,1986,male,male,male
-Ester Boserup,1987,female,female,female
-Constance Chung,1987,female,female,female
-Joan Ganz Cooney,1987,female,unknown,unknown
+Phyllis Ann Wallace,1986,female,female,female
+Helen Thomas,1986,female,female,female
+Joan Ganz Cooney,1987,female,female,female
+Stevie Wonder,1987,male,male,male
 Theodor Seuss Geisel,1987,male,male,male
-Constance Chung Povich,1987,female,female,female
 Joseph Winterbotham Shaw,1987,male,male,male
 Earl Gilbert Graves,1987,male,male,male
 Fabio Roversi Monaco,1987,male,male,male
 Mario Alberto Nobre Lopes Soares,1987,male,male,male
-Stevland Morris,1987,unknown,unknown,unknown
-Stevie Wonder,1987,mostly_male,unknown,unknown
 Gustav Victor Rudolf Born,1987,male,male,male
-Liv Ullmann,1988,female,female,female
+Ester Boserup,1987,female,female,female
+Constance Chung,1987,female,female,female
+Constance Chung Povich,1987,female,female,female
+Wynton Marsalis,1988,male,male,male
 Roderick Milton Chisholm,1988,male,male,male
 Pedro Lain Entralgo,1988,male,male,male
 Humberto Eco,1988,male,male,male
 Gore Vidal,1988,male,male,male
 William Gordon Bowen,1988,male,male,male
-Ruth Burt Ekstrom,1988,female,female,female
 Cyrus Roberts Vance,1988,male,male,male
-Wynton Marsalis,1988,unknown,unknown,unknown
 Edwin Lowell Cooper,1988,male,male,male
 Donald Ervin Knuth,1988,male,male,male
+Liv Ullmann,1988,female,female,female
+Ruth Burt Ekstrom,1988,female,female,female
+Mary Maples Dunn,1989,female,female,female
+President Steven Muller,1989,male,male,male
 Edmund Wyatt Gordon,1989,male,male,male
 Theodore Martin Hesburgh,1989,male,male,male
 Carleton Peter Alexis,1989,male,male,male
 Emmanuel de Margerie,1989,male,male,male
-Mary Maples Dunn,1989,mostly_female,unknown,unknown
 David Pierpont Gardner,1989,male,male,male
 Carlos Salinas de Gortari,1989,male,male,male
 Gary Stewart Sasse,1989,male,male,male
 Howard Robert Swearer,1989,male,male,male
-Janet Baker Swearer,1989,female,female,female
 Melvin Morse Swig,1989,male,male,male
 Pinchas Zuckerman,1989,male,male,male
 Kenneth Vivian Thimann,1989,male,male,male
-President Steven Muller,1989,unknown,unknown,unknown
+Janet Baker Swearer,1989,female,female,female
+Mary Douglas Leakey,1990,female,female,female
 Charles Everett Koop,1990,male,male,male
-Chloe Anthony Morrison,1990,female,female,female
 Maurice Raymond Greenberg,1990,male,male,male
 Benjamin Lawson Hooks,1990,male,male,male
 Desmond Tutu,1990,male,male,male
-Mary Douglas Leakey,1990,mostly_female,unknown,unknown
 Richard Lester Solomon,1990,male,male,male
+Chloe Anthony Morrison,1990,female,female,female
+George Myles Cordell Fisher,1991,male,male,male
+Mary Terese Winifred Robinson,1991,female,female,female
+Alva Otis Way,1991,male,male,male
+Zubin Mehta,1991,male,male,male
 George Nelson Hunt,1991,male,unknown,male
+Nicanor Parra,1991,male,male,male
+Paul Henry Nitze,1991,male,male,male
+Eduard Amvrosiyevich Shevardnadze,1991,male,male,male
+Walter Eugene Massey,1991,male,male,male
 Linda Joyce Greenhouse,1991,female,female,female
 Judith Nisse Shklar,1991,female,female,female
 Elaine Baker Temkin,1991,female,female,female
-Nicanor Parra,1991,male,male,male
-George Myles Cordell Fisher,1991,male,unknown,unknown
-Paul Henry Nitze,1991,male,male,male
-Mary Terese Winifred Robinson,1991,mostly_female,unknown,unknown
-Eduard Amvrosiyevich Shevardnadze,1991,male,male,male
-Alva Otis Way,1991,andy,unknown,unknown
-Zubin Mehta,1991,unknown,male,unknown
-Walter Eugene Massey,1991,male,male,male
-Johnnetta Betsch Cole,1992,unknown,unknown,unknown
-Kathryn Scott Fuller,1992,female,female,female
-Joan Wallach Scott,1992,female,unknown,unknown
-Rosemary Pierrel Sorrentino,1992,female,female,female
-Marie Jean Langlois,1992,female,unknown,unknown
+Johnnetta Betsch Cole,1992,female,female,female
+Joan Wallach Scott,1992,female,female,female
+Marie Jean Langlois,1992,female,female,female
 Joseph Robert Weisberger,1992,male,male,male
 James Pierpont Comer,1992,male,male,male
+Kathryn Scott Fuller,1992,female,female,female
+Rosemary Pierrel Sorrentino,1992,female,female,female
+Ellen Stewart,1993,female,female,female
+Nafis Sadik,1993,female,female,female
 Richard Foreman,1993,male,male,male
 Richard David Gockley,1993,male,male,male
 Harold Prince,1993,male,male,male
-Ellen Stewart,1993,female,unknown,unknown
-Audrey Hepburn,1993,female,female,female
-Nafis Sadik,1993,unknown,unknown,unknown
-Lila Manfield Sapinsley,1993,female,female,female
 Robert Edward Turner III,1993,male,male,male
 Willard Carlisle Butcher,1993,male,male,male
 William H. Gray,1993,male,male,male
 William Duncan MacMillan,1993,male,male,male
 Peter David Lax,1993,male,male,male
+Audrey Hepburn,1993,female,female,female
+Lila Manfield Sapinsley,1993,female,female,female
+Bronislaw Geremek,1994,male,male,male
+Ira Charles Magaziner,1994,male,male,male
+Nak-Chung Paik,1994,male,male,male
+Joy Ungerleider-Mayerson,1994,female,female,female
 Matthew Daniel Scharff,1994,male,male,male
 Marian Wright Edelman,1994,male,male,male
-Bronislaw Geremek,1994,unknown,male,unknown
-Ira Charles Magaziner,1994,female,male,unknown
 Elliot Everett Maxwell,1994,male,male,male
-Nak-Chung Paik,1994,unknown,unknown,unknown
-Joy Ungerleider-Mayerson,1994,female,unknown,unknown
-Leonore Annenberg,1994,female,female,female
 Walter H. Annenberg,1994,male,male,male
-Nancy Lillian Buc,1994,female,female,female
 Hiroo Imura,1994,male,male,male
 Yasuhiko Torii,1994,male,male,male
 Masaru Ibuka,1994,male,male,male
 Robert Duncan MacPherson,1994,male,male,male
-Maya Ying Lin,1995,female,female,female
+Leonore Annenberg,1994,female,female,female
+Nancy Lillian Buc,1994,female,female,female
 Harold Bailey Jr.,1995,male,male,male
 Lyman G. Bloomingdale,1995,male,male,male
 Athol Fugard,1995,male,male,male
-Dorothy Sterling,1995,female,female,female
 William R. Hewlett,1995,male,male,male
 Shimon Peres,1995,male,male,male
+Maya Ying Lin,1995,female,female,female
+Dorothy Sterling,1995,female,female,female
+Aga Khan,1996,male,male,male
+Mary Chapin Carpenter,1996,female,female,female
 Edward D. Eddy,1996,male,male,male
 Timothy Carter Forbes,1996,male,male,male
-Agnes Gund,1996,female,female,female
 Arthur Mitchell,1996,male,male,male
 James D. Wolfensohn,1996,male,male,male
-Khan ,1996,unknown,unknown,unknown
-Sandra Day O’Connor,1996,female,female,female
-Mary Chapin Carpenter,1996,mostly_female,unknown,unknown
 Itzhak Perlman,1996,male,male,male
+Agnes Gund,1996,female,female,female
+Sandra Day O’Connor,1996,female,female,female
+Joyce Oldham Appleby,1997,female,female,female
+Jesús de Polanco,1997,male,male,male
+Clare Russell Gregorian,1997,female,female,female
+Sir Michael Atiyah,1997,male,male,male
 Augustus A. White III,1997,male,male,male
-Joyce Oldham Appleby,1997,female,unknown,unknown
-Jesús de Polanco,1997,unknown,unknown,unknown
 Leo Esaki,1997,male,male,male
 Rosario Ferré,1997,male,male,male
 Carlos Fuentes,1997,male,male,male
 Victor García de la Concha,1997,male,male,male
-Clare Russell Gregorian,1997,female,unknown,unknown
-Carolyn G. Heilbrun,1997,female,female,female
-Lorraine Monroe,1997,female,female,female
 Bill Moyers,1997,male,male,male
 John Hazen Sr. White,1997,male,male,male
 David Macaulay,1997,male,male,male
 Louis V. Gerstner Jr.,1997,male,male,male
 Richard C. Holbrooke,1997,male,male,male
-Sir Michael Atiyah,1997,unknown,unknown,unknown
 Maurice Glicksman,1997,male,male,male
 John P. McTague,1997,male,male,male
 Alan R. Mulally,1997,male,male,male
 Simon Ostrach,1997,male,male,male
 Ronald D. Probstein,1997,male,male,male
 James R. Rice,1997,male,male,male
-Chinua Achebe,1998,unknown,unknown,unknown
-H. Anthony Ittleson,1998,unknown,female,unknown
+Carolyn G. Heilbrun,1997,female,female,female
+Lorraine Monroe,1997,female,female,female
+Chinua Achebe,1998,male,male,male
+H. Anthony Ittleson,1998,male,male,male
+P. J. Patterson,1998,male,male,male
+Mamphela Aletta Ramphele,1998,female,female,female
 Theodore Ryland Sizer,1998,male,male,male
-P. J. Patterson,1998,unknown,unknown,unknown
-Mamphela Aletta Ramphele,1998,unknown,unknown,unknown
 Joseph L. Tauro,1998,male,male,male
-Janet L. Yellen,1998,female,female,female
 John Harris Harbison,1998,male,male,male
 Kenneth A. Ribet,1998,male,male,male
-Ruth L. Kirschstein,1999,female,female,female
+Janet L. Yellen,1998,female,female,female
+Her Majesty Queen Noor of Jordan Noor,1999,female,female,female
 Brian W. Dickinson,1999,male,male,male
 His Majesty King of Jordan Hussein,1999,male,male,male
 David J. Mahoney,1999,male,male,male
-Her Majesty Queen Noor of Jordan Noor,1999,unknown,unknown,unknown
 William J. Raspberry,1999,male,male,male
 Steven Spielberg,1999,male,male,male
 James Oliver Freedman,1999,male,male,male
 John Herschel Glenn Jr.,1999,male,male,male
 John Hume,1999,male,male,male
 Romano Prodi,1999,male,male,male
+Ruth L. Kirschstein,1999,female,female,female
 Julia Vadala Taft,1999,female,female,female
 Gustavo Gutierrez,2000,male,male,male
 Barnaby Evans,2000,male,male,male
 Brice Marden,2000,male,male,male
 Francis S. Collins,2000,male,unknown,male
 Louis W. Sullivan,2000,male,male,male
+David McCullough,2000,male,male,male
+John Seely Brown,2000,male,male,male
 Julia Child,2000,female,female,female
 Alice Shalvi,2000,female,female,female
-David McCullough,2000,male,male,male
 Dorothy DeLay,2000,female,female,female
-John Seely Brown,2000,male,male,male
-Madeleine Korbel Albright,2001,female,female,female
+Lorrin Andrews Riggs,2001,male,male,male
 Kofi A. Annan,2001,male,male,male
-Sheila E. Blumstein,2001,female,female,female
 Demetrios Christodoulou,2001,male,male,male
 Paul Jefferson Eustis,2001,male,male,male
-Margaret H. Marshall,2001,female,female,female
-Lorrin Andrews Riggs,2001,unknown,male,unknown
 Philip Roth,2001,male,male,male
 Lawrence Small,2001,male,male,male
+Madeleine Korbel Albright,2001,female,female,female
+Sheila E. Blumstein,2001,female,female,female
+Margaret H. Marshall,2001,female,female,female
+Sadako Ogata,2002,female,female,female
 John P. Birkelund,2002,male,male,male
 Raymond G. Chambers,2002,male,male,male
-Ruth Bader Ginsburg,2002,female,female,female
 Paul LeClerc,2002,male,male,male
+William D. Warner,2002,male,male,male
+Ruth Bader Ginsburg,2002,female,female,female
 Emily Arnold McCully,2002,female,female,female
 Jessye Norman,2002,female,female,female
-Sadako Ogata,2002,unknown,unknown,unknown
-William D. Warner,2002,male,male,male
+Lowery Stokes Sims,2003,female,female,female
+Joan Argetsinger Steitz,2003,female,female,female
+Sir Brian Urquhart,2003,male,male,male
+Xu Wenli,2003,male,male,male
 Mikhail Gorbachev,2003,male,male,male
-Laura Linney,2003,female,female,female
 Roger Mandle,2003,male,male,male
 Samuel Nunn,2003,male,male,male
-Lowery Stokes Sims,2003,unknown,unknown,unknown
-Joan Argetsinger Steitz,2003,female,unknown,unknown
-Sir Brian Urquhart,2003,unknown,unknown,unknown
-Xu Wenli,2003,andy,unknown,unknown
+Laura Linney,2003,female,female,female
+Suzan-Lori Parks,2004,female,female,female
+Jane Pauley,2004,female,female,female
 Fernando Henrique Cardoso,2004,male,male,male
 Malcolm G. Chace,2004,male,male,male
-Shirin Ebadi,2004,female,female,female
 Paul Farmer,2004,male,male,male
-Suzan-Lori Parks,2004,unknown,unknown,unknown
-Jane Pauley,2004,female,male,unknown
 Stephen Robert,2004,male,male,male
-Judith Rodin,2004,female,female,female
 Garry B. Trudeau,2004,male,male,male
-Christo,2005,unknown,unknown,unknown
-Jeanne-Claude,2005,unknown,unknown,unknown
+Shirin Ebadi,2004,female,female,female
+Judith Rodin,2004,female,female,female
+Christo,2005,male,male,male
+Jeanne-Claude,2005,female,female,female
+Sidney E. Frank,2005,male,male,male
+Mary-Claire King,2005,female,female,female
 David Eggers,2005,male,male,male
-Sidney E. Frank,2005,mostly_male,unknown,unknown
 Wesley T. Huntress Jr.,2005,male,male,male
-Mary-Claire King,2005,unknown,unknown,unknown
-Phylicia Rashad,2005,female,female,female
 William R. Rhodes,2005,male,male,male
-Sima Samar,2005,female,female,female
 Philip A. Smith,2005,male,male,male
+Phylicia Rashad,2005,female,female,female
+Sima Samar,2005,female,female,female
+Ngozi Okonjo-Iweala,2006,female,female,female
 Geoffrey Canada,2006,male,male,male
-Juliet V. Garcia,2006,female,female,female
 Kay Redfield Jamison,2006,male,male,male
 Friedrich St.Florian,2006,male,male,male
-Suniti Solomon,2006,female,female,female
 Paul A. Volcker,2006,male,male,male
 Martin J. Granoff,2006,male,male,male
-Ngozi Okonjo-Iweala,2006,unknown,male,unknown
+Juliet V. Garcia,2006,female,female,female
+Suniti Solomon,2006,female,female,female
 Susan Hockfield,2006,female,female,female
+Marvalene Hughes,2007,female,female,female
+"Riley ""B.B."" King",2007,male,male,male
 Stanley M. Aronson,2007,male,male,male
 Christopher J. Berman,2007,male,male,male
-Kate Burton,2007,female,female,female
 Scott S. Cowen,2007,male,male,male
 Norman C. Francis,2007,male,male,male
-Marvalene Hughes,2007,unknown,unknown,unknown
-"Riley ""B.B."" King",2007,mostly_male,unknown,unknown
 Craig C. Mello,2007,male,male,male
+Kate Burton,2007,female,female,female
 Samantha Power,2007,female,female,female
-Edwidge Danticat,2008,unknown,unknown,unknown
-Judith Jamison,2008,female,female,female
+Edwidge Danticat,2008,female,female,female
+Choon Fong Shih,2008,male,male,male
+Maria T. Zuber,2008,female,female,female
+Ellen Johnson Sirleaf,2008,female,female,female
 Matthew J. Mallow,2008,male,male,male
 Charles Robert Redford,2008,male,male,male
-Choon Fong Shih,2008,andy,unknown,unknown
+Judith Jamison,2008,female,female,female
 Wendy J. Strothman,2008,female,female,female
-Maria T. Zuber,2008,female,unknown,unknown
-Ellen Johnson Sirleaf,2008,female,unknown,unknown
+Mary L. Elmendorf,2009,female,female,female
+Jessie C. Gruman,2009,female,female,female
+Fareed Zakaria,2009,male,male,male
 Richard C. Barker,2009,male,male,male
-Mary L. Elmendorf,2009,mostly_female,unknown,unknown
 Jerald G. Fishman,2009,male,male,male
-Jessie C. Gruman,2009,female,unknown,unknown
 Jim Yong Kim,2009,male,male,male
 David E. Saltzman,2009,male,male,male
-Fareed Zakaria,2009,unknown,male,unknown
 Trude Dothan,2009,female,female,female
-Morgan Freeman,2010,mostly_male,unknown,unknown
-Barbara Liskov,2010,female,female,female
+Morgan Freeman,2010,male,male,male
+Shahrnush Parsipur,2010,female,female,female
+Romila Thapar,2010,female,female,female
 Nelson Mandela,2010,male,male,male
-Shahrnush Parsipur,2010,unknown,unknown,unknown
-Cecile Richards,2010,female,female,female
 David S. Rohde,2010,male,male,male
-Romila Thapar,2010,unknown,unknown,unknown
 Gordon S. Wood,2010,male,male,male
+Barbara Liskov,2010,female,female,female
+Cecile Richards,2010,female,female,female
+Lynn Ida Nottage,2011,female,female,female
+Zhao Zhenkai,2011,male,male,male
 Herbert Kaplan,2011,male,male,male
-Katie King Crowley,2011,female,female,female
-Arianna Huffington,2011,female,female,female
 Nicholas D. Kristof,2011,male,male,male
 David B. Mumford,2011,male,male,male
 John J. Nicholson,2011,male,male,male
-Lynn Ida Nottage,2011,mostly_female,unknown,unknown
-Lisa Randall,2011,female,female,female
 Kenneth Roth,2011,male,male,male
 David R. Scott,2011,male,male,male
-Zhao Zhenkai,2011,andy,unknown,unknown
+Katie King Crowley,2011,female,female,female
+Arianna Huffington,2011,female,female,female
+Lisa Randall,2011,female,female,female
+Gene Sharp,2012,male,male,male
+Wei Yang,2012,male,male,male
+John Robert Lewis,2012,male,male,male
+Sebastian A. Ruth,2012,male,male,male
 Carolyn Bertozzi,2012,female,female,female
 Viola Davis,2012,female,female,female
-John Robert Lewis,2012,male,male,male
 Marilynne Summers Robinson,2012,female,female,female
-Sebastian A. Ruth,2012,male,male,male
 Diane Sawyer,2012,female,female,female
-Gene Sharp,2012,mostly_male,unknown,unknown
 Ruth J. Simmons,2012,female,female,female
-Wei Yang,2012,andy,unknown,unknown
+Junot Díaz,2013,male,male,male
+Beverly Wade Hogan,2013,female,female,female
 Benjamin Affleck,2013,male,male,male
-Junot Díaz,2013,unknown,unknown,unknown
 Stanley Falkow,2013,male,male,male
-Beverly Wade Hogan,2013,female,unknown,unknown
-Risa J. Lavizzo-Mourey,2013,female,female,female
 Eduardo J. Padrón,2013,male,male,male
-Beatrice E. Coleman,2014,female,female,female
-Lee Eliot Berk,2014,mostly_male,unknown,unknown
+Risa J. Lavizzo-Mourey,2013,female,female,female
+Lee Eliot Berk,2014,male,male,male
+Mary Lou Jepsen,2014,female,female,female
+Lois Lowry,2014,female,female,female
 Jeffrey Eugenides,2014,male,male,male
 Arthur L. Horwich,2014,male,male,male
-Mary Lou Jepsen,2014,mostly_female,unknown,unknown
-Debra L. Lee,2014,female,female,female
-Lois Lowry,2014,female,unknown,unknown
-Nalini Moreshwar Nadkarni,2014,female,female,female
 Thomas E. Perez,2014,male,male,male
+Beatrice E. Coleman,2014,female,female,female
+Debra L. Lee,2014,female,female,female
+Nalini Moreshwar Nadkarni,2014,female,female,female
+Tracee Ellis Ross,2015,female,female,female
 Robert Anthony Corrigan,2015,male,male,male
-Louise Lamphere,2015,female,female,female
 David E. McKinney,2015,male,male,male
-Tracee Ellis Ross,2015,unknown,female,unknown
+Louise Lamphere,2015,female,female,female
 Susan Solomon,2015,female,female,female
 Kathryn D. Sullivan,2015,female,female,female
-Cornelia Isabella Bargmann,2016,female,female,female
-Thomas G. Catena ,2016,male,male,male
+Jean Elizabeth Howard,2016,female,female,female
+Thomas G. Catena,2016,male,male,male
 Umberto Crenca,2016,male,male,male
 Angus Deaton,2016,male,male,male
 Kevin Gover,2016,male,male,male
-Antonia Hernández,2016,female,female,female
-Jean Elizabeth Howard ,2016,male,unknown,unknown
 Charles M. Rosenthal,2016,male,male,male
+Cornelia Isabella Bargmann,2016,female,female,female
+Antonia Hernández,2016,female,female,female
+Daveed Diggs,2017,male,male,male
+Indra K. Nooyi,2017,female,female,female
 Robert De Niro,2017,male,male,male
-Daveed Diggs ,2017,unknown,unknown,unknown
-Donald C. Hood ,2017,male,male,male
-Indra K. Nooyi,2017,female,male,unknown
+Donald C. Hood,2017,male,male,male
 Richard D. Parsons,2017,male,male,male
 Rosmarie Waldrop,2017,female,female,female

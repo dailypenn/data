@@ -24,6 +24,8 @@ with open('genders_' + school + '_clean.csv', 'rb') as genders:
             start = '1757'
         elif school == 'harvard':
             start = '1692'
+        elif school == 'brown':
+            start = '1769'
 
     female = 0
     male = 0
