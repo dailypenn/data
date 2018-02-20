@@ -155,7 +155,7 @@ elif school == 'brown':
     honorees_by_year = brown()
 
 # write out all data to a csv
-with open('honorees_' + school + '.csv', 'wb') as output:
+with open('data/honorees_' + school + '.csv', 'wb') as output:
     honorees = csv.writer(output)
 
     for year in sorted(honorees_by_year):

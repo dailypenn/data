@@ -1,7 +1,7 @@
 import csv, sys
 
 if len(sys.argv) < 2:
-    sys.exit('Please enter a school name! Try Penn or Harvard.')
+    sys.exit('Please enter a school name! Try Penn, Brown, or Harvard.')
 
 school = sys.argv[1]
 start = ''
@@ -16,7 +16,7 @@ if len(sys.argv) is 4:
     start = sys.argv[2]
     end = str(int(sys.argv[3]) + 1)
 
-with open('genders_' + school + '_clean.csv', 'rb') as genders:
+with open('data/genders_' + school + '_clean.csv', 'rb') as genders:
     r = csv.reader(genders)
 
     if len(start) == 0:

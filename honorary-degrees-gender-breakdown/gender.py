@@ -12,7 +12,7 @@ school = sys.argv[1].lower()
 if school != 'penn' and school != 'harvard' and school != 'brown':
     sys.exit('Not a valid school. Try Penn, Brown, or Harvard!')
 
-with open('honorees_' + school + '_clean.csv', 'rb') as honorees, open('genders_' + school + '.csv', 'wb') as output:
+with open('data/honorees_' + school + '_clean.csv', 'rb') as honorees, open('data/genders_' + school + '.csv', 'wb') as output:
     r = csv.reader(honorees)
     w = csv.writer(output)
 
