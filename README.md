@@ -16,6 +16,7 @@ If you find this data useful, please
 
 Date           | Headline | Folder
 ---------------|----------|-------------
+Feb. 19, 2018  | [How Penn's $75 application fee stacks up across the Ivy League](http://www.thedp.com/article/2018/02/revenue-ivy-league-application-fee-higher-ed-upenn-penn-philadelphia-admissions) | [application-fees](application-fees)
 Jan. 17, 2018  | [How many times has Trump mentioned his Wharton education? We crunched the numbers.](http://www.thedp.com/article/2018/01/trump-penn-wharton-data-education-times-ivy-league-business-finance-philadelphia-campaign) | [trump-penn-mentions](trump-penn-mentions)
 Jan. 11, 2018  | [Fraternity rush has begun. Here's what you need to know.](http://www.thedp.com/article/2018/01/spring-fraternity-rush-food-events-2018-graphic-upenn-ivy-philadelphia-greek) | [frat-rush-2018](frat-rush-2018)
 Oct. 22, 2017  | [The courses that double-count for the spring of 2018](http://www.thedp.com/article/2017/10/here-are-the-courses-that-double-count-for-the-spring-of-2018) | [double-count](double-count)
