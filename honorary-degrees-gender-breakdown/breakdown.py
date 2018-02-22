@@ -63,5 +63,5 @@ percent_female = float(female) / total
 print 'from', start, 'to', str(int(end) - 1), 'for', school.title()
 print 'total female', female
 print 'total male', male
-print 'total recepients', total
+print 'total recipients', total
 print 'percentage female', percent_female

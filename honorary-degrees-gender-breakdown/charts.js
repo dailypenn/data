@@ -115,7 +115,7 @@ var decades = c3.generate({
     }
   },
   title: {
-    text: 'Percent female recepients by decade',
+    text: 'Percent female recipients by decade',
     padding: {
       top: 0,
       bottom: 10,
@@ -143,7 +143,7 @@ var penn = c3.generate({
     }
   },
   title: {
-    text: 'Penn\'s honorary degree recepients, 1757 to 2017'
+    text: 'Penn\'s honorary degree recipients, 1757 to 2017'
   }
 });
 
@@ -156,7 +156,7 @@ var alternate = setInterval(function () {
         ['Female', 0.354679802956]
       ]
     });
-    d3.select('#penn .c3-title').node().innerHTML = 'Penn\'s honorary degree recepients, 1990 to 2017';
+    d3.select('#penn .c3-title').node().innerHTML = 'Penn\'s honorary degree recipients, 1990 to 2017';
   } else {
     penn.load({
       columns: [
@@ -164,6 +164,6 @@ var alternate = setInterval(function () {
         ['Female', 0.0942528735632]
       ]
     });
-    d3.select('#penn .c3-title').node().innerHTML = 'Penn\'s honorary degree recepients, 1757 to 2017';
+    d3.select('#penn .c3-title').node().innerHTML = 'Penn\'s honorary degree recipients, 1757 to 2017';
   }
 }, 3500);
