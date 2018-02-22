@@ -1,0 +1,337 @@
+Name,Year,Gender Guesser,Genderizer,Confirmed
+William Brattle,1692,male,male,male
+John Leverett,1692,male,male,male
+Increase Mather,1692,unknown,unknown,male
+Benjamin Franklin,1753,male,male,male
+George Washington,1776,male,unknown,male
+John Adams,1781,male,male,male
+Thomas Jefferson,1787,male,male,male
+Samuel Adams,1792,male,male,male
+John Quincy Adams,1822,male,male,male
+Washington Irving,1832,unknown,male,male
+Andrew Jackson,1833,male,male,male
+Alexis Charles Henri de Tocqueville,1852,male,male,male
+Henry Wadsworth Longfellow,1859,male,male,male
+Ralph Waldo Emerson,1866,male,male,male
+Ulysses S. Grant,1872,male,male,male
+Booker T. Washington,1896,male,male,male
+William Howard Taft,1905,male,male,male
+Woodrow Wilson,1907,male,male,male
+John Singer Sargent,1916,male,male,male
+Herbert Hoover,1917,male,male,male
+Theodore Roosevelt,1919,male,male,male
+Franklin Delano Roosevelt,1929,male,male,male
+Albert Einstein,1935,male,male,male
+Robert Frost,1937,male,male,male
+Walt Disney,1938,male,male,male
+Carl Sandburg,1940,male,male,male
+Winston Churchill,1943,male,male,male
+Dwight Eisenhower,1946,male,male,male
+George Marshall,1947,male,unknown,male
+Thornton Wilder,1951,unknown,male,male
+Helen Adams Keller,1955,female,female,female
+John F. Kennedy,1956,male,male,male
+Lady Barbara Jackson,1957,unknown,female,female
+Erwin Panofsky,1957,male,male,male
+Aaron Copland,1961,male,male,male
+Martha Graham,1966,female,female,female
+Leonard Bernstein,1967,male,male,male
+Mohammad Reza Pahlavi,1968,male,male,male
+Saul Bellow,1972,male,male,male
+Georgia O’Keeffe,1973,female,female,female
+Robert Penn Warren,1973,male,male,male
+Mstislav L. Rostropovich,1974,unknown,male,male
+Beverly Sills,1974,female,unknown,female
+Arthur Fiedler,1976,male,male,male
+Barbara Jordan,1977,female,female,female
+Eudora Welty,1977,unknown,female,female
+John Cheever,1978,male,male,male
+Aleksandr Solzhenitsyn,1978,male,male,male
+Desmond Tutu,1979,male,male,male
+Octavio Paz,1980,male,male,male
+Ansel Adams,1981,male,male,male
+Leontyne Price,1981,unknown,female,female
+Mother Teresa,1982,unknown,unknown,female
+Tennessee Williams,1982,unknown,female,male
+Carlos Fuentes,1983,male,male,male
+Juan Carlos I,1984,male,unknown,male
+Benny Goodman,1984,male,male,male
+Louise Nevelson,1985,female,female,female
+Lord Carrington,1986,unknown,unknown,male
+Thomas P. O’Neill Jr.,1987,male,male,male
+Jessye Norman,1988,female,female,female
+Oscar Arias Sánchez,1988,male,male,male
+Benazir Bhutto,1989,unknown,male,female
+Toni Morrison,1989,male,unknown,female
+Ella Fitzgerald,1990,female,female,female
+Stephen W. Hawking,1990,male,male,male
+Helmut Kohl,1990,male,male,male
+Michael Kimbrough Marshall,1990,male,male,male
+Adrienne Rich,1990,female,female,female
+David Riesman,1990,male,male,male
+Herbert A. Simon,1990,male,male,male
+Georges Duby,1991,male,male,male
+Marian Wright Edelman,1991,male,male,male
+Ada Louise Huxtable,1991,female,female,female
+Francois Jacob,1991,unknown,unknown,male
+Gustav Leonhardt,1991,male,male,male
+Yo-Yo Ma,1991,unknown,unknown,male
+Frederick Mosteller,1991,male,male,male
+Eduard Shevardnadze,1991,male,male,male
+Andrei Sinyavsky,1991,male,male,male
+Robert Adams Jr.,1992,male,male,male
+Daniel Bell,1992,male,male,male
+Baruj Benacerraf,1992,unknown,unknown,male
+Derek Bok,1992,male,male,male
+Gro Harlem Brundtland,1992,female,female,female
+Dominique de Menil,1992,andy,unknown,female
+Robert Solow,1992,male,male,male
+Joan Steitz,1992,female,unknown,female
+Isaac Stern,1992,male,male,male
+Edward Stone,1992,male,male,male
+John Updike,1992,male,male,male
+Clifton Wharton Jr.,1992,male,male,male
+Torsten Wiesel,1992,male,male,male
+Daniel Boorstin,1993,male,male,male
+James E. Burke,1993,male,male,male
+Julia Child,1993,female,female,female
+W. Edwards Deming,1993,unknown,unknown,male
+Shmuel Eisenstadt,1993,male,male,male
+Albert Eschenmoser,1993,male,male,male
+Oscar Handlin,1993,male,male,male
+Nannerl Keohane,1993,unknown,unknown,female
+Deborah Meier,1993,female,female,female
+Christine Nusslein-Volhard,1993,female,female,female
+Colin L. Powell,1993,male,male,male
+Ravi Shankar,1993,mostly_male,unknown,male
+Susan Sontag,1993,female,female,female
+Wole Soyinka,1993,unknown,unknown,male
+Harry A. Blackmun,1994,male,male,male
+Bennett Carter,1994,male,male,male
+Albert Gore Jr.,1994,male,male,male
+William H. Gray III,1994,male,male,male
+Mason Hammond,1994,male,male,male
+Richard C. Levin,1994,male,male,male
+Sadako Ogata,1994,unknown,unknown,female
+Maxine F. Singer,1994,female,female,female
+James Q. Wilson,1994,male,male,male
+Helene Ahrweiler,1995,female,female,female
+Alfred D. Chandler Jr.,1995,male,male,male
+Mildred Dresselhaus,1995,female,female,female
+Hanna H. Gray,1995,female,female,female
+Vaclav Havel,1995,unknown,unknown,male
+Jacob Lawrence,1995,male,male,male
+Doris Lessing,1995,female,female,female
+I. M. Pei,1995,unknown,unknown,male
+James Tobin,1995,male,male,male
+John C. Whitehead,1995,male,male,male
+Chinua Achebe,1996,unknown,unknown,male
+Harold Amos,1996,male,male,male
+Walter H. Annenberg,1996,male,male,male
+William T. Coleman Jr.,1996,male,male,male
+Natalie Davis,1996,female,female,female
+Francois Furet,1996,unknown,unknown,male
+Judith Jamison,1996,female,female,female
+Maya Lin,1996,female,female,female
+Oseola McCarty,1996,unknown,unknown,female
+Charles P. Slichter,1996,male,male,male
+Edward Abraham,1997,male,male,male
+Madeleine Albright,1997,female,female,female
+Jerome Bruner,1997,male,male,male
+Henry Chadwick,1997,male,male,male
+William Forge,1997,male,male,male
+Quincy D. Jones Jr.,1997,male,male,male
+Arthur Miller,1997,male,male,male
+W. Jason Morgan,1997,unknown,unknown,male
+Janet L. Norwood,1997,female,female,female
+John Rawls,1997,male,male,male
+Emily Vermeule,1997,female,female,female
+Samuel H. Beer,1998,male,male,male
+Robert A. Dahl,1998,male,male,male
+Gertrude B. Elion,1998,female,female,female
+Seamus Heaney,1998,male,male,male
+John H. Johnson,1998,male,male,male
+Nelson Mandela,1998,male,male,male
+Jaroslav Pelikan,1998,male,male,male
+Mary Robinson,1998,mostly_female,unknown,female
+Henry Rosovsky,1998,male,male,male
+Jean-Pierre Serre,1998,male,unknown,male
+Kenneth Arrow,1999,male,male,male
+Bernard Bailyn,1999,male,male,male
+Herbert Block (Herblock),1999,male,male,male
+Julia Kristeva,1999,female,female,female
+Mario Vargas Llosa,1999,male,male,male
+Nicolaas Bloembergen,2000,male,male,male
+Noam Chomsky,2000,mostly_male,unknown,male
+Frank O. Gehry,2000,male,male,male
+Andrew S. Grove,2000,male,male,male
+Judith R. Hope,2000,female,female,female
+Katherine B. Loker,2000,female,female,female
+Maclyn McCarthy,2000,unknown,unknown,male
+Constance Baker Motley,2000,female,female,female
+Kenzaburo Oe,2000,unknown,unknown,male
+Seiji Ozawa,2000,male,male,male
+Amartya Sen,2000,unknown,unknown,male
+John Ashbery,2001,male,male,male
+Ela Bhatt,2001,female,female,female
+Geoffrey Canada,2001,male,male,male
+Jürgen Habermas,2001,unknown,male,male
+Isabella Karle,2001,female,female,female
+Leon Kirchner,2001,male,male,male
+Alice Rivlin,2001,female,female,female
+Robert E. Rubin,2001,male,male,male
+Arthur M. Schlesinger Jr.,2001,male,male,male
+Richard A. Smith,2001,male,male,male
+Charles H. Townes,2001,male,male,male
+Sydney Brenner,2002,mostly_male,unknown,male
+Peter Brown,2002,male,male,male
+Katherine Dunham,2002,female,female,female
+Albert Hirschman,2002,male,male,male
+Yuan T. Lee,2002,andy,unknown,male
+Daniel P. Moynihan,2002,male,male,male
+Howard Raiffa,2002,male,male,male
+Mamphela Ramphele,2002,unknown,unknown,female
+Julius B. Richmond,2002,male,male,male
+Neil L. Rudenstine,2002,male,male,male
+Ruth J. Simmons,2002,female,female,female
+Bernard Williams,2002,male,male,male
+Gary S. Becker,2003,male,male,male
+Elliot Forbes,2003,male,male,male
+Norman C. Francis,2003,male,male,male
+Ellsworth Kelly,2003,male,male,male
+Mary-Claire King,2003,unknown,unknown,female
+Donald Knuth,2003,male,male,male
+Linda Nochlin,2003,female,female,female
+Philip Roth,2003,male,male,male
+Robert G. Stone,2003,male,male,male
+P. Roy Vagelos,2003,unknown,unknown,male
+Ernesto Zedillo Ponce de Leon,2003,male,male,male
+Kofi Atta Annan,2004,male,male,male
+Margaret Atwood,2004,female,female,female
+John Michael Bishop,2004,male,male,male
+Robert Lee Carter,2004,male,male,male
+Suzanne Farrell,2004,female,female,female
+Daniel Kahneman,2004,male,male,male
+Frank Kermode,2004,male,male,male
+Shirley M. Tilghman,2004,female,unknown,female
+E.O. Wilson,2004,unknown,unknown,male
+Mary Ellen Avery,2005,mostly_female,unknown,female
+David Baltimore,2005,male,male,male
+Caroline Walker Bynum,2005,female,female,female
+D. Ronald Daniel,2005,unknown,unknown,male
+John Lithgow,2005,male,male,male
+Quentin Skinner,2005,male,male,male
+Charles Marstiller Vest,2005,male,male,male
+Edward Witten,2005,male,male,male
+Francis Atiyah,2006,male,unknown,male
+Elizabeth Blackburn,2006,female,female,female
+Philip E. Converse,2006,male,male,male
+Philippe de Montebello,2006,male,male,male
+Shirley Ann Jackson,2006,female,unknown,female
+Jim Lehrer,2006,male,male,male
+Robert Parris Moses,2006,male,male,male
+Norman Ramsey,2006,male,male,male
+Leo Steinberg,2006,male,male,male
+Daniel Aaron,2007,male,male,male
+Jocelyn Bell Burnell,2007,female,female,female
+William H. Gates,2007,male,male,male
+Conrad Harper,2007,male,male,male
+William F. Russell,2007,male,male,male
+Joan Wallach Scott,2007,female,unknown,female
+Robert Silvers,2007,male,male,male
+Lawrence H. Summers,2007,male,male,male
+Karen K. Uhlenbeck,2007,female,male,female
+Karim Aga Khan,2008,male,male,male
+James P. Comer,2008,male,male,male
+Wen C. Fong,2008,andy,unknown,male
+Eric R. Kandel,2008,male,male,male
+Damon J. Keith,2008,male,male,male
+Edward M. Kennedy,2008,male,male,male
+Gerda Lerner,2008,female,female,female
+John McCarthy,2008,male,male,male
+Janet Rowley,2008,female,female,female
+J.K. Rowling,2008,unknown,unknown,female
+Daniel Tosteson,2008,male,male,male
+Pedro Almodóvar,2009,male,male,male
+Steven Chu,2009,male,male,male
+Joan Didion,2009,female,unknown,female
+Wendy Doniger,2009,female,female,female
+Ronald M. Dworkin,2009,male,male,male
+Anthony S. Fauci,2009,male,male,male
+Sarah Hrdy,2009,female,female,female
+Robert S. Langer,2009,male,male,male
+Wynton Marsalis,2009,unknown,unknown,male
+Sidney Verba,2009,mostly_male,unknown,male
+Thomas R. Cech,2010,male,male,male
+Renée Fox,2010,unknown,female,female
+Freeman A. Hrabowski III,2010,male,male,male
+Susan Lindquist,2010,female,female,female
+Thomas Nagel,2010,male,male,male
+David G. Nathan,2010,male,male,male
+Onora O’Neill,2010,unknown,female,female
+Richard Serra,2010,male,male,male
+David H. Souter,2010,male,male,male
+Meryl Streep,2010,mostly_female,unknown,female
+Tim Berners-Lee,2011,male,male,male
+Plácido Domingo,2011,unknown,male,male
+Ruth Bader Ginsburg,2011,female,female,female
+Dudley Herschbach,2011,male,male,male
+James R. Houghton,2011,male,male,male
+Ellen Johnson Sirleaf,2011,female,unknown,female
+Rosalind Krauss,2011,female,female,female
+John G.A. Pocock,2011,male,male,male
+David Satcher,2011,male,male,male
+John Adams,2012,male,male,male
+K. Anthony Appiah,2012,unknown,unknown,male
+Gillian Beer,2012,female,female,female
+Walter Kohn,2012,male,male,male
+Wendy Kopp,2012,female,female,female
+John Lewis,2012,male,male,male
+Mario Molina,2012,male,male,male
+Fareed Zakaria,2012,unknown,male,male
+José Abreu,2013,unknown,unknown,male
+Partha Dasgupta,2013,unknown,unknown,male
+Donald R. Hopkins,2013,male,male,male
+Robert M. May,2013,male,male,male
+Thomas M. Menino,2013,male,male,male
+Elaine Pagels,2013,female,female,female
+C. Dixon Spangler Jr.,2013,unknown,unknown,male
+JoAnne Stubbe,2013,unknown,female,female
+Oprah Winfrey,2013,unknown,female,female
+Isabel Allende,2014,female,female,female
+Michael Bloomberg,2014,male,male,male
+President George H.W. Bush,2014,unknown,unknown,male
+Aretha Franklin,2014,female,female,female
+Patricia King,2014,female,female,female
+Peter H. Raven,2014,male,male,male
+Seymour Slive,2014,male,male,male
+Joseph E. Stiglitz,2014,male,male,male
+Svetlana Leontief Alpers,2015,female,female,female
+Robert M. Axelrod,2015,male,male,male
+Wallace S. Broecker,2015,male,male,male
+Linda B. Buck,2015,female,female,female
+Renée Fleming,2015,unknown,female,female
+Patricia Albjerg Graham,2015,female,female,female
+Denis Mukwege,2015,male,male,male
+Deval L. Patrick,2015,unknown,unknown,male
+Peter Salovey,2015,male,male,male
+Bryan Stevenson,2015,male,male,male
+El Anatsui,2016,mostly_female,unknown,male
+Mary L. Bonauto,2016,mostly_female,unknown,female
+His Excellency Fernando Henrique Cardoso,2016,male,male,male
+David B. Davis,2016,male,male,male
+Elaine Fuchs,2016,female,female,female
+Arnold Rampersad,2016,male,male,male
+The Right Honourable Lord Martin Rees,2016,mostly_female,unknown,male
+Steven Spielberg,2016,male,male,male
+Judith Jarvis Thomson,2016,female,female,female
+Norman R. Augustine,2017,male,male,male
+Hawa Abdi Dhiblawe,2017,female,female,female
+Dame Judi Dench,2017,unknown,unknown,female
+Sandra M. Gilbert,2017,female,female,female
+James Earl Jones,2017,male,male,male
+Walter E. Massey,2017,male,male,male
+Michael Rabin,2017,male,male,male
+John Williams,2017,male,male,male
+Huda Y. Zoghbi,2017,female,female,female
+Mark Zuckerberg,2017,male,male,male
