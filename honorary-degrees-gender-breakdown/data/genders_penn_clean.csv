@@ -4,7 +4,6 @@ Paul Jackson,1757,male,male,male
 Theophilus Grew,1757,male,male,male
 John Ewing,1759,male,male,male
 Hector Alison,1759,male,male,male
-Matthew Wilson,1786,male,male,male
 Samson Smith,1760,male,male,male
 Philip Reading,1760,male,male,male
 Robert Mckean,1760,male,male,male
@@ -14,26 +13,21 @@ Thomas Barton,1760,male,male,male
 Samuel Stillman,1761,male,male,male
 Isaac Eaton,1761,male,male,male
 Isaac Smith,1762,male,male,male
-John Simonton,1771,male,male,male
 Thomas Pollock,1762,male,male,male
 Morgan Edwards,1762,mostly_male,unknown,male
 John Rodgers,1763,male,male,male
 John Miller,1763,male,male,male
-Thomas Mckean,1785,male,male,male
-James Wilson,1790,male,male,male
 Joseph Reed,1766,male,male,male
 David Rittenhouse,1767,male,male,male
 John Simonton,1771,male,male,male
+John Simonton,1771,male,male,male
 John Parke,1775,male,male,male
-William Rogers,1790,male,male,male
 James Ross,1775,male,male,male
 John Parke,1775,male,male,male
 Caspar Dietrich Weiberg,1780,male,male,male
 Thomas Paine,1780,male,male,male
 Henry Ernst Muhlenberg,1780,male,male,male
 William Marshall,1780,male,male,male
-John Christopher Kunze,1783,male,male,male
-Justus Christian Henry Helmuth,1785,male,male,male
 James Davidson,1780,male,male,male
 William Bradford Jr.,1781,male,male,male
 William Barton,1781,male,male,male
@@ -48,23 +42,26 @@ François Jean de Beauvoir Chevalier de Chastellux,1782,unknown,male,male
 Marie Bernard Borgella,1782,female,unknown,male
 François BarbÊ-Marbois,1782,unknown,male,male
 Patrick Alison,1782,male,male,male
-George Washington,1783,male,unknown,unknown
+John Christopher Kunze,1783,male,male,male
+George Washington,1783,male,unknown,male
 Samuel Magaw,1783,male,male,male
 John Christopher Kunze,1783,male,male,male
 Charles Thomson,1784,male,male,male
 Henry Melchior Muhlenberg,1784,male,male,male
 Robert Davidson,1784,male,male,male
 Thomas Mckean,1785,male,male,male
+Justus Christian Henry Helmuth,1785,male,male,male
+Thomas Mckean,1785,male,male,male
 James Manning,1785,male,male,male
 James Madison,1785,male,male,male
 Justus Christian Henry Helmuth,1785,male,male,male
+Matthew Wilson,1786,male,male,male
 Matthew Wilson,1786,male,male,male
 Samuel Provoost,1786,male,male,male
 David Griffith,1786,male,male,male
 Hugh Williamson,1787,male,male,male
 Marie Joseph Paul Yves Roch Gilbert du Motier Marquis de Lafayette,1787,female,unknown,male
 Benjamin Smith Barton,1787,male,male,male
-Robert Patterson,1819,male,male,male
 Samuel Jones,1788,male,male,male
 Nicholas Collin,1788,male,male,male
 Robert Blackwell,1788,male,male,male
@@ -74,6 +71,8 @@ Samuel Parker,1789,male,male,male
 Samuel Kerr,1789,male,male,male
 David Johnson,1789,male,male,male
 Edward Bass,1789,male,male,male
+James Wilson,1790,male,male,male
+William Rogers,1790,male,male,male
 James Wilson,1790,male,male,male
 Edward Shippen,1790,male,male,male
 John Frederick Schmidt,1790,male,male,male
@@ -96,7 +95,6 @@ Samuel Miller,1804,male,male,male
 John Mitchell Mason,1804,male,male,male
 Philip Milledoler,1805,male,male,male
 James Gray,1805,male,male,male
-James Patriot Wilson,1848,male,male,male
 Henry Waddell,1807,male,male,male
 William Tilghman,1807,male,male,male
 James G. Thomson,1807,male,male,male
@@ -112,6 +110,7 @@ John Marshall,1815,male,male,male
 Rufus King,1815,male,male,male
 Frederic Beasley,1815,male,male,male
 John Daniel Kurtz,1816,male,male,male
+Robert Patterson,1819,male,male,male
 Charles Smith,1819,male,male,male
 Robert Patterson,1819,male,male,male
 James Milnor,1819,male,male,male
@@ -125,7 +124,6 @@ Bird Wilson,1821,unknown,female,male
 John Churchill Rudd,1823,male,male,male
 Eugenius Nulty,1823,male,male,male
 Philip Frederic Mayer,1823,male,male,male
-Joseph Spencer,1831,male,male,male
 Henry Augustus Muhlenberg,1824,male,male,male
 John George Schmucker,1825,male,male,male
 William Vincent Harold,1825,male,male,male
@@ -141,6 +139,7 @@ John Cooper,1829,male,male,male
 William Cooper Mead,1830,male,male,male
 Richard Sharp Mason,1830,male,male,male
 James Horner,1830,male,male,male
+Joseph Spencer,1831,male,male,male
 Joseph Spencer,1831,male,male,male
 Samuel Lewis Southard,1832,male,male,male
 John Peter Hecht,1832,male,male,male
@@ -171,6 +170,7 @@ Henry Jackson Morton,1844,male,male,male
 John Chapman Cresson,1844,male,male,male
 Martin Hans BoyÉ,1844,male,male,male
 John Penington,1845,male,male,male
+James Patriot Wilson,1848,male,male,male
 James Patriot Wilson,1848,male,male,male
 William Bacon Stevens,1848,male,male,male
 John Mcclintock Jr.,1848,male,male,male
@@ -205,7 +205,6 @@ John Nesbit Conyngham,1869,male,male,male
 Charles Augustus Young,1870,male,male,male
 Beale Melancthon Schmucker,1870,unknown,unknown,male
 James Ryley Ludlow,1870,male,male,male
-John Cadwalader,1912,male,male,male
 Frederick Carroll Brewster,1870,male,male,male
 Joseph Allison,1870,male,male,male
 Edward Abram Foggo,1871,male,male,male
@@ -275,7 +274,6 @@ George Dana Boardman,1889,male,unknown,male
 David Burt Wilson,1890,male,male,male
 William Wilberforce Newton,1890,male,male,male
 Seth Low,1890,male,male,male
-Talcott Williams,1895,unknown,unknown,male
 Robert Hamill Nassau,1891,male,male,male
 Richard Green Moulton,1891,male,male,male
 Richard Coxe Mcmurtrie,1892,male,male,male
@@ -289,7 +287,6 @@ William Henry Welch,1894,male,male,male
 Sara Yorke Stevenson,1894,female,female,female
 Frederic Ward Putnam,1894,male,male,male
 George Tybout Purves,1894,male,unknown,male
-William Pepper,1932,male,male,male
 Robert Emory Pattison,1894,male,male,male
 Charles Beylard Nancrede,1894,male,male,male
 John Bach Mcmaster,1894,male,male,male
@@ -300,6 +297,7 @@ Casper René Gregory,1894,male,male,male
 John Fiske,1894,male,male,male
 Hamdy Bey,1894,male,unknown,male
 Talcott Williams,1895,unknown,unknown,male
+Talcott Williams,1895,unknown,unknown,male
 Joseph Brevitt Townsend,1895,male,male,male
 Frederick Dawson Stone,1895,male,male,male
 John Punnett Peters,1895,male,male,male
@@ -309,7 +307,6 @@ John Henry Haynes,1895,male,male,male
 William Ely,1895,male,male,male
 Martin Russell Thayer,1896,male,male,male
 Charles Janeway StillÊ,1896,male,male,male
-Henry Wilson Spangler,1906,male,male,male
 J. Peter Lesley,1896,unknown,unknown,male
 Robert Graham,1896,male,male,male
 Louis Fitzgerald Benson,1896,male,male,male
@@ -321,11 +318,8 @@ William Neilson Mcvickar,1898,male,male,male
 Agnes Irwin,1898,female,female,female
 George Frederick Barker,1898,male,unknown,male
 Elwood Worcester,1899,male,male,male
-Edgar Fahs Smith,1920,male,male,male
 Coleman Sellers,1899,male,male,male
 John Bayard Mcpherson,1899,male,male,male
-Louis Childs Madeira Jr.,1926,male,male,male
-Lucien Lee Kinsolving,1914,male,male,male
 Alfred Craven Harrison Jr.,1899,male,male,male
 William Bowen Boulton,1899,male,male,male
 Ting-fang Wu,1900,unknown,unknown,male
@@ -333,11 +327,9 @@ Floyd William Tomkins,1900,male,male,male
 Oscar Solomon Straus,1900,male,male,male
 Charles Arthur Roe,1900,male,male,male
 Marcus Jastrow,1900,male,male,male
-John Marshall Harlan,1963,male,male,male
 Gerard Brown Finch,1900,male,male,male
 Porfirio Diaz,1900,male,male,male
 James Barr Ames,1900,male,male,male
-George Woodward Wickersham,1935,male,unknown,male
 Henry Smith Pritchett,1901,male,male,male
 William L. Prather,1901,male,male,male
 Henry Codman Potter,1901,male,male,male
@@ -367,7 +359,6 @@ Woodrow Wilson,1903,male,male,male
 John Grimes Walker,1903,male,male,male
 Charles Doolittle Walcott,1903,male,male,male
 Francis Preston Venable,1903,male,unknown,male
-Felix Emmanuel Schelling,1909,male,male,male
 John Singer Sargent,1903,male,male,male
 William Peterson,1903,male,male,male
 Alexander Crombie Humphreys,1903,male,male,male
@@ -383,7 +374,7 @@ Samuel Whitaker Pennypacker,1904,male,male,male
 Richard Henry Nelson,1904,male,male,male
 James Tyndale Mitchell,1904,male,male,male
 Jean Adrien Antoine Jules Jusserand,1904,male,unknown,male
-George Dock,1904,male,unknown,unknown
+George Dock,1904,male,unknown,male
 William Healey Dall,1904,male,male,male
 Russell Henry Chittenden,1904,male,male,male
 Henry Pickering Bowditch,1904,male,male,male
@@ -394,6 +385,7 @@ Theodore Roosevelt,1905,male,male,male
 Philander Chase Knox,1905,unknown,male,male
 Henry Mortimer Durand,1905,male,male,male
 Charles Edgar Clark,1905,male,male,male
+Henry Wilson Spangler,1906,male,male,male
 George Washburn,1906,male,unknown,male
 His Majesty King of Italy Vittorio Emanuelle Iii,1906,male,male,male
 Henri Vetillart,1906,male,male,male
@@ -403,7 +395,6 @@ Frederick Winslow Taylor,1906,male,male,male
 Kanhiro Takaki,1906,unknown,unknown,male
 Frederic Pike Stearns,1906,male,male,male
 Henry Wilson Spangler,1906,male,male,male
-Edgar Fahs Smith,1920,male,male,male
 Samuel Sheldon,1906,male,male,male
 William Berryman Scott,1906,male,male,male
 Ernest Rutherford,1906,male,male,male
@@ -458,10 +449,10 @@ Charles Edmund Rice,1908,male,male,male
 James Alan Montgomery,1908,male,male,male
 Lloyd Mifflin,1908,male,male,male
 Grove Karl Gilbert,1908,unknown,male,male
-Edwin Grant Conklin,1943,male,male,male
 Joseph Hodges Choate,1908,male,male,male
 Henry Cadwalader Chapman,1908,male,male,male
 Cecelia Beaux,1908,female,female,female
+Felix Emmanuel Schelling,1909,male,male,male
 John Thomson,1909,male,male,male
 Felix Emmanuel Schelling,1909,male,male,male
 Charles Bingham Penrose,1909,male,male,male
@@ -478,15 +469,14 @@ Morris Lewis Clothier,1910,male,male,male
 James Montgomery Beck,1910,male,male,male
 Johann Heinrich Von Bernstorff (stricken),1911,male,male,male
 William Lawrence Saunders,1911,male,male,male
-James DeWolf Perry Jr.,1931,male,male,male
 Veranus Alva Moore,1911,unknown,unknown,male
 Thomas Riley Marshall,1911,male,male,male
-Warren Powers Laird,1932,male,male,male
 Charles Custis Harrison,1911,male,male,male
 Basil Lanneau Gildersleeve,1911,male,male,male
 Henry Sturgis Drinker,1911,male,male,male
 Walton Clark,1911,male,male,male
 Edward Potts Cheyney,1911,male,male,male
+John Cadwalader,1912,male,male,male
 James Tyson,1912,male,male,male
 Joseph Swain,1912,male,male,male
 Edward Robins,1912,male,male,male
@@ -513,6 +503,7 @@ Henry Pomeroy Davison,1913,male,male,male
 Edward Vincent D'Invilliers,1913,male,male,male
 Paul Philippe Cret,1913,male,male,male
 Henry Harbaugh Apple,1913,male,male,male
+Lucien Lee Kinsolving,1914,male,male,male
 Nathan Christ Schaeffer,1914,male,male,male
 Hugo Albert Rennert,1914,male,male,male
 Lucien Lee Kinsolving,1914,male,male,male
@@ -527,7 +518,6 @@ Eugene Solomon Talbot,1915,male,male,male
 William Simon,1915,male,male,male
 John Howard Mummery,1915,male,male,male
 Robert Andrews Millikan,1915,male,male,male
-William Ephraim Mikell,1929,male,male,male
 Edward Cameron Kirk,1915,male,male,male
 Harry Frederick Keller,1915,male,male,male
 John Graver Johnson,1915,male,male,male
@@ -539,7 +529,7 @@ Truman William Brophy,1915,male,male,male
 Green Vardiman Black,1915,unknown,male,male
 Edward Hartley Angle,1915,male,male,male
 Daniel Lincoln Wallace,1916,male,male,male
-Bliss Perry,1916,unknown,male,unknown
+Bliss Perry,1916,unknown,male,male
 Charles Karsner Mills,1916,male,male,male
 Samuel Black Mccormick,1916,male,male,male
 Margaret Center Klingelsmith,1916,female,female,female
@@ -554,8 +544,7 @@ Jacob Gould Schurman,1917,male,male,male
 Frederic Courtland Penfield,1917,male,male,male
 William Kelly Jr.,1917,male,male,male
 Joseph Jacques Césaire Joffre,1917,male,male,male
-Herbert Clark Hoover,1940,male,male,male
-Zane Grey,1917,female,male,unknown
+Zane Grey,1917,female,male,male
 Arthur Maurice Greene Jr.,1917,male,male,male
 William Wistar Comfort,1917,male,male,male
 Robert Judson Aley,1917,male,male,male
@@ -570,12 +559,13 @@ Frederick Peterson,1919,male,male,male
 Richard Montgomery,1919,male,male,male
 Harlan Sherman Miner,1919,male,male,male
 Jonathan Willis Martin,1919,male,male,male
-Edward Martin,1943,male,male,male
 John Clark Knox,1919,male,male,male
 Charles Penrose Keith,1919,male,male,male
 William Williams Keen,1919,male,male,male
 Arthur Hopewell-Smith,1919,male,male,male
 William Wallace Atterbury,1919,male,male,male
+Edgar Fahs Smith,1920,male,male,male
+Edgar Fahs Smith,1920,male,male,male
 Louis Cape Washburn,1920,male,male,male
 Henry Davis Todd Jr.,1920,male,male,male
 Francis Marion Taitt,1920,male,unknown,male
@@ -583,7 +573,6 @@ Edgar Fahs Smith,1920,male,male,male
 William Sowden Sims,1920,male,male,male
 Theodore William Richards,1920,male,male,male
 George Boal Orlady,1920,male,unknown,male
-Alfred Edward Newton,1935,male,male,male
 Leslie William Miller,1920,mostly_female,unknown,male
 John Muirhead Macfarlane,1920,male,male,male
 Robert Johnston,1920,male,male,male
@@ -608,7 +597,6 @@ Robert Von Moschzisker,1922,male,male,male
 Edward Townsend Stotesbury,1922,male,male,male
 George Arthur Piersol,1922,male,unknown,male
 John Joseph Pershing,1922,male,male,male
-Josiah Harmar Penniman,1939,male,male,male
 William Duane,1922,male,male,male
 Arthur William Currie,1922,male,male,male
 Sir Henry Worth Thornton,1923,unknown,unknown,male
@@ -647,7 +635,6 @@ Hubert Work,1925,male,male,male
 Ray Lyman Wilbur,1925,mostly_male,unknown,male
 John Carew Rolfe,1925,male,male,male
 Robert William Rogers,1925,male,male,male
-Alfred Newton Richards,1932,male,male,male
 John Robbins Mohler,1925,male,male,male
 Charles Horace Mayo,1925,male,male,male
 Harry Alexander Matthews,1925,male,male,male
@@ -661,6 +648,7 @@ Boyd Edwards,1925,male,male,male
 Bertrand Dawson,1925,male,male,male
 John Ashhurst,1925,male,male,male
 Herman Vandenburg Ames,1925,male,male,male
+Louis Childs Madeira Jr.,1926,male,male,male
 Paul Sabatier,1926,male,male,male
 Hermann Prinz,1926,male,male,male
 Walter Robert Parker,1926,male,male,male
@@ -716,6 +704,7 @@ Milton Jay Greenman,1928,male,male,male
 John Stutchell Fisher,1928,male,male,male
 Samuel Taylor Bodine,1928,male,male,male
 James Meschter Anders,1928,male,male,male
+William Ephraim Mikell,1929,male,male,male
 Owen Josephus Roberts,1929,male,male,male
 William Augustus Redding,1929,male,male,male
 William Ephraim Mikell,1929,male,male,male
@@ -744,6 +733,7 @@ James Francis Cooke,1930,male,male,male
 Clarence Griffin Child,1930,male,male,male
 Edward E. Allen,1930,male,male,male
 Cyrus Adler,1930,male,male,male
+James DeWolf Perry Jr.,1931,male,male,male
 Henry Newbold Woolman,1931,male,male,male
 Robert Sessions Woodworth,1931,male,male,male
 Daniel Willard,1931,male,male,male
@@ -763,6 +753,9 @@ Thomas Sovereign Gates,1931,male,male,male
 Gilbert Haven Fall,1931,male,male,male
 Charles Ezra Beury,1931,male,male,male
 Edgar Douglas Adrian,1931,male,male,male
+William Pepper,1932,male,male,male
+Warren Powers Laird,1932,male,male,male
+Alfred Newton Richards,1932,male,male,male
 Alexander Van Rensselaer,1932,male,male,male
 Thomas Shaw,1932,male,male,male
 Harlow Shapley,1932,male,male,male
@@ -783,7 +776,6 @@ Leroy Matthew Simpson Miner,1933,male,male,male
 John Valentine Mershon,1933,male,male,male
 Albert Hawley Lucas,1933,male,male,male
 Abbott Lawrence Lowell,1933,unknown,male,male
-Herbert Spencer Jennings,1940,male,male,male
 Horace Howard Furness Jayne,1933,male,male,male
 Joseph Hofmann,1933,male,male,male
 Milo Hellman,1933,male,male,male
@@ -802,6 +794,8 @@ Dorothy Harrison Eustis,1934,female,female,female
 Charles Meigs Biddle Cadwalader,1934,male,male,male
 Edwin Cornelius Broome,1934,male,male,male
 John Gabbert Bowman,1934,male,male,male
+George Woodward Wickersham,1935,male,unknown,male
+Alfred Edward Newton,1935,male,male,male
 George Woodward Wickersham,1935,male,unknown,male
 Leunis Van Es,1935,unknown,unknown,male
 Charles Russ Richards,1935,male,male,male
@@ -828,7 +822,6 @@ Lightner Witmer,1937,unknown,unknown,male
 Joseph Wayne Jr.,1937,male,male,male
 Herbert James Tily,1937,male,male,male
 Florence Rena Sabin,1937,female,female,female
-Eugene Ormandy,1961,male,male,male
 John William Kephart,1937,male,male,male
 Cordell Hull,1937,male,male,male
 Dorothy Annie Elizabeth Garrod,1937,female,female,female
@@ -853,6 +846,7 @@ Katherine Cornell,1938,female,female,female
 Wollmar Filip Bostrom,1938,unknown,unknown,male
 George David Birkhoff,1938,male,unknown,male
 James Rowland Angell,1938,male,male,male
+Josiah Harmar Penniman,1939,male,male,male
 Joseph Henry Willits,1939,male,male,male
 William Irwin Schaffer,1939,male,male,male
 Josiah Harmar Penniman,1939,male,male,male
@@ -865,6 +859,8 @@ Joel Henry Hildebrand,1939,male,male,male
 John Louis Haney,1939,male,male,male
 Ernest Charles Earp,1939,male,male,male
 Charlotte Carr,1939,female,female,female
+Herbert Clark Hoover,1940,male,male,male
+Herbert Spencer Jennings,1940,male,male,male
 James Thomas Young,1940,male,male,male
 Hermann Weyl,1940,male,male,male
 Alan John Bayard Wace,1940,male,male,male
@@ -877,7 +873,6 @@ Charles Seymour,1940,male,male,male
 Albert Schinz,1940,male,male,male
 John Ahlum Schaeffer,1940,male,male,male
 Franklin Delano Roosevelt,1940,male,male,male
-David Riesman,1971,male,male,male
 William Procter Remington,1940,male,male,male
 Fritz Reiner,1940,male,male,male
 William E. Rappard,1940,male,male,male
@@ -942,6 +937,8 @@ Douglas Southall Freeman,1942,male,male,male
 Henry Sandwith Drinker,1942,male,male,male
 Rex Stowers Clements,1942,male,male,male
 Vannevar Bush,1942,unknown,unknown,male
+Edwin Grant Conklin,1943,male,male,male
+Edward Martin,1943,male,male,male
 James Steven Simmons,1943,male,male,male
 Henning Webb Prentis Jr.,1943,male,male,male
 John Edwin Pomfret,1943,male,male,male
@@ -1033,7 +1030,7 @@ William Howard Fineshriber,1951,male,male,male
 John Sydney Fine,1951,male,male,male
 Hugh Latimer Dryden,1951,male,male,male
 Robin Carl Buerki,1951,mostly_male,unknown,male
-Anne Bezanson,1951,female,unknown,unknown
+Anne Bezanson,1951,female,unknown,female
 Elizabeth Cecelia Berrang,1951,female,female,female
 Henry Merritt Wriston,1952,male,male,male
 William Carlos Williams,1952,male,male,male
@@ -1085,7 +1082,6 @@ Alic Halford Smith,1956,unknown,unknown,male
 Nathan Marsh Pusey,1956,male,male,male
 Kenjiro Matsumoto,1956,male,male,male
 Henry Cabot Lodge Jr.,1956,male,male,male
-Simon Smith Kuznets,1976,male,male,male
 Thomas Malcolm Knox,1956,male,male,male
 Mary Gibson Henry,1956,mostly_female,unknown,female
 Alfred Whitney Griswold,1956,male,male,male
@@ -1146,6 +1142,7 @@ George Bogdan Kistiakowski,1960,male,unknown,male
 Nelson Glueck,1960,male,male,male
 Millard Elwood Gladfelter,1960,male,male,male
 John Cromwell Bell,1960,male,male,male
+Eugene Ormandy,1961,male,male,male
 Eugene Paul Wigner,1961,male,male,male
 Arnold Joseph Toynbee,1961,male,male,male
 Eugene Ormandy,1961,male,male,male
@@ -1173,6 +1170,7 @@ Clarence Douglas Dillon,1962,male,male,male
 James Frederic Dewhurst,1962,male,male,male
 Merle Eugene Curti,1962,mostly_male,unknown,male
 John Chipman,1962,male,male,male
+John Marshall Harlan,1963,male,male,male
 David Van Pelt,1963,male,male,male
 William Abraham Schnader,1963,male,male,male
 Sarvepalli Radhakrishnan,1963,unknown,unknown,male
@@ -1264,6 +1262,7 @@ Jerzy Konorski,1970,male,male,male
 David Rockwell Goddard,1970,male,male,male
 Jefferson Barnes Fordham,1970,male,male,male
 Orville Horwitz Bullitt,1970,male,male,male
+David Riesman,1971,male,male,male
 Francis Clark Wood,1971,male,unknown,male
 Rexford Guy Tugwell,1971,unknown,male,male
 George William Taylor,1971,male,unknown,male
@@ -1287,7 +1286,6 @@ John Hilton Knowles,1972,male,male,male
 Nancy Hanks,1972,female,female,female
 Robert Galbraith Dunlop,1972,male,male,male
 Thomas Childs Cochran,1972,male,male,male
-William Gordon Bowen,1975,male,male,male
 Willis Jay Winn,1973,male,male,male
 Morris Simon Viteles,1973,male,male,male
 Louise Elkins Sinkler,1973,female,female,female
@@ -1314,6 +1312,7 @@ Richard Buckminster Fuller,1974,male,male,male
 Louis Barkhouse Flexner,1974,male,male,male
 William Oliver Baker,1974,male,male,male
 Sadie Tanner Mossell Alexander,1974,female,female,female
+William Gordon Bowen,1975,male,male,male
 Edward Maitland Wright,1975,male,male,male
 Charles Haynes Wilson,1975,male,male,male
 John Steven Watson,1975,male,male,male
@@ -1334,6 +1333,7 @@ Gerald Rudolph Ford,1975,male,male,male
 William Gordon Bowen,1975,male,male,male
 Edward J. Bloustein,1975,male,male,male
 Assadollah Alam,1975,unknown,unknown,female
+Simon Smith Kuznets,1976,male,male,male
 Howard Martin Temin,1976,male,male,male
 Joan duPlat Taylor,1976,female,unknown,female
 Frank Stanton,1976,male,male,male
