@@ -1,17 +1,15 @@
 {
   "name": "penn",
   "version": "1.0.0",
-  "description": "penn-study-breaks",
+  "description": "penn break data",
   "main": "getData.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {},
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "data"
-  }
+  },
+  "author": "",
+  "license": "ISC"
 }

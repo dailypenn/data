@@ -1,18 +1,68 @@
-var https = require('https');
+var cheerio = require('cheerio');
+var request = require('request');
 var fs = require('fs');
-var textChunk = '';
-https.get('https://almanac.upenn.edu/penn-academic-calendar', function (res) {
-  res.on('data', function (data) {
-  	textChunk = data.toString('utf8');
-  	console.log(textChunk);
-  });
+request({
+	method: 'GET',
+	url: 'https://almanac.upenn.edu/penn-academic-calendar'
+}, function (err, res, body) {
+	if(err) {
+		console.log(err);
+	} else {
+		$ = cheerio.load(body);
+		var desc = [];
+		var twenty17 = [];
+		var twenty18 = [];
+		var twenty19 = [];
+		
+		// var headers = [];
+
+		// for(var i = 0; i < $('th').length; i++) {
+		// 	if($('th')[i].children[0] && $('th')[i].children[0].data.indexOf('Fall Term') != -1) {
+		// 		headers.push($('th')[i].children[0].data.substring(0, $('th')[i].children[0].data.indexOf(' ')));
+		// 	}
+		// } //trying to make code less dependent on hard-coded years
+		
+		for(var i = 0; i < $('td').length; i++) {
+			if(i % 4 == 0) {
+				if($('td')[i].children[0].data.indexOf('\n') != -1) {
+					desc.push($('td')[i].children[0].data.substring(0, $('td')[i].children[0].data.indexOf('\n')));
+				} else {
+					desc.push($('td')[i].children[0].data);
+				}
+			} else if(i % 4 == 1) {
+				twenty17.push($('td')[i].children[0].data);
+		  } else if(i % 4 == 2) {
+				twenty18.push($('td')[i].children[0].data);
+		  } else if(i % 4 == 3) { 
+				twenty19.push($('td')[i].children[0].data);
+		  }
+		}
+		var allData = {};
+		allData['2017'] = {};
+		allData['2018'] = {};
+		allData['2019'] = {};
+		for(var i = 0; i < desc.length; i++) {
+			allData['2017'][desc[i]] = twenty17[i];
+			allData['2018'][desc[i]] = twenty18[i];
+			allData['2019'][desc[i]] = twenty19[i];
+		}
+		var twenty17Text = '2017\n';
+		for(var i = 0; i < Object.keys(allData['2017']).length; i++) {
+			twenty17Text = twenty17Text + desc[i] + ', ' + allData['2017'][desc[i]] + '\n'
+		}
+		twenty17Text = twenty17Text + '2018\n';
+		for(var i = 0; i < Object.keys(allData['2018']).length; i++) {
+			twenty17Text = twenty17Text + desc[i] + ', ' + allData['2018'][desc[i]] + '\n'
+		}
+		twenty17Text = twenty17Text + '2019\n';
+		for(var i = 0; i < Object.keys(allData['2019']).length; i++) {
+			twenty17Text = twenty17Text + desc[i] + ', ' + allData['2019'][desc[i]] + '\n'
+		}
+		fs.writeFile('penn.csv', twenty17Text, function (err) {
+			if(err) {
+				throw err;
+			} 
+			console.log('Success!');
+		});
+	}
 });
-
-
-function readToFile(textChunk) {
-	fs.writeFile('data.html', textChunk, function (err) {
-		if(err) {
-			console.log(err);
-		} 
-	});	
-}
