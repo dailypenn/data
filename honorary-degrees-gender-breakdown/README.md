@@ -1,6 +1,6 @@
 # Gender Breakdown of Honorary Degree Recipients
 
-This folder contains the data and code behind the article: []()
+This folder contains the data and code behind the article: [A breakdown of the 1,740 honorary degrees Penn has granted in the last three centuries](http://www.thedp.com/article/2018/02/commencement-speaker-honorary-degrees-2018-penn-cosby-wynn-gutmann-numbers-data-viz)
 
 ## See All Recipients
 
