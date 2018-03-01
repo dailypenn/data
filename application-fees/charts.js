@@ -33,7 +33,54 @@ var fees = c3.generate({
     show: false
   },
   title: {
-    text: 'College Application Fee for Various Ivy-Plus Colleges'
+    text: 'College application fees for Penn and peer schools'
+  }
+});
+
+var penn = c3.generate({
+  bindto: '#penn',
+  data: {
+    columns: [
+      ['Revenue', 3029550, 1817730]
+    ],
+    type: 'bar',
+    colors: {
+      'Revenue': '#000000'
+    },
+    color: function(c, data) {
+      var colors = ['#95001a', '#01256e'];
+      if (data.index !== undefined) return colors[data.index];
+      return c;
+    }
+  },
+  axis: {
+    x: {
+      type: 'category',
+      categories: ['Total revenue with no fees waived', 'Revenue with 40% of fees waived']
+    },
+    y: {
+      label: {
+        text: 'Revenue',
+        position: 'outer-middle'
+      },
+      tick: {
+        format: d3.format('$s')
+      }
+    }
+  },
+  tooltip: {
+    format: {
+      value: function (value, ratio, id) {
+        var format = d3.format('$,.');
+        return format(value);
+      }
+    }
+  },
+  legend: {
+    show: false
+  },
+  title: {
+    text: 'Penn\'s revenue from application fees'
   }
 });
 
@@ -80,53 +127,6 @@ var revenue = c3.generate({
     show: false
   },
   title: {
-    text: 'Total Revenue from Application Fees'
-  }
-});
-
-var waiver = c3.generate({
-  bindto: '#waiver',
-  data: {
-    columns: [
-      ['Revenue', 1442448, 1816776, 2208870, 2368800, 2666655, 2726595, 2860259, 3386736, 3569913]
-    ],
-    type: 'bar',
-    colors: {
-      'Revenue': '#000000',
-    },
-    color: function(c, data) {
-      var colors = ['#00693E', '#EE7F2D', '#4E3629', '#00356B', '#A51C30', '#01256E', '#C4D8E2', '#B31B1B', '#8C1515'];
-      if (data.index !== undefined) return colors[data.index];
-      return c;
-    }
-  },
-  axis: {
-    x: {
-      type: 'category',
-      categories: ['Dartmouth', 'Princeton', 'Brown', 'Yale', 'Harvard', 'Penn', 'Columbia', 'Cornell', 'Stanford']
-    },
-    y: {
-      label: {
-        text: 'Revenue ($)',
-        position: 'outer-middle'
-      },
-      tick: {
-        format: d3.format('$s')
-      }
-    }
-  },
-  tooltip: {
-    format: {
-      value: function (value, ratio, id) {
-        var format = d3.format('$,.');
-        return format(value);
-      }
-    }
-  },
-  legend: {
-    show: false
-  },
-  title: {
-    text: 'Revenue from Application Fees after Fee Waivers (Assumes 10% Waive Rate)'
+    text: 'Total revenue from application fees (waivers excluded)'
   }
 });
