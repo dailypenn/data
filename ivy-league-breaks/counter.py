@@ -5,6 +5,8 @@ from datetime import timedelta, date
 with open("columbia-breaks-2018.json") as json_data, open("out.csv", "w") as output:
     writer = csv.writer(output)
     data = json.load(json_data)
+    writer.writerow(["Holidays","Days Off"])
+    writer.writerow(["Winter Break", 24])
     for p in data:
         year_start = int(p['start'][0:3])
         year_end = int(p['end'][0:3])
