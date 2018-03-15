@@ -56,27 +56,30 @@ request({
 			if(desc[i].indexOf(',') != -1) {
 				desc[i] = desc[i].substring(0, desc[i].indexOf(',')) + ' ' + desc[i].substring(desc[i].indexOf(',') + 2);
 			}
-			twenty17Text = twenty17Text + desc[i] + ', 2017, ' + allData['2017'][i][og] + '\n'
+			twenty17Text = twenty17Text + desc[i] + ',2017,' + allData['2017'][i][og] + '\n'
 		}
 		for(var i = 0; i < Object.keys(allData['2018']).length; i++) {
 			var og = desc[i];
 			if(desc[i].indexOf(',') != -1) {
 				desc[i] = desc[i].substring(0, desc[i].indexOf(',')) + ' ' + desc[i].substring(desc[i].indexOf(',') + 2);
 			}
-			twenty17Text = twenty17Text + desc[i] + ', 2018, ' + allData['2018'][i][og] + '\n'
+			twenty17Text = twenty17Text + desc[i] + ',2018,' + allData['2018'][i][og] + '\n'
 		}
 		for(var i = 0; i < Object.keys(allData['2019']).length; i++) {
 			var og = desc[i];
 			if(desc[i].indexOf(',') != -1) {
 				desc[i] = desc[i].substring(0, desc[i].indexOf(',')) + ' ' + desc[i].substring(desc[i].indexOf(',') + 2);
 			}
-			twenty17Text = twenty17Text + desc[i] + ', 2019, ' + allData['2019'][i][og] + '\n'
+			twenty17Text = twenty17Text + desc[i] + ',2019,' + allData['2019'][i][og] + '\n'
 		}
 		fs.writeFile('penn.csv', twenty17Text, function (err) {
 			if(err) {
 				throw err;
 			} 
 			console.log('Success!');
+		});
+		fs.readFile('penn_clean.csv', function (err, data) {
+
 		});
 	}
 });
