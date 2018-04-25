@@ -16,6 +16,7 @@ If you find this data useful, please
 
 Date           | Headline | Folder
 ---------------|----------|-------------
+Apr. 24, 2018  | [School breaks across the Ivy League — and how Penn fares](http://www.thedp.com/article/2018/04/ivy-league-breaks-winter-upenn-philadelphia-higher-education) | [ivy-league-breaks](ivy-league-breaks)
 Mar. 31, 2018  | [Here are the College courses that double-count for fall 2018](http://www.thedp.com/article/2018/03/double-count-sector-foundation-fall-2019-upenn-philadelphia-ivy-league) | [double-count](double-count)
 Feb. 25, 2018  | [A breakdown of the 1,740 honorary degrees Penn has granted in the last three centuries](http://www.thedp.com/article/2018/02/commencement-speaker-honorary-degrees-2018-penn-cosby-wynn-gutmann-numbers-data-viz) | [honorary-degrees-gender-breakdown](honorary-degrees-gender-breakdown)
 Jan. 17, 2018  | [How many times has Trump mentioned his Wharton education? We crunched the numbers.](http://www.thedp.com/article/2018/01/trump-penn-wharton-data-education-times-ivy-league-business-finance-philadelphia-campaign) | [trump-penn-mentions](trump-penn-mentions)
