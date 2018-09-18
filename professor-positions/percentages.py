@@ -33,6 +33,5 @@ with open('data/' + dept + '_instructors_positions.csv', 'r') as file, open('dat
             else:
                 affiliations[position] = 1
 
-    print(affiliations)
     for position in affiliations:
         w.writerow([position, affiliations[position], affiliations[position] / total])
