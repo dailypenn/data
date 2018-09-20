@@ -35,7 +35,13 @@ with open('data/' + dept + '_instructors.csv', 'r') as file, open('data/' + dept
             person = people['result_data'][0]
             affiliations = ['']
             if len(person['affiliation_views']) is not 0:
-                affiliations = person['affiliation_views'][0]['affilliation_info'].split(',')
+                # check if this person is a graudate student
+                aff = person['affiliation_views'][0]['affilliation_info'].upper()
+                if 'STUDENT' in aff and 'GRADUATE' in aff and 'UNDERGRAD' not in aff:
+                    affiliations = ['GRADUATE STUDENT']
+                else:
+                    # otherwise, just use their first reported affiliation
+                    affiliations = aff.split(',')
             w.writerow([row[0], affiliations[0].strip()])
             # just use the first person we find
             # this isn't perfect, but few people have duplicate names
