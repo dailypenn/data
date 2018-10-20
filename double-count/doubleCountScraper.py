@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup as bs
 import csv
 
-BASE_URL = "http://fission.sas.upenn.edu/col/genreq/results.php?"
+BASE_URL = "https://apps.sas.upenn.edu/genreq/results.php?"
 
 SECTORS = {
     "I: Society"                       : "req[]=S&cls=10",

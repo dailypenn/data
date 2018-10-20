@@ -16,6 +16,7 @@ If you find this data useful, please
 
 Date           | Headline | Folder
 ---------------|----------|-------------
+Oct. 22, 2018  | [Here are the courses that double-count for the spring of 2018](https://www.thedp.com/article/2017/10/here-are-the-courses-that-double-count-for-the-spring-of-2018) | [double-count](double-count)
 Apr. 24, 2018  | [School breaks across the Ivy League — and how Penn fares](http://www.thedp.com/article/2018/04/ivy-league-breaks-winter-upenn-philadelphia-higher-education) | [ivy-league-breaks](ivy-league-breaks)
 Mar. 31, 2018  | [Here are the College courses that double-count for fall 2018](http://www.thedp.com/article/2018/03/double-count-sector-foundation-fall-2019-upenn-philadelphia-ivy-league) | [double-count](double-count)
 Feb. 25, 2018  | [A breakdown of the 1,740 honorary degrees Penn has granted in the last three centuries](http://www.thedp.com/article/2018/02/commencement-speaker-honorary-degrees-2018-penn-cosby-wynn-gutmann-numbers-data-viz) | [honorary-degrees-gender-breakdown](honorary-degrees-gender-breakdown)
