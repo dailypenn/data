@@ -55,14 +55,14 @@ def getData(url, req_name):
 def printSet(set):
     return ', '.join(set)
 
-for name, querystr in SECTORS.iteritems():
-    print "doing ", name
+for name, querystr in SECTORS.items():
+    print("doing ", name)
     getData(BASE_URL + querystr, name)
 
-with open('double_count.csv', 'wb') as csvfile:
+with open('double_count.csv', 'w') as csvfile:
     csv = csv.writer(csvfile)
 
     # find where multiple reqs are satisfied, combine over name
-    for code, reqs in course_data.iteritems():
+    for code, reqs in course_data.items():
         if len(course_data[code]) > 1:
             csv.writerow([course_names[code], code, printSet(course_data[code])])
