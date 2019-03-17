@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup as bs
-import csv
+import pandas as pd
 
 BASE_URL = "https://apps.sas.upenn.edu/genreq/results.php?"
 
@@ -23,6 +23,7 @@ course_names = {}
 course_map = {}
 course_data = {}
 double_counts = {}
+courses = pd.DataFrame(columns=['course_name', 'course_code', 'reqs'])
 # TODO: ADD WRITING
 
 def getData(url, req_name):
@@ -35,6 +36,7 @@ def getData(url, req_name):
     for row in table.findAll('tr')[1:]:  # strip header row
         cols = row.findAll('td')[1:]     # strip spacer column
         for col in cols:
+
             name = cols[0].text
             code = cols[1].text
 
@@ -59,10 +61,14 @@ for name, querystr in SECTORS.items():
     print("doing ", name)
     getData(BASE_URL + querystr, name)
 
-with open('double_count.csv', 'w') as csvfile:
-    csv = csv.writer(csvfile)
-
+with open('double_count2019f.csv', 'w') as csvfile:
     # find where multiple reqs are satisfied, combine over name
+    course_data_df = []
     for code, reqs in course_data.items():
         if len(course_data[code]) > 1:
-            csv.writerow([course_names[code], code, printSet(course_data[code])])
+            course_data_df.append({'course_name': course_names[code], 'course_code': code, 'reqs': printSet(course_data[code])})
+
+    courses = pd.DataFrame(course_data_df)
+    grouped_courses = courses.groupby('course_name').agg({'course_code': ', '.join,'reqs': 'first'}).reset_index()
+    grouped_courses.to_csv(csvfile)
+    print(grouped_courses.to_html())
