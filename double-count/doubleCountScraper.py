@@ -61,7 +61,7 @@ for name, querystr in SECTORS.items():
     print("doing ", name)
     getData(BASE_URL + querystr, name)
 
-with open('double_count2019f.csv', 'w') as csvfile:
+with open('double_count2019f.html', 'w') as file:
     # find where multiple reqs are satisfied, combine over name
     course_data_df = []
     for code, reqs in course_data.items():
@@ -70,5 +70,5 @@ with open('double_count2019f.csv', 'w') as csvfile:
 
     courses = pd.DataFrame(course_data_df)
     grouped_courses = courses.groupby('course_name').agg({'course_code': ', '.join,'reqs': 'first'}).reset_index()
-    grouped_courses.to_csv(csvfile)
-    print(grouped_courses.to_html())
+    # grouped_courses.to_csv(file)
+    grouped_courses.to_html(file)
