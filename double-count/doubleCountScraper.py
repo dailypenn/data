@@ -43,12 +43,6 @@ def getData(url, req_name):
             # add course code to name mapping
             course_names[code] = name
 
-            # if name in course_map.keys():
-            #     course_map[name].add(code)
-            # else:
-            #     course_map[name] = {code}
-
-            # add what course fufills
             if code not in course_data.keys():
                 course_data[code] = {req_name}
             else:
@@ -61,7 +55,7 @@ for name, querystr in SECTORS.items():
     print("doing ", name)
     getData(BASE_URL + querystr, name)
 
-with open('double_count2019f.html', 'w') as file:
+with open('double_count2019f.html', 'w+') as file:
     # find where multiple reqs are satisfied, combine over name
     course_data_df = []
     for code, reqs in course_data.items():
