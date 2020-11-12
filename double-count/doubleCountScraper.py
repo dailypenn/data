@@ -55,7 +55,7 @@ for name, querystr in SECTORS.items():
     print("doing ", name)
     getData(BASE_URL + querystr, name)
 
-with open('double_count2019f.csv', 'w+') as file:
+with open('double_count2020f.csv', 'w+') as file:
     # find where multiple reqs are satisfied, combine over name
     course_data_df = []
     for code, reqs in course_data.items():
