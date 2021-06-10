@@ -1,0 +1,58 @@
+[
+    {
+        "feature": [
+            {
+                "title": "A \u201cSecond Home\u201d in Danger of Collapse",
+                "subhead": "Philadelphia\u2019s Chinatown restaurants sit at the crux of anti\u2013Asian sentiment and the COVID\u201319 recession\u2014and pay a steep price. ",
+                "author": "Amy Xiang",
+                "published_link": "https://www.34st.com/article/2021/03/chinatown-anti-asian-racism-covid-19-philadelphia-food",
+                "image_link": "https://snworksceo.imgix.net/dpn-34s/9ecd3104-543f-49b9-8bcb-367a5ba2c21c.sized-1000x1000.png"
+            }
+        ],
+        "ig:_@34stmag": [
+            {
+                "link": "https://www.instagram.com/p/CMur4Y1j0kQ/"
+            },
+            {
+                "link": "https://www.instagram.com/p/CMxIPd1jz7W/"
+            },
+            {
+                "link": "https://www.instagram.com/p/CMz3Y1PjUjw/"
+            }
+        ],
+        "in_the_kitchen": [
+            {
+                "placement": "Top Left",
+                "title": "Philadelphia Restaurateur Ellen Yin on Female Empowerment in the Food Industry",
+                "subhead": "Restaurateur and Wharton alum (W'87) Ellen Yin shares how women\u2013owned businesses are rewriting the narrative of the COVID\u201319 pandemic.  ",
+                "author": "Aidah Qureshi",
+                "published_link": "https://www.34st.com/article/2021/03/ellen-yin-philly-women-owned-business-restaurant-food-hospitality",
+                "image": "in-the-kitchen-top-left.jpeg"
+            },
+            {
+                "placement": "Top Right",
+                "title": "Grassroots Food Truck is Planting Seeds in the Philadelphia Community",
+                "subhead": "Founders and chefs Troy Harris and Kareem Wallace provide more than just delicious food.",
+                "author": "Arielle Stanger",
+                "published_link": "https://www.34st.com/article/2021/03/grassroots-kosher-food-truck-dairy-vegetarian-penn-hillel-falk-dining-troy-harris-kareem-wallace-clark-park-community",
+                "image": "in-the-kitchen-top-right.jpeg"
+            },
+            {
+                "placement": "Bottom Left",
+                "title": "Meet Middle Child, A Deli Where Justice is On the Menu",
+                "subhead": "Middle Child owner Matt Cahn never set out to be an activist. Yet his sandwich shop is shaking up the food industry.",
+                "author": "Beatrice Forman",
+                "published_link": "https://www.34st.com/article/2021/03/mattcahn-middlechild-deli-philadelphia-blm-activism-antiracism-sandwiches",
+                "image": "in-the-kitchen-bottom-left.jpeg"
+            },
+            {
+                "placement": "Bottom Right",
+                "title": "Crust Vegan Bakery: \"A Business Built on Beliefs\"",
+                "subhead": "This bakery was able to open a new storefront, keep paying its workers, and donate to local organizations during the pandemic. ",
+                "author": "Emily White",
+                "published_link": "https://www.34st.com/article/2021/03/crust-vegan-bakery-covid-19-pandemic-living-wage-new-storefront-social-justice",
+                "image": "in-the-kitchen-bottom-right.jpeg"
+            }
+        ]
+    }
+]
