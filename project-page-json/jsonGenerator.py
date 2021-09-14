@@ -44,8 +44,8 @@ def make_json(csvFilePath, jsonFilePath):
     with open(jsonFilePath, 'w', encoding='utf-8') as jsonf:
         jsonf.write(json.dumps([data], indent=4))
     
-csvFilePath = r'sampleprojectpage.csv'
-jsonFilePath = r'sampleprojectpage.json'
+csvFilePath = r'welcomeback2022.csv'
+jsonFilePath = r'welcomeback2022.json'
  
 # Call the make_json function
 make_json(csvFilePath, jsonFilePath)

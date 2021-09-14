@@ -1,0 +1,511 @@
+{
+  "President": [
+    {
+      "name": "Sara Dedhia",
+      "introduction": "Hello everyone! My name is Sara and I am running for 2025 Class President. I have taken part in student government for six years (and served as Student Council President in 11th and 12th grade) because I genuinely love planning events and spreading morale.  Already a week into classes, I can see my friends burning out so I want to do everything possible to boost the energy and de-stress! If you've see me, I'm very approachable and not afraid to confront a challenge! If anything resonated with you please give me a vote, and I hope to see you around!",
+      "platform points": [
+        "Merchandise giveaways",
+        "Organizing multicultural food booths to experience the diverse cultures at Penn",
+        "Fall/spring carnival",
+        "Late-night snack events (pancakes, cookies, etc)",
+        "Wellness events (yoga, meditation, etc)"
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/sara-dedhia.jpeg"
+      }
+    },
+    {
+      "name": "Juan Lopez Ramos",
+      "introduction": "My name is Juan Lopez Ramos. I am from Oakland, CA but I was born in Mexico. I am running for president of the class board of 2025. I am doing this because I want to represent the first-generation, low-income, BIPOC, and international students. I am running because there are several issues that need to be addressed by the school and I believe I can initiate plausible and timely solutions for them. I believe that with my compassion, communication, and leadership skills I can guide and uplift the class of 2025.",
+      "platform points": [
+        "- Addressing Penn Face",
+        "- Mental Stability Over Academic Stability",
+        "- FGLI Representation",
+        "- Equal Opportunity: Women, BIPOC in positions of power",
+        "- Covid Compliance",
+        "- Healthy Food"
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/juan-lopez-ramos.jpeg"
+      }
+    },
+    {
+      "name": "Swarith Reddy",
+      "introduction": "Hihi Quakers! Some of you may know me as the guy who runs the Class of \u201825 Zooms, or maybe as the person who always answers questions on the GroupMe, but I\u2019m Swarith Reddy and I\u2019m now running to be known as your 2025 Class President! It\u2019s my goal to make you feel that Penn is a place that you\u2019re both happy and proud to call home \u2014 a community and a family for everyone. Make sure to take a look through my policies, see what\u2019s in store, and get out there to vote! Are you REDDY for a better Penn?",
+      "platform points": [
+        "Addressing PennFace - We all know it. It\u2019s being talked about. It\u2019s still an issue. Let\u2019s spearhead the effort to make mental health services at Penn better staffed and more accessible.",
+        "Dining Hall Reform - A core issue lies with major understaffing. But the solution is quite simple: fighting against labor shortage -> happier workers -> better food -> happier students.",
+        "Improved University Communication - We\u2019ve all missed something at least once due to not hearing about it. I want to work with administration to bring you clearer messages about event programming.",
+        "Online Accessibility - The Freshman Plague is not it. I\u2019ll advocate for mandating a virtual option to go to class for anyone who\u2019s feeling under the weather.",
+        "Universal Representation - We may not all be able to identify with every group but we have a responsibility to stand with them. Let\u2019s fight for equal representation across campus.",
+        "Hype! - We wouldn\u2019t be the Class of \u201825 without being the hypest class on campus. I\u2019ll push for using our events budget on what the people want: events made by us for us."
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/swarith-reddy.jpeg"
+      }
+    },
+    {
+      "name": "Diana Mota",
+      "introduction": "Hey everyone! My name is Diana Mota, and I am running for President of our class. I am a First Generation student in the college of arts and sciences hoping to triple major in Cinema, Communications, and Visual studies by the end of these four years. One of the reasons for my love of media arts is due to the fact that media brings people together. That\u2019s what my campaign is all about. Just like cinema and media, I want to bring all of us together and build a community through programs and events, and ultimately make Penn home away from home.",
+      "platform points": [
+        "Family and Community- These two sentiments are important to most people; however Penn does not always facilitate the creation of such.\n\nGoal: Push for more events that help build a strong community",
+        "Diversity and inclusion- There is lack of representation, especially with different cultures on campus.\n\nGoal: Push for spaces on campus for each affinity group to make people feel at home",
+        "Getting your Money\u2019s worth- You are paying a lot to be here, and we must get most of the resources available at Penn. \n\nGoal: Plan more events throughout the year.",
+        "Genuity- I genuinely want to make this year as great as possible for EVERYONE! \nGoal: Make the most of this time we have while staying healthy",
+        "For the people- There has been complain about events being boring or unnecessary\n\nGoal: Facilitate communication between students and planning committee in order to make events that everyone wants"
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/diana-mota.jpeg"
+      }
+    },
+    {
+      "name": "Will Krasnow",
+      "introduction": "What drives leadership? I am Will (from Hill) Krasnow, and I believe powerful leadership comes from the ability to work with amazing people. That is why I am so excited to run for class board president. In this role, I will collaborate with our incredible freshman student body and surrounding community to make our four years at Penn wildly enjoyable and memorable. Therefore, I am running on the intersection of this notion and my values by which I call The Alphabet Platform (A: Actionable policy, B: Bold Advocacy, C: Collaboration, D: Diversity, E: Entering Philly Bars, F: Financial responsibility).",
+      "platform points": [
+        "A - Actionable policy: I will propose reasonable changes and make promises I can keep.",
+        "B - Bold advocacy: I will ensure that the needs and wants of all Freshmen will be heard.",
+        "C - Collaboration: I will foster productive relationships with students, administrators, and organizations.",
+        "D - Diversity: I will ensure that our events are inclusive and enjoyable for all.",
+        "E - Entering Philly bars: YUH.",
+        "F - Financial responsibility: I will spend our money efficiently and effectively to create memorable experiences."
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/will-krasnow.jpeg"
+      }
+    },
+    {
+      "name": "Alex Zhou",
+      "introduction": "Hi! My name\u2019s Alex Zhou and I\u2019ll be running to be your 2025 Class Board President. If elected, I\u2019ll be committing myself to making your year the best it can be\u2014I love Penn and I can\u2019t see myself anywhere else for college. I want to be a president that will provide you with the resources necessary to have an enjoyable freshman year; one that we all deserve. I\u2019ll be keeping myself accountable and accessible as I plan and communicate events for you while prioritizing class unity events, inclusivity, and your mental and physical health. Remember: Alex isn\u2019t your average Zhou!",
+      "platform points": [
+        "Mental Health:  - Partner with Penn Bens and CAPS for proactive mental healthcare. - Revive the Econ Scream and promote classwide group mental health events.  - Increase awareness of mental health services offered.",
+        "Inclusivity: - Partner with cultural affinity groups to connect students with unique identities together.  - Rally to implement programs that make Penn more affordable to FGLI students.",
+        "Accessibility:\n- Make myself open weekly to hear class body concerns. \n- Anonymous forms for students to advocate for any concerns students may have.",
+        "Communication: - Centralized platforms for the class to stay up to date on important events.  - Consistent communication of Class of 2025 concerns with the rest of PSG and admin.",
+        "Health: - Ensure that all events are held with all local COVID guidance.  - Popup flu and other vaccination clinics. - Work with Penn Health Agencies increasing access to birth control and PreP.",
+        "Class Unity - Host friendly competition events between College Houses.  - The drippiest class merchandise you\u2019ll ever see. Profits to local charitable projects.  - Host as many socials as possible with free food."
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/alex-zhou.jpeg"
+      }
+    }
+  ],
+  "Vice President of External Affairs": [
+    {
+      "name": "Maya El-Sharif",
+      "introduction": "Hiya I\u2019m Maya El-Sharif, and no it does not mean the sheriff in Spanish! For those of you who don\u2019t know me, I am extremely short, extremely hungry (which is becoming increasingly challenging with the dining hall selections), and extremely sarcastic. There are a lot of things to love about Penn; however, the chicken temperature, the lack of athletic spirit, and the lack of wood platforms in the gym are not one of them. From finances to event planning, I would be honored to be part of your Class Board and the Undergraduate Assembly.",
+      "platform points": [
+        "Increasing athletic spirit by setting up pep rallies, free food, and other fun social events!",
+        "Class-wide website, show-off the students that are in the class of 2025. This would include a photo, small bio, activities everyone is involved in, dorm, and socials.",
+        "Birthday celebrations each month that would celebrate everyone who had a birthday in that given month. This would include dessert or other food-related items and balloons.",
+        "Grade-wide bonfire to promote school spirit. We would roast marshmallows and blast some music.",
+        "Grade-wide Games: Unlock your inner John Wick - dashing through the hallways, a water gun is hidden from sight, ready to spritz your unsuspecting target with the game Assassin.",
+        "Winter Wonderland - Everyone will get into the holiday spirit with hot chocolate, holiday decorations in the dorms, and festive events throughout the season."
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/maya-el-sharif.jpeg"
+      }
+    },
+    {
+      "name": "Jacqueline Davis",
+      "introduction": "My name is Jacqueline Davis, and I\u2019m running to be your Vice President of External Affairs for the Class Board of 2025 and your Undergraduate Assembly Representative. I\u2019m from San Antonio, Texas, and I am majoring in Political and Persuasive Communication with minors in P.O.R.E.S. and Cinema and Media Studies. I want to be a voice for our class and represent YOU! , listen to My campaign is based on listening to your input to plan the best class events yet! Please check out my platform outlined below!",
+      "platform points": [
+        "Class Outreach I will work to advise our Class of 2025 of all student events and opportunities, utilizing email, flyers, posters, etc.",
+        "Class Culture- I am committed to a class culture of acceptance and inclusivity. There is much that we can learn from one another thereby helping each other towards greater success!",
+        "Student Voice- I will strive to make student voices heard through class polls and issue forms to allow for greater communication and problem solving.",
+        "Internet Connectivity- I will endeavor to rectify the internet connectivity issue by initiating a clearer \u201cHow to connect to AirPennNet\u201d explanation and by advocating with the administration for more routers.",
+        "Mail Services- I will work to create a better logistical organization for mail services, so that our class can receive mail in a more timely manner.",
+        "The Coolest Events/Parties!- I will incorporate our class voice into planning wonderful social events and amazing parties with killer snacks, awesome music, and free merch!"
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/jacqueline-davis.jpeg"
+      }
+    },
+    {
+      "name": "Hannah Liu",
+      "introduction": "Hello everyone! My name is Hannah Liu, and you may know me as the owner of the Penn '25 Discord server. However, today, instead of running the Discord, I'm running to be your next UA New Student Rep and VP of External! I want to help create the best undergraduate experience possible and ensure that the Penn community's concerns are heard and addressed. Please read through my platform for more information on my campaign, and feel free to contact me if you have any questions! You got nothing to Liu-se, so vote for Hannah Liu! :D",
+      "platform points": [
+        "The transition from high school to college is extremely overwhelming and stressful. To make that process easier, I want to compile resources for freshmen to use as they navigate campus.",
+        "There are many groups on campus who feel mis- or under-represented. I want to help uplift the voices of those groups and make inclusion a priority on campus.",
+        "The Penn administration has made many promises, some of which have never been fulfilled. To fix this, I want to work with the administration and ensure accountability from them.",
+        "Mental health concerns, especially \u201cPenn Face\u201d, must be addressed. I want to further develop pre-existing Penn mental health services and help remove the stigma around asking for help.",
+        "There have been many sanitation issues, like mold in the Quad ACs and the freshman plague. I want to push for sanitation reform so that students stay healthy living here.",
+        "There has been a disconnect between the Penn student body and the administration. I want to ensure that student input is being heard by the administration and implemented on campus."
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/hannah-liu.jpeg"
+      }
+    },
+    {
+      "name": "Gabriella Gibson",
+      "introduction": "I am running for Class Board because I have a lot of school spirit and believe that I can plan several fun, engaging events for the freshman class. I went to a small high school where everyone participated in the school traditions and events, and I want to bring that same sense of unity and engagement to Penn. I would love to be a part of planning the Penn traditions for you all and also a part of making them as accessible as possible so everyone has the chance to be an active member of the Penn community!",
+      "platform points": [
+        "I will advocate for in-person classes with remote-learning options to promote the best learning environment while also giving quarantined students the option to attend class.",
+        "I will plan events for the Class of 2025 to increase student engagement and provide opportunities to meet fellow freshmen.",
+        "I will make mental health resources more accessible."
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/gabriella-gibson.jpeg"
+      }
+    }
+  ],
+  "College Chair": [
+    {
+      "name": "Sri Pinnamareddy",
+      "introduction": "Hey y\u2019all! My name is Sri Pinnamareddy and I am running to be your next School of Arts & Sciences Chair and UA Representative. My ambition comes from a desire to be more than your classmate. I want to be a passionate advocate, a unifying representative, and a servant leader. My platform is based on access to academic resources, improving student social life, and prioritizing wellness on campus. Feel free to contact me at spinn@sas.upenn.edu. With my determination and your support, we can shift conversations about change to actions of change. #PINNforPENN",
+      "platform points": [
+        "Implementing easier access to printers. Currently, Wharton & SEAS students have $20 credit for printing purposes, I would like to expand this incentive to SAS students.",
+        "Introducing a cohort system for SAS students to have integrative real-world experiences, opportunities to develop soft skills, and maintain a supportive social environment.",
+        "Establishing vending machines in all college houses for easy access of snacks, drinks, and other necessities.",
+        "Ensuring that all social events are in-person and accessible, but prioritizing safety through making events more physically distanced.",
+        "Improving dorm life by ensuring that all facilities are safe and any broken utilities are resolved in a more timely manner.",
+        "Being more inclusive of the student body in student government initiatives by accepting student proposals and suggestions on changes they would like to see."
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/sri-pinnamareddy.jpeg"
+      }
+    },
+    {
+      "name": "Chase Kelley",
+      "introduction": "Hello Everyone! My name is Chase Kelley, and I am running for College Class Chair. A little bit about myself: I\u2019m a triplet from Michigan, studying political science on the pre-law track. A few of my interests include: soccer, traveling, fashion, and international relations. As a member of the LGBTQ+ community, I am running for college chair to ensure all voices are heard. I am elated to spend my next four years with all of you, and if elected, I plan to garner vast perspectives and serve as a common consensus for CAS students.",
+      "platform points": [
+        "Placing an emphasis on marketing mental health resources and counseling services to ensure they\u2019re accessible to all.",
+        "Ensuring resources are granted to students with Covid to guarantee testing positive is not of detriment to student\u2019s grades and comprehension of coursework.",
+        "Garnering funding to gain a more reliable and fast source of internet across all of campus.",
+        "Offering more flexibility with meal plans to provide sustainable access to food for the entire semester.",
+        "Hiring more custodial staff for the freshman dorms to ensure our bathrooms, common areas, and hallways stay clean and usable.",
+        "Allowing for an optional pass/fail grade policy if Covid-19 relegates us to online learning once again."
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/chase-kelley.jpeg"
+      }
+    },
+    {
+      "name": "Camila Paranhos",
+      "introduction": "As an international student coming from Brazil, I am fascinated by the school spirit in US Universities. For me, it would be an honor and pleasure to plan events that foster this spirit incorporating the diversity that the biggest and most heterogeneous school at Penn has to offer. Representing the college will not only entail implementing my vision of events, but also voicing college students\u2019 concerns and opinions to the board. As someone with a diverse background and range of interests, I could not imagine myself running for another position if not representing the concrete demonstration of diversity at Penn.",
+      "platform points": [
+        "I perceive the career fairs at Penn as somewhat narrow and featuring mostly business-oriented careers. I propose the incorporation of non-traditional careers that will better represent the SAS\u2019s interests.",
+        "I will support Summer Internship Recruiting events for the college to present students opportunities that will not only contribute to their professional development but also provide a sense of fulfillment.",
+        "Involvement with the Philadelphia community has been on the list of Penn goals for a long time. Following this objective, I plan to increase community service opportunities for college students.",
+        "Through 60-second lectures, Penn students can learn about a topic from faculty. I propose a coffee-chat scheduling system so that they can learn about diverse topics from their peers.",
+        "Undecided majors are at the heart of the SAS. A platform to connect them with college majors with diverse interests would be vital.",
+        "Following Penn\u2019s work hard play hard vibe, I also intend to bring innovative ideas to create new traditions and social events at Penn."
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/camila-paranhos.jpeg"
+      }
+    }
+  ],
+  "Executive Vice President": [
+    {
+      "name": "Leanne Wattar",
+      "introduction": "Hi! I\u2019m from the suburbs of Cleveland, OH, and I\u2019m a Political Science major on the pre-med track. In high school, I was Science Olympiad co-captain, Model UN officer, Key Club officer, and Environmental Club officer. I\u2019m also on the National Policy Team of a youth climate change advocacy organization. Through these experiences, I\u2019ve expanded my organizational and leadership skills, preparing me to effectively listen to and carry out the requests of the Freshman class. As such, I\u2019m running for Executive Vice President to help plan engaging social events that will allow students to build lasting connections with one another!",
+      "platform points": [
+        "Create more Freshmen-specific traditions like the Econ Scream to help us all bond, while also involving local businesses to give back to the community",
+        "Gain increased funding for the Freshmen class in order to have the capacity to put on more fun, free events",
+        "Increase communication between students and university officials to better advocate for Freshmen students' needs",
+        "Organize trips to local sites such as Chinatown, Center City, etc.",
+        "Plan formal events throughout the year to give us the opportunity to have the most normal experience possible under these conditions",
+        "Hold space for underrepresented students on campus to have a voice in planning"
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/leanne-wattar.jpeg"
+      }
+    },
+    {
+      "name": "Amaan Omer",
+      "introduction": "HELLO Movers, Shakers, and Quakers! My name is Amaan Omer, and I'm running to be our class's Executive Vice President. I bet a lot of you are stressed with club applications and piling homework assignments. I get it; I'm in the same boat. As your Vice President, my job is to listen to your concerns, amplify your voices, and advocate for incentives that build a better Penn. Below are the policies I hope to implement! When election day comes around, be sure to cast a ballot because you already know...Amaan is A MAAN for the job.",
+      "platform points": [
+        "Dining Hall: Prominent issues with dining\u2014understaffing and hours. (1) Reimbursing and hiring more staff -> higher quality foods -> glowing students! (2) Extending dining hours so we can eat our stresses away.",
+        "Mental Health: We just started college, so make sure to prioritize YOUR health. I aim to work with SCUE to implement bi-weekly/monthly off-days so we can catch our breaths.",
+        "Resource Accessibility: Through close collaborations with existing clubs and student groups on campus, I want to open more resources for underrepresented and inexperienced communities trying to navigate Penn.",
+        "Centralized Communications: Despise hundreds of emails spamming your Penn feed? It's redundant and CONFUSING...and we've missed important announcements consequently. I hope to create a system that updates students effectively.",
+        "Party time: Do you like dancing? Cuz I sure as heck do. You tell me your wildest fantasies *cough cough* I mean ideas, and I'll bring them to life.",
+        "Penn X Philadelphia: It's time for Penn to give back to Philly, whether that's organizing class-wide efforts to revitalize the city's communities to volunteering; let's show our brotherly love."
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/amaan-omer.jpeg"
+      }
+    },
+    {
+      "name": "Liam Gavin Dell",
+      "introduction": "I am McLovin. I keep busy by devoting myself to a wide range of activities and fostering connections with a wide range of students. I'm running to be your vice president and UA representative because I want everyone here at Penn, especially those in the class of '25, to have access to the full college experience that Fogell, Benji, and Seth worked so hard to obtain.",
+      "platform points": [
+        "In-Person and Safe: I will ensure that all Penn traditions return this year completely in-person, with necessary COVID-19 protocols. No one wants to do anything virtually anymore.",
+        "College Prom: Since many were cheated out of a real, full, stupid and cheesy high school prom, I\u2019ll give everyone a shot at a night that they might regret.",
+        "Weekend Food: If you hate having only two dining hall options at very specific times on Saturdays and Sundays, vote for me and I'll keep up the feast.",
+        "More Merchandise: For those of you who only brought a few T-shirts, expecting free ones on every corner, I'll make all the Penn merch more available at events.",
+        "Ease Back In: Let's be honest--in-person exams are drastically different than the virtual ones we've grown accustomed to. I'll encourage administration to facilitate a gradual return of typical expectations.",
+        "Complete Representation: Just because Student Government makes decisions doesn't mean we have all the ideas. I will always be open to speak to anyone about what we can do better."
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/liam-gavin-dell.jpeg"
+      }
+    },
+    {
+      "name": "Harry Kilberg",
+      "introduction": "Hi friends! I\u2019m Harry from Connecticut and I am running for Class Board and UA. I want to serve the Penn Community to enact positive change and provide a more welcoming, inclusive, and fun environment for all students. I am a First-Year in the College and am incredibly passionate about film, creative writing, economics, and entrepreneurship. Through social events and a plethora of \u2018student-friendly upgrades\u2019, I hope to enhance the college experience for the Class of 2025, and will unrelentingly advocate for the student body to make sure all voices are heard.",
+      "platform points": [
+        "Unity through Fun: Class Olympics. Beach Day at Quad (sand, pina coladas, free ice cream truck, hawaiian luau dance). Rent-a-puppy for the day partnership with local kennels.",
+        "Late-night social activities: Nightly Quad campfires with smores and music. Lottery: free 76ers, NOTO, and SEPTA tickets. Free laundry service, sushi from Mcclelland, meet with President Gutmann, first-choice for class registration.",
+        "Convenience: Establish direct late-night delivery service to UPenn students from Wawa and Allegro\u2019s through 3am. Water bottle room-delivery service. Free coffee machines in every college house.",
+        "Inclusion: Shareable electric scooters on campus (through app). Start to build infrastructure for installing sinks in every room. Fix locks on broken bathrooms. Advocate for more effective diversity measures.",
+        "Common-Sense: Advocate against 2nd-year dining plan. No more entering pin for Penn Card at Quad gates. Continue pass-fail policy from last year. Mold checks for every dorm room.",
+        "Transparency: More transparency on COVID-related decisions. Promote and properly market Penn\u2019s sports schedule. FGLI: decrease cost for student group memberships and class-related items. Surveys to provide suggestions and feedback."
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/harry-kilberg.jpeg"
+      }
+    },
+    {
+      "name": "Xandro Xu",
+      "introduction": "Hi everyone! My name is Xandro Xu, and I'm running to be your next Executive Vice President. From my time here at Penn, it's evident that a focus on mental health, sustainability, and cultural appreciation is needed.   Class board is also about carrying on past traditions as well as creating our own legacy. If elected, I want to do everything possible to help make our time at Penn our own, amplifying your concerns and suggestions.    If you ever see me around, please don't hesitate to approach and talk to me :) Remember, Xu is the one for you!",
+      "platform points": [
+        "Mental health & wellness - Having mental health days throughout the year with no assigned homework and the promotion of wellness events such (i.e., meditation & yoga)",
+        "Sustainability - Pushing of Penn\u2019s \u201cGreen to Go\u201d reusable container initiative + collaboration with other branches of student government to implement solutions to dining hall food waste",
+        "Increased cultural appreciation & representation - Hosting various cultural showcase events throughout the year, such as a multicultural food night",
+        "Class spirit week - Includes late night snack events, games/carnival, and social events.",
+        "Amplification of minority voices, specifically those within the LGBTQ+ community",
+        "Free merch / merch giveaways :)"
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/xandro-xu.jpeg"
+      }
+    }
+  ],
+  "Vice President of Finances": [
+    {
+      "name": "Poojan Pansuriya",
+      "introduction": "Hello my name is Poojan Pansuriya. I am from Kentucky and will be running for VP of Finance for Class Board 2025. I am studying at Wharton and plan on concentrating in Finance and Business Analytics with a minor in Computer Science. By running for the class board, I want to make sure the voices of the students are heard, and the funding is spent on events and activities that are requested by the students. I will continue the Penn traditions but also want to add new ones and leave a legacy for the Class of 2025.",
+      "platform points": [
+        "The Class is given a budget of $9250. I will advocate for more funding towards merchandise so everyone can represent Penn and show their school spirit.",
+        "I will support the diverse culture of our class by implementing more funding for cultural shows and food fests.",
+        "Class board has limited funding, I would like to increase that so we can have more Penn Traditions like the Econ Scream and Holi.",
+        "I want to make sure that the students get what they want. What would the Class like? A movie night? A formal? I want to convey your voices."
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/poojan-pansuriya.jpeg"
+      }
+    },
+    {
+      "name": "Keshav Ramesh",
+      "introduction": "I\u2019m Keshav Ramesh, a freshman in the Huntsman Program, and I\u2019m incredibly excited to run for Vice President of Finances in the Class Board 2025 to provide every freshman with a voice in decisions that affect us. It would be my honor to represent you in an organization that engages in collaborative problem-solving and prioritizes leadership by taking initiative. Please do not hesitate to reach out with questions! DM me on Instagram @keshavramesh1 or email me at keshmesh@wharton.upenn.edu, and I\u2019d love to chat about issues important to you. Looking forward to hearing from you soon!",
+      "platform points": [
+        "Investing time and allocating more funding into setting up mental health resources for students, including but not limited to student-run wellness workshops and student-led confidential peer support groups.",
+        "Setting up programs and expanding current ones that connect Penn students with financial aid advisors to improve financial literacy in the student population and provide counseling to lessen financial stress.",
+        "Organizing activities that highlight and promote school spirit, encourage attendance at athletic events, and assist freshmen in engaging with what the wider Philadelphia community and its establishments have to offer.",
+        "Empowering first-generation low-income (FGLI) students through working directly with FGLI student organizations at Penn on financial advocacy initiatives and expanding mentorship programs between underclassmen and upperclassmen.",
+        "Collaborating with other branches of student government to manage event logistics for organizing Penn traditions, social events, volunteer initiatives, workshops for diversity, equity, and inclusion, student-led initiatives, and fundraising campaigns.",
+        "Opening sections of Class Board meetings up to public comment and regularly scheduling feedback sessions and town hall forums with freshmen to better understand the perspectives of our constituents."
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/keshav-ramesh.jpeg"
+      }
+    },
+    {
+      "name": "Ben Sailors",
+      "introduction": "Hello! My name is Ben Sailors, and this year I am running to be your representative on the Undergraduate Assembly and the Vice-President of Finances for the 2025 Class Board. With significant experience advocating for policies and legislative change on the local, state, and national levels, I will ensure that the administration listens to our needs as students. As well, my passion for campus traditions and experience balancing budgets and allocating money for nonprofit organizations has prepared me to help lead our Class Board and keep our budget solvent. Thank you; I cannot wait to make our four years fantastic!",
+      "platform points": [
+        "CB - Ensuring equitable and transparent usage of funds for all 2025 events. My goal will be to reduce waste and redundancies in all Class Board operations in my purview.",
+        "CB \u2013 Planning events we will never forget. From classic traditions like Econ Scream to new and exciting waterfront concerts, it is my goal that we have the best time possible.",
+        "CB - Building community among our class through shared experiences like class merchandise, optional class trips and community service days, and a wide variety of fun, bonding activities."
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/ben-sailors.jpeg"
+      }
+    },
+    {
+      "name": "James Blanco",
+      "introduction": "Hey everyone! My name is James Blanco, and I'm super excited to be running for Vice-President of Finances. My main priority is ensuring that our class budget is increased in order to have more fun events around campus. I love being spontaneous so I will make sure there will always be something going on for all of us. I\u2019m also a good listener, so I want to hear from all of you about what you think would make the school better. I hope you have an amazing year, and don\u2019t forget to vote for James Blanco!",
+      "platform points": [
+        "Merch - Everyone loves merch, and I believe there should be more of it! I will also make sure there\u2019s more diverse options: beanies, shorts, shirts, quarter zips, etc. Also, free merch :)",
+        "Career/Academic Preparation - I want to ensure that my peers have the resources needed to be successful at Penn and beyond by setting up info sessions, peer-mentorships, online resources, etc.",
+        "Student Health - I want to provide more resources for peer support groups throughout campus to uplift the mental health. Additionally, I want to ensure that sanitary items are more accessible: hand sanitizer, masks, etc.",
+        "Diversity & Culture - Penn has so many diverse identities, and I want to help uplift them by hosting more cultural events and info sessions throughout the year. Also, cultural food events!",
+        "Community Events - There is nothing better than hanging out. I want to make sure there are more spontaneous events on campus throughout the year. I\u2019m thinking Spikeball nights, cookouts, scavenger hunts, etc",
+        "Coffee Chats - I want there to be coffee chats where students can come directly up to us and discuss the issues or visions they have for the class. I want to hear all of your amazing ideas!"
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/james-blanco.jpeg"
+      }
+    }
+  ],
+  "Vice President of Internal Affairs": [
+    {
+      "name": "Haerin So",
+      "introduction": "Hi everyone! I\u2019m Haerin So and I\u2019m running to be your Class of 2025 Vice President of Internal Affairs. I\u2019m a freshman from Northern Virginia in Wharton and am passionate about student government and advocacy. After a long period of isolation and uncertainty, we\u2019ve made it; I\u2019m running because I want to connect our class to build a community of change and unity. I\u2019m excited to activate my 2025 ACCESS platform at Penn and work my best to ensure the best first year experience at Penn. Thank you and I can\u2019t wait to continue meeting you all!",
+      "platform points": [
+        "Action: I\u2019ll work to make our freshman year the best year yet, whether it\u2019s through events, socials, merchandise, or other methods of unity \u2014 we deserve it.",
+        "Communication: I\u2019ll create class social media pages, a class-wide newsletter, and contribute updates to as many outreach platforms as possible (DP, GroupMe, Discord, etc.).",
+        "Community: I\u2019ll strive to create an inclusive and collaborative space for students of all identities and backgrounds, and provide outlets for students to support one another.",
+        "Empathy: I aim to understand the ways we may be struggling intellectually, physically, and emotionally and create opportunities for dialogue and activities to foster deeper connections and a movement-filled community.",
+        "Social Impact: I\u2019ll help plan service and social events centered on social impact and giving back to the community, and will strive to incorporate philanthropic efforts to Class Board discussions.",
+        "Success: I\u2019ll collaborate with fellow Class Board members to ensure we all have a successful year\u2014in all aspects of our lives\u2014and work towards a normalcy after all we\u2019ve been through."
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/haerin-so.jpeg"
+      }
+    },
+    {
+      "name": "Silas Ruth",
+      "introduction": "Hello classmates! My name is Silas Ruth and I am from Rochester, NY. I am thinking about majoring in Neuroscience, or Political Science. I am so excited to be here, in-person, with you all this fall. I am running for Student Government because I want to be a part of positive change at Penn. I am amiable, and open to any and all ideas you have about how life at Penn can improve. Please don\u2019t hesitate to reach out if you have any questions about my platform, or just want to talk! My email is rsruth@sas.upenn.edu",
+      "platform points": [
+        "Longer weekend hours in dining halls",
+        "Formal course sampling period during spring semester, and over the summer, where students sit in on courses they are considering taking the following semester.",
+        "Major Fair; meet professors and upperclassmen in your major and form relationships; learn about potential careers in your major.",
+        "Late night snack stands in residential houses.",
+        "Textbook drives; collect used textbooks and distributed for reduced price to support low income students.",
+        "High-quality, free, feminine products in all co-ed bathrooms."
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/silas-ruth.jpeg"
+      }
+    },
+    {
+      "name": "Ria Ellendula",
+      "introduction": "Why did you choose Penn? I\u2019m Ria Ellendula, and I chose Penn because of diversity. I\u2019m inspired by the differences that our student body comprises. I hope to enact transformative policies that represent our dynamic needs and bolster the passions of everyone here. I value two tenets tremendously: transparency and collaboration. If elected to student government, it will be my mission to be 100% transparent and collaborative in all policy and event-planning endeavors. A vote for me is a vote for a leader who is committed to serving you with dedication and spirit, making this year a memorable one.",
+      "platform points": [
+        "I will work to foster a community that prioritizes mental health and wellness on campus.",
+        "I will work to integrate policies that combat the competitive club culture at Penn.",
+        "I hope to plan memorable events that foster a sense of campus-wide spirit.",
+        "I will facilitate multiculturalism and inclusion throughout campus.",
+        "I will work to allocate Penn funds in a way that best serves students' interests.",
+        "I will advocate for policies that represent the ideas and needs of the student body."
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/ria-ellendula.jpeg"
+      }
+    }
+  ],
+  "Engineering Chair": [
+    {
+      "name": "Fiona Wu",
+      "introduction": "My name's Fiona Wu and I'm running for Engineering Class Chair. I'm a computer science major, but I also love architecture, design, medicine, and learning different human languages! My latest obsession is posting bike rides and the 123812 miles we walk at Penn on Strava. I LOVE talking and listening to new people, which is my favorite part about being at Penn (meeting cool people from all over the world)! I'm here to represent your needs, wants, and who you are. Let's provoke real change and create a fun year together. Follow my campaign on @fiona.wu_  . It's long overdue, vote Fiona Wu.",
+      "platform points": [
+        "CELEBRATE CULTURE AND DIVERSITY WITH FOOD! - The best part about Penn is the people. I want to create events where people can celebrate their differences and meet new people!",
+        "FREE *AND* QUALITY MERCH \u2013 I have sold and designed stickers, pins, shirts, sweaters! I can promise cool merch with bomb designs!",
+        "COMMUNICATION \u2013 I will make finding events easy and accessible. Additionally, I will try my best to redirect you to the right resources for mental health, MERT, CAPS, safety, academics, etc."
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/fiona-wu.jpeg"
+      }
+    },
+    {
+      "name": "Yousef Elyoussef",
+      "introduction": "What\u2019s up, everyone! My name is Yousef Elyoussef and I am running to be the next Freshman Engineering Class Chair! I am currently on the pre-med track studying Bioengineering and am super excited to be here! I love to play ping pong, spikeball, and volleyball and look forward to playing with as many people as I can. Engineering students are known to be some of the busiest, hardworking people and I want to ensure that there is an abundance of resources available to them. All students should be included, whether that be in the classroom or at any future events.",
+      "platform points": [
+        "Ensure that all Penn events accommodate engineering students\u2019 schedules.",
+        "I would create more engineering focused events such as an engineering social and a senior project expo.",
+        "Secure ample GSR spaces specifically for engineers.",
+        "Advocate for engineering students\u2019 interests in all forms."
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/yousef-elyoussef.jpeg"
+      }
+    }
+  ],
+  "Wharton Chair": [
+    {
+      "name": "Krish Shah",
+      "introduction": "Hey Quakers, hope everyone\u2019s enjoying a great start to our school year! My name is Krish Shah, I\u2019m from NYC, and I\u2019m running for the class of \u201825 Wharton Class Chair. It\u2019s been a dream for many of us to be here at Penn. Now that we\u2019re here, I want us to make the most of this opportunity and our dreams by advocating for any change necessary, academic and extracurricular, that can enhance our experiences. We can strengthen an intellectual and driven environment where everyone is feeling happy, healthy, and safe. After ages inside, everyone deserves the best time here!",
+      "platform points": [
+        "Work with the Wharton Council and Penn Clubs to provide a longer period for club applications and interviews, enabling more time and less stress for all student applicants",
+        "Work with Alumni Relations to start a program that pairs students with alumni in a field of their choice, before giving students opportunities to work with a new alumni after",
+        "Post Midterm Mashup: A night party after the final exam for the undergraduate class of \u201825 at Franklin Field, with music and snacks to celebrate our first completion of midyears",
+        "Create an open space forum where students can file any general complaints that they do not know where to direct, after which students will be provided with the right guidance.",
+        "Create a UPenn Tifo (large Visual display/banner), to be used at sporting events to embody school spirit and create a strong, bright, stadium atmosphere.",
+        "Residential Building Competitions, allowing students to signup for various athletic, academic, and game related events and compete in friendly matches against their peers in other buildings"
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/krish-shah.jpeg"
+      }
+    },
+    {
+      "name": "Ria Saraswat",
+      "introduction": "Hello! My name is Ria Saraswat, and I\u2019m a freshman who\u2019s fallen in love with Penn, but I recognize that there are many ways to make our campus a better home for every student. I\u2019m running for Wharton Chair and UA because I believe in fostering a supportive and uplifting community at Penn that caters to the student body. I pledge to establish direct lines of communication between students and administration, while using my platform to advocate for the issues that matter most to all Quakers.",
+      "platform points": [
+        "Improving communication through an established forum to prevent confusion/misinformation - Communication is not Penn\u2019s forte, but I will develop a streamlined avenue of communication between the University administration and students.",
+        "Promoting a supportive environment in Wharton that combats toxic competition and encourages inclusivity  - I\u2019ll partner with affinity groups to address diversity issues while pushing for school-wide events that unite students.",
+        "Prioritizing wellness and mental health - I pledge to ensure that the University puts its students first by working with CAPS and wellness initiatives to make mental health services more accessible.",
+        "Keeping Class Board and UA accountable - CB/UA members are elected representatives entrusted with bringing students\u2019 concerns to light, and I will ensure that those concerns are addressed.",
+        "Making Penn a Greener Campus - I plan to work towards making Penn a more environmentally conscious campus by pushing administrators to implement university-wide sustainable practices.",
+        "Paying PILOTs - As members of the Philadelphia community, we must advocate for the adequate funding of Philadelphia public schools. I\u2019ll push administration to contribute and support the Educational Equity Fund."
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/ria-saraswat.jpeg"
+      }
+    },
+    {
+      "name": "Shivam Shah",
+      "introduction": "Hello everyone, my name is Shivam Shah and I am running for Wharton Class Chair. For this year, I have many great ideas for events that the class board can hold. From networking events to group parties, I will ensure that these events are a good time and have something for everyone. I will ensure that the class of 2025 (goated) will start a new tradition that will cement our legacy.",
+      "platform points": [
+        "- Fun Networking events",
+        "- Free Food",
+        "-Class of 2025 Tradition",
+        "- Platform for students to chat about events, and free goodies",
+        "- Enhanced Penn Tradition Based Events",
+        "- Greater Funding through representation with alumni"
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/shivam-shah.jpeg"
+      }
+    },
+    {
+      "name": "Bonnie Li",
+      "introduction": "My name is Bonnie Li and I am incredibly excited to be running for Wharton Chair! We\u2019ve all been through a lot in the past few years, and now, as we navigate our new lives at Penn in the midst of a pandemic (a phrase we\u2019ve heard a million times by now), I want to serve as an advocate for your suggestions on how to make the most of our Wharton experience as we take steps towards returning to normalcy. I\u2019m ready to fight for equal opportunity to succeed and make Penn a more inclusive community for all Wharton students.",
+      "platform points": [
+        "Create events and programs that promote building genuine friendships and connections with other Wharton students to form a stronger sense of community focused on collaboration rather than competition.",
+        "Push towards making Wharton clubs less competitive and stress-inducing, therefore shifting its focus towards inclusivity and providing more educational opportunities to gain experience that will benefit students\u2019 future career paths.",
+        "Provide more resources for underrepresented students at Wharton who might feel like they don\u2019t have the skills, prior experiences, and equal opportunities to reach their full potential.",
+        "Place a bigger emphasis on student\u2019s mental health throughout return to in-person classes and events--provide more resources for support and make them more easily accessible for students.",
+        "Work on requiring all professors to offer zoom links for classes (along with zoom recordings) to encourage students who feel sick to stay home, maintaining the overall Penn community health.",
+        "Promote civic engagement by creating more opportunities for Wharton students to apply the skills they\u2019ve learned in the classroom towards volunteer projects local to the Philadelphia area."
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/bonnie-li.jpeg"
+      }
+    }
+  ],
+  "Nursing Chair": [
+    {
+      "name": "Benita Cui",
+      "introduction": "Hey hey! I\u2019m Benita Cui, and I\u2019m excited to be running as your Nursing Class Chair. Through this position I can create opportunities for our amazing nursing students to come into the limelight and have a greater presence in our school. As my school\u2019s student government President, I ensured we had the funding through fundraisers and budgeting so that we could do events *right*. Promoting school spirit by tailoring events based on students feedback was my highest priority. After our late afternoon nursing classes, you\u2019ll see me rushing to Houston Market to grab dinner. Don\u2019t be afraid to say hi!",
+      "platform points": [
+        "Student Voice: Creating opportunities for students to speak their thoughts and opinions freely. Your concerns and feedback are relayed back to Class Board meetings for discussion.",
+        "Student Unity: Let's build the tight-knit community Nursing students are renowned for, and also collaborate with other schools to make a more homey environment within our class!",
+        "Student Wellness: Advocating to improve students' experience throughout our transition, easing club application deadlines, inviting emotional support animals, and organizing self-care, bonding and fun events for our class.",
+        "Penn Nursing 2025 Instagram: A student-run social media platform just for our class to share relevant academic and upcoming event information, and snapshots from the lives of our fellow classmates!",
+        "Sundae Social: Do you feel like there\u2019s not enough opportunities yet to get to know and bond with our nursing class of 2025? Come chat over some sundaes on Sundays!"
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/benita-cui.jpeg"
+      }
+    },
+    {
+      "name": "Andrew Kim",
+      "introduction": "Hello nursing class of 2025! I am running for class chair because I am a great listener, and I will advocate strongly for you in student government. I will work with you to plan events and programs such as mixers in Center City and round table discussions. As a native of Philadelphia, I want to use my knowledge of the city to plan events that\u2019ll help us get to know each other better. Through these events, I hope to nurture a collaborative environment that\u2019ll make us successful students and friends for life. Don\u2019t Be Grim, Vote For Andrew Kim!",
+      "platform points": [
+        "Off campus mixers - so we can get to know each other!",
+        "Microgrants \u2013 that fund your own events!",
+        "Free merch \u2013 P sweaters, t-shirts, face masks!",
+        "\u201cCoffee chats\u201d with Nursing leadership about the state of nursing and healthcare policy",
+        "Group study sessions - help us succeed academically"
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/andrew-kim.jpeg"
+      }
+    },
+    {
+      "name": "Nancy Lam",
+      "introduction": "Hi Penn Nursing peers! My name is Nancy, and I am excited to announce my candidacy for Nursing Class Chair. Born and raised in Philly, I hope to introduce you to all that this city has to offer and make memories with you through Penn traditions. Since this is a transition from virtual to in-person learning for most of us, I will use my position as Nursing Class Chair to ensure that we make the most of our college experience by fostering school pride while also prioritizing your needs. Therefore, please support me in this election for Nursing Class Chair!",
+      "platform points": [
+        "\u201cIn Retrospect\u201d: Meetings where upperclassmen describe their story and give advice",
+        "\u201cPenn Nurses Today\u201d: Organizing Penn Alumni panels where students can learn about specific nursing specialties and education pathways",
+        "Group Study Sessions: All day study sessions organized before major tests or exams, which fosters community and unity!",
+        "\u201cWe\u2019re All in This Together\u201d: Filling a box with anonymous affirmations/worries so that we know we\u2019re all in this together!"
+      ],
+      "image": {
+        "src": "../../../images/2021/nec-fall/nancy-lam.jpeg"
+      }
+    }
+  ]
+}
