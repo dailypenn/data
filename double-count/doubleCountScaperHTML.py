@@ -1,4 +1,3 @@
-
 import requests
 from bs4 import BeautifulSoup as bs
 import pandas as pd
@@ -72,7 +71,7 @@ courses_combined = courses_combined.groupby('course_name').agg({'course_code': '
 courses_combined = courses_combined.sort_values(['course_name']).reset_index()
 courses_combined = courses_combined.rename(columns = {'course_name': 'Course Name', 'course_code': 'Course Code', 'sector': 'Sector'})
 
-with open('double_count_table_2021.html', 'w+') as htmlfile:
+with open('double_count_table_2022s.html', 'w+') as htmlfile:
     courses_combined.to_html(htmlfile)
 
 # with open('double_count_table.csv', 'w+') as csvfile:

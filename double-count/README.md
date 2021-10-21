@@ -1,3 +1,7 @@
+# Setup
+pip3 install pandas --user
+pip3 install ...
+
 # Double Counting Courses
 
 The data in this folder contains information about courses that double count

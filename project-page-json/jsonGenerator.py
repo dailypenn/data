@@ -17,7 +17,7 @@ def make_json(csvFilePath, jsonFilePath):
 
         isSection = re.search("^---.*---$", newLine[0])
         if isSection:
-            currSection = newLine[0].replace('-', '').replace(' ', '_').lower()
+            currSection = newLine[0].replace('-', '').strip().replace(' ', '_').lower()
             data[currSection] = []
             content = False
 
@@ -44,8 +44,8 @@ def make_json(csvFilePath, jsonFilePath):
     with open(jsonFilePath, 'w', encoding='utf-8') as jsonf:
         jsonf.write(json.dumps([data], indent=4))
     
-csvFilePath = r'welcomeback2022.csv'
-jsonFilePath = r'welcomeback2022.json'
+csvFilePath = r'/Users/raunaqsingh/Developer/data/project-page-json/dining-guide-fall-2021.csv'
+jsonFilePath = r'/Users/raunaqsingh/Developer/data/project-page-json/dining-guide-fall-2021.json'
  
 # Call the make_json function
 make_json(csvFilePath, jsonFilePath)
