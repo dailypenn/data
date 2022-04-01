@@ -1,6 +1,9 @@
 import csv
 import json
 import re
+import gdown
+import shutil
+import os
 
 def make_json(csvFilePath, jsonFilePath, imagePath):
      
@@ -11,18 +14,23 @@ def make_json(csvFilePath, jsonFilePath, imagePath):
     for row in csv_data:
         # update for dif. spreadsheets!
         candidateData = {}
-        candidateData['name']=row[2].strip()
-        candidateData['introduction']=row[4].strip()
+        candidateData['name']=row[1].strip()
+        candidateData['introduction']=row[2].strip()
         platform_points = []
-        for x in range(5,11):
-            if(row[x]):
+        for x in range(3,9):
+            if(row[x].strip()):
                 platform_points.append(row[x].strip())
         candidateData['platform points']=platform_points
 
-        imgFileName = row[2].strip().lower().replace(" ", "-") + ".jpeg";
+        # imgFileName = row[1].strip().lower().replace(" ", "-") + ".jpeg"
+        imgFileName = row[1].strip().replace(" ", "_") + "_DPPhoto.jpeg"
         candidateData['image']={"src": imagePath + imgFileName}
+        
+        candidateData['instagram handle']=row[10].replace("@", "").strip()
+        candidateData['facebook url']=row[9].strip()
+        candidateData['campaign website']=row[11].strip()
 
-        position = row[3].strip()
+        position = row[0].strip()
         print(position)
         if position.startswith("Class Board "):
             position = position[len("Class Board "):]
@@ -36,10 +44,20 @@ def make_json(csvFilePath, jsonFilePath, imagePath):
 
         with open(jsonFilePath, 'w', encoding='utf-8') as jsonf:
             jsonf.write(json.dumps(data, indent=2))
+        
+        output = imgFileName
+        gdown.download(row[12].strip(), output, quiet=True, fuzzy=True)
+        try:
+            shutil.move(imgFileName, "candidate-images")
+        except:
+            try:
+                os.remove(imgFileName)
+            except:
+                print("Error downloading image: " + imgFileName)
 
-csvFilePath = r'/Users/raunaqsingh/Developer/data/nec-candidates/Class_Board_Information_2025.csv'
-jsonFilePath = r'/Users/raunaqsingh/Developer/data/nec-candidates/cb.json'
-imagePath = "../../../images/2021/nec-fall/" 
+csvFilePath = r'/Users/raunaqsingh/Developer/data/nec-candidates/cb_25.csv'
+jsonFilePath = r'/Users/raunaqsingh/Developer/data/nec-candidates/cb_25.json'
+imagePath = "../../../images/2022/nec/"
 
 # Call the make_json function
 make_json(csvFilePath, jsonFilePath, imagePath)
