@@ -1,12 +1,9 @@
-import requests
 from bs4 import BeautifulSoup as bs
 import pandas as pd
-import csv
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ec
 from selenium.webdriver.common.by import By
-import time
 
 courses_sectors = pd.DataFrame(columns=['course_name', 'course_code', 'sector'])
 courses_foundations = pd.DataFrame(columns=['course_name', 'course_code', 'foundations'])
@@ -33,7 +30,7 @@ FOUNDATIONS = {
     "Formal Reasoning & Analysis"      : "course_attributes_AUFR",
     "Cross Cultural Analysis"          : "course_attributes_AUCC",
     "Cultural Diversity in the U.S."   : "course_attributes_AUCD",
-    "Language"                         : "course_attributes_AULG",
+    "Language"                         : "course_attributes_AULA",
     "Writing"                          : "course_attributes_AUWR"
 }
 
@@ -82,16 +79,48 @@ courses_sectors = courses_sectors.drop_duplicates()
 courses_foundations = courses_foundations.drop_duplicates()
 courses_combined = courses_sectors.apply(getFoundation, axis = 1)
 courses_combined = courses_combined.dropna()
-courses_combined = courses_combined.groupby('course_name').agg({'course_code': '\\n'.join, 'sector': 'first', 'Foundation': 'first'})
+courses_combined = courses_combined.groupby('course_name').agg({'course_code': '<br>'.join, 'sector': 'first', 'Foundation': 'first'})
 courses_combined = courses_combined.sort_values(['course_name']).reset_index()
 courses_combined = courses_combined.rename(columns = {'course_name': 'Course Name', 'course_code': 'Course Code', 'sector': 'Sector'})
 
 html_file_name = 'double_count_table_2022f.html'
 
 with open(html_file_name, 'w+') as htmlfile:
-    courses_combined.to_html(htmlfile)
+    courses_combined.to_html(htmlfile, escape = False)
 
 ## DON'T FORGET TO CHANGE TABLE STYLE AND INSERT SCRIPTS AT THE BOTTOM OF HTML FILE (see previous tables)!
+
+# <table id="doublecount" class="table table-striped compact" style="width:100%;font-size:16px;">
+
+#<colgroup>
+#     <col span="1" style="width: 2%;">
+#     <col span="1" style="width: 40%;">
+#     <col span="1" style="width: 18%;">
+# </colgroup>
+
+# <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+# <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+# <script type="text/javascript">
+#   $(document).ready(function() {
+#     $('#doublecount').DataTable({
+#     	"order": [[ 0, "asc" ]]
+# 	});
+# } );
+# </script>
+# <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css"/>
+# <style>
+#   [type="search"] {
+#    height: 28px;
+# padding: 3px 12px;
+# font-size: 14px;
+# line-height: 1.428571429;
+# color: #555;
+# background-color: #fff;
+# background-image: none;
+# border: 1px solid #ccc;
+# border-radius: 4px;
+#   }
+# </style>
 
 # with open(html_file_name, 'r+') as htmlfile:
 #     contents = htmlfile.read()
